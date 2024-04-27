@@ -1,0 +1,4920 @@
+Rule #1: ['Below Average EFG'] -> ['Low TRB']
+Support: 0.16759776536312848
+Confidence: 0.923076923076923
+
+Rule #2: ['Low 2P%'] -> ['Low TRB']
+Support: 0.2709497206703911
+Confidence: 0.9509803921568629
+
+Rule #3: ['Low MP'] -> ['Low AST']
+Support: 0.22346368715083798
+Confidence: 0.9523809523809523
+
+Rule #4: ['Very Low PPG'] -> ['Low AST']
+Support: 0.18435754189944134
+Confidence: 0.9166666666666666
+
+Rule #5: ['Low MP'] -> ['Low Defensive Impact']
+Support: 0.22905027932960895
+Confidence: 0.9761904761904762
+
+Rule #6: ['Low Mistakes'] -> ['Low Defensive Impact']
+Support: 0.4664804469273743
+Confidence: 0.9277777777777777
+
+Rule #7: ['Very Low PPG'] -> ['Low Defensive Impact']
+Support: 0.19832402234636873
+Confidence: 0.9861111111111112
+
+Rule #8: ['Low MP'] -> ['Low FGA']
+Support: 0.2346368715083799
+Confidence: 1.0
+
+Rule #9: ['Low PPG'] -> ['Low FGA']
+Support: 0.3240223463687151
+Confidence: 0.9830508474576272
+
+Rule #10: ['Very Low PPG'] -> ['Low FGA']
+Support: 0.2011173184357542
+Confidence: 1.0
+
+Rule #11: ['Low MP'] -> ['Low Mistakes']
+Support: 0.22905027932960895
+Confidence: 0.9761904761904762
+
+Rule #12: ['Low MP'] -> ['Low TRB']
+Support: 0.22905027932960895
+Confidence: 0.9761904761904762
+
+Rule #13: ['Low Mistakes'] -> ['Low TRB']
+Support: 0.4692737430167598
+Confidence: 0.9333333333333333
+
+Rule #14: ['Very Low PPG'] -> ['Low Mistakes']
+Support: 0.19832402234636873
+Confidence: 0.9861111111111112
+
+Rule #15: ['PG'] -> ['Low TRB']
+Support: 0.15921787709497207
+Confidence: 0.9193548387096774
+
+Rule #16: ['Very Low PPG'] -> ['Low TRB']
+Support: 0.19553072625698323
+Confidence: 0.9722222222222221
+
+Rule #17: ['Bad FT Shooter', 'Above Average EFG'] -> ['Above Average 2P%']
+Support: 0.16759776536312848
+Confidence: 0.9374999999999999
+
+Rule #18: ['Low Mistakes', 'Above Average 2P%'] -> ['Low Defensive Impact']
+Support: 0.20670391061452514
+Confidence: 0.925
+
+Rule #19: ['Low Mistakes', 'Above Average 2P%'] -> ['Low FGA']
+Support: 0.20670391061452514
+Confidence: 0.925
+
+Rule #20: ['Low PPG', 'Above Average 2P%'] -> ['Low FGA']
+Support: 0.16201117318435754
+Confidence: 1.0
+
+Rule #21: ['Low Mistakes', 'Above Average 2P%'] -> ['Low TRB']
+Support: 0.2011173184357542
+Confidence: 0.9000000000000001
+
+Rule #22: ['Average 3PT Shooter', 'High MP'] -> ['High Mistakes']
+Support: 0.16759776536312848
+Confidence: 0.9090909090909091
+
+Rule #23: ['Average 3PT Shooter', 'Low FGA'] -> ['Low Defensive Impact']
+Support: 0.17039106145251395
+Confidence: 0.9104477611940298
+
+Rule #24: ['Average 3PT Shooter', 'Low Mistakes'] -> ['Low Defensive Impact']
+Support: 0.16201117318435754
+Confidence: 0.9354838709677419
+
+Rule #25: ['Average 3PT Shooter', 'Low Mistakes'] -> ['Low TRB']
+Support: 0.164804469273743
+Confidence: 0.9516129032258064
+
+Rule #26: ['Low PPG', 'Average EFG'] -> ['Low FGA']
+Support: 0.18156424581005587
+Confidence: 0.9848484848484849
+
+Rule #27: ['Low Mistakes', 'Average EFG'] -> ['Low TRB']
+Support: 0.22625698324022347
+Confidence: 0.9310344827586208
+
+Rule #28: ['Bad 3PT Shooter', 'Low TRB'] -> ['Low Defensive Impact']
+Support: 0.17039106145251395
+Confidence: 0.9104477611940298
+
+Rule #29: ['Low MP', 'Bad FT Shooter'] -> ['Low AST']
+Support: 0.17318435754189945
+Confidence: 0.9538461538461539
+
+Rule #30: ['Bad FT Shooter', 'Very Low PPG'] -> ['Low AST']
+Support: 0.15083798882681565
+Confidence: 0.9473684210526316
+
+Rule #31: ['Low MP', 'Bad FT Shooter'] -> ['Low Defensive Impact']
+Support: 0.17597765363128492
+Confidence: 0.9692307692307692
+
+Rule #32: ['Low Mistakes', 'Bad FT Shooter'] -> ['Low Defensive Impact']
+Support: 0.31843575418994413
+Confidence: 0.9344262295081968
+
+Rule #33: ['Bad FT Shooter', 'Very Low PPG'] -> ['Low Defensive Impact']
+Support: 0.15921787709497207
+Confidence: 1.0
+
+Rule #34: ['Low MP', 'Bad FT Shooter'] -> ['Low FGA']
+Support: 0.18156424581005587
+Confidence: 1.0
+
+Rule #35: ['Low PPG', 'Bad FT Shooter'] -> ['Low FGA']
+Support: 0.21508379888268156
+Confidence: 0.9871794871794872
+
+Rule #36: ['Bad FT Shooter', 'Very Low PPG'] -> ['Low FGA']
+Support: 0.15921787709497207
+Confidence: 1.0
+
+Rule #37: ['Low MP', 'Bad FT Shooter'] -> ['Low Mistakes']
+Support: 0.17597765363128492
+Confidence: 0.9692307692307692
+
+Rule #38: ['Low MP', 'Bad FT Shooter'] -> ['Low TRB']
+Support: 0.17597765363128492
+Confidence: 0.9692307692307692
+
+Rule #39: ['Low Mistakes', 'Bad FT Shooter'] -> ['Low TRB']
+Support: 0.31843575418994413
+Confidence: 0.9344262295081968
+
+Rule #40: ['Bad FT Shooter', 'Very Low PPG'] -> ['Low Mistakes']
+Support: 0.1564245810055866
+Confidence: 0.9824561403508772
+
+Rule #41: ['Bad FT Shooter', 'Very Low PPG'] -> ['Low TRB']
+Support: 0.15363128491620112
+Confidence: 0.9649122807017544
+
+Rule #42: ['Low Defensive Impact', 'Below Average EFG'] -> ['Low TRB']
+Support: 0.15363128491620112
+Confidence: 0.9482758620689655
+
+Rule #43: ['Low TRB', 'Below Average EFG'] -> ['Low Defensive Impact']
+Support: 0.15363128491620112
+Confidence: 0.9166666666666667
+
+Rule #44: ['Developing', 'High MP'] -> ['High Mistakes']
+Support: 0.164804469273743
+Confidence: 0.9218749999999999
+
+Rule #45: ['Developing', 'Low 2P%'] -> ['Low TRB']
+Support: 0.15363128491620112
+Confidence: 0.9322033898305085
+
+Rule #46: ['Developing', 'Low Mistakes'] -> ['Low Defensive Impact']
+Support: 0.22625698324022347
+Confidence: 0.9418604651162791
+
+Rule #47: ['Developing', 'Low PPG'] -> ['Low FGA']
+Support: 0.15363128491620112
+Confidence: 0.9821428571428572
+
+Rule #48: ['Developing', 'Low Mistakes'] -> ['Low TRB']
+Support: 0.22905027932960895
+Confidence: 0.9534883720930233
+
+Rule #49: ['Low Defensive Impact', 'Good FT Shooter'] -> ['Low TRB']
+Support: 0.2569832402234637
+Confidence: 0.9108910891089109
+
+Rule #50: ['Low FGA', 'Good FT Shooter'] -> ['Low TRB']
+Support: 0.16201117318435754
+Confidence: 0.9354838709677419
+
+Rule #51: ['Low Mistakes', 'Good FT Shooter'] -> ['Low TRB']
+Support: 0.15083798882681565
+Confidence: 0.9310344827586208
+
+Rule #52: ['High MP', 'High Defensive Impact'] -> ['High Mistakes']
+Support: 0.19553072625698323
+Confidence: 0.9459459459459458
+
+Rule #53: ['Low AST', 'Low 2P%'] -> ['Low TRB']
+Support: 0.15083798882681565
+Confidence: 1.0
+
+Rule #54: ['Low FGA', 'Low 2P%'] -> ['Low Defensive Impact']
+Support: 0.16759776536312848
+Confidence: 0.9374999999999999
+
+Rule #55: ['Low Mistakes', 'Low 2P%'] -> ['Low Defensive Impact']
+Support: 0.16759776536312848
+Confidence: 0.9836065573770492
+
+Rule #56: ['Low Defensive Impact', 'Low 2P%'] -> ['Low TRB']
+Support: 0.2430167597765363
+Confidence: 0.9666666666666666
+
+Rule #57: ['Low Mistakes', 'Low 2P%'] -> ['Low FGA']
+Support: 0.15363128491620112
+Confidence: 0.9016393442622952
+
+Rule #58: ['Low FGA', 'Low 2P%'] -> ['Low TRB']
+Support: 0.17597765363128492
+Confidence: 0.984375
+
+Rule #59: ['Low Mistakes', 'Low 2P%'] -> ['Low TRB']
+Support: 0.17039106145251395
+Confidence: 1.0
+
+Rule #60: ['Low MP'] -> ['Low Defensive Impact', 'Low AST']
+Support: 0.21787709497206703
+Confidence: 0.9285714285714285
+
+Rule #61: ['Low MP', 'Low AST'] -> ['Low Defensive Impact']
+Support: 0.21787709497206703
+Confidence: 0.975
+
+Rule #62: ['Low MP', 'Low Defensive Impact'] -> ['Low AST']
+Support: 0.21787709497206703
+Confidence: 0.9512195121951219
+
+Rule #63: ['Low Mistakes', 'Low AST'] -> ['Low Defensive Impact']
+Support: 0.38268156424581007
+Confidence: 0.9513888888888888
+
+Rule #64: ['Low Defensive Impact', 'Low AST'] -> ['Low TRB']
+Support: 0.40502793296089384
+Confidence: 0.90625
+
+Rule #65: ['Low AST', 'Low TRB'] -> ['Low Defensive Impact']
+Support: 0.40502793296089384
+Confidence: 0.9235668789808916
+
+Rule #66: ['Very Low PPG'] -> ['Low Defensive Impact', 'Low AST']
+Support: 0.18156424581005587
+Confidence: 0.9027777777777778
+
+Rule #67: ['Low AST', 'Very Low PPG'] -> ['Low Defensive Impact']
+Support: 0.18156424581005587
+Confidence: 0.9848484848484849
+
+Rule #68: ['Low Defensive Impact', 'Very Low PPG'] -> ['Low AST']
+Support: 0.18156424581005587
+Confidence: 0.9154929577464789
+
+Rule #69: ['Low MP'] -> ['Low FGA', 'Low AST']
+Support: 0.22346368715083798
+Confidence: 0.9523809523809523
+
+Rule #70: ['Low MP', 'Low AST'] -> ['Low FGA']
+Support: 0.22346368715083798
+Confidence: 1.0
+
+Rule #71: ['Low FGA', 'Low MP'] -> ['Low AST']
+Support: 0.22346368715083798
+Confidence: 0.9523809523809523
+
+Rule #72: ['Low Mistakes', 'Low AST'] -> ['Low FGA']
+Support: 0.3659217877094972
+Confidence: 0.9097222222222221
+
+Rule #73: ['Low PPG', 'Low AST'] -> ['Low FGA']
+Support: 0.22346368715083798
+Confidence: 1.0
+
+Rule #74: ['Very Low PPG'] -> ['Low FGA', 'Low AST']
+Support: 0.18435754189944134
+Confidence: 0.9166666666666666
+
+Rule #75: ['Low AST', 'Very Low PPG'] -> ['Low FGA']
+Support: 0.18435754189944134
+Confidence: 1.0
+
+Rule #76: ['Low FGA', 'Very Low PPG'] -> ['Low AST']
+Support: 0.18435754189944134
+Confidence: 0.9166666666666666
+
+Rule #77: ['Low MP'] -> ['Low Mistakes', 'Low AST']
+Support: 0.21787709497206703
+Confidence: 0.9285714285714285
+
+Rule #78: ['Low MP', 'Low AST'] -> ['Low Mistakes']
+Support: 0.21787709497206703
+Confidence: 0.975
+
+Rule #79: ['Low Mistakes', 'Low MP'] -> ['Low AST']
+Support: 0.21787709497206703
+Confidence: 0.9512195121951219
+
+Rule #80: ['Low MP'] -> ['Low AST', 'Low TRB']
+Support: 0.21787709497206703
+Confidence: 0.9285714285714285
+
+Rule #81: ['Low MP', 'Low AST'] -> ['Low TRB']
+Support: 0.21787709497206703
+Confidence: 0.975
+
+Rule #82: ['Low MP', 'Low TRB'] -> ['Low AST']
+Support: 0.21787709497206703
+Confidence: 0.9512195121951219
+
+Rule #83: ['Low MP', 'Very Low PPG'] -> ['Low AST']
+Support: 0.16201117318435754
+Confidence: 0.9508196721311476
+
+Rule #84: ['Low Mistakes', 'Low AST'] -> ['Low TRB']
+Support: 0.38268156424581007
+Confidence: 0.9513888888888888
+
+Rule #85: ['Very Low PPG'] -> ['Low Mistakes', 'Low AST']
+Support: 0.18156424581005587
+Confidence: 0.9027777777777778
+
+Rule #86: ['Low AST', 'Very Low PPG'] -> ['Low Mistakes']
+Support: 0.18156424581005587
+Confidence: 0.9848484848484849
+
+Rule #87: ['Low Mistakes', 'Very Low PPG'] -> ['Low AST']
+Support: 0.18156424581005587
+Confidence: 0.9154929577464789
+
+Rule #88: ['Low AST', 'Very Low PPG'] -> ['Low TRB']
+Support: 0.1787709497206704
+Confidence: 0.9696969696969697
+
+Rule #89: ['Low TRB', 'Very Low PPG'] -> ['Low AST']
+Support: 0.1787709497206704
+Confidence: 0.9142857142857144
+
+Rule #90: ['Low MP'] -> ['Low FGA', 'Low Defensive Impact']
+Support: 0.22905027932960895
+Confidence: 0.9761904761904762
+
+Rule #91: ['Low MP', 'Low Defensive Impact'] -> ['Low FGA']
+Support: 0.22905027932960895
+Confidence: 1.0
+
+Rule #92: ['Low FGA', 'Low MP'] -> ['Low Defensive Impact']
+Support: 0.22905027932960895
+Confidence: 0.9761904761904762
+
+Rule #93: ['Low FGA', 'Low Mistakes'] -> ['Low Defensive Impact']
+Support: 0.41620111731843573
+Confidence: 0.9371069182389936
+
+Rule #94: ['Low PPG', 'Low Defensive Impact'] -> ['Low FGA']
+Support: 0.2569832402234637
+Confidence: 0.9787234042553191
+
+Rule #95: ['Low FGA', 'Low Defensive Impact'] -> ['Low TRB']
+Support: 0.44972067039106145
+Confidence: 0.9147727272727273
+
+Rule #96: ['Low FGA', 'Low TRB'] -> ['Low Defensive Impact']
+Support: 0.44972067039106145
+Confidence: 0.9147727272727273
+
+Rule #97: ['Very Low PPG'] -> ['Low FGA', 'Low Defensive Impact']
+Support: 0.19832402234636873
+Confidence: 0.9861111111111112
+
+Rule #98: ['Low Defensive Impact', 'Very Low PPG'] -> ['Low FGA']
+Support: 0.19832402234636873
+Confidence: 1.0
+
+Rule #99: ['Low FGA', 'Very Low PPG'] -> ['Low Defensive Impact']
+Support: 0.19832402234636873
+Confidence: 0.9861111111111112
+
+Rule #100: ['Low MP'] -> ['Low Mistakes', 'Low Defensive Impact']
+Support: 0.22625698324022347
+Confidence: 0.9642857142857143
+
+Rule #101: ['Low MP', 'Low Defensive Impact'] -> ['Low Mistakes']
+Support: 0.22625698324022347
+Confidence: 0.9878048780487805
+
+Rule #102: ['Low Mistakes', 'Low MP'] -> ['Low Defensive Impact']
+Support: 0.22625698324022347
+Confidence: 0.9878048780487805
+
+Rule #103: ['Low MP'] -> ['Low Defensive Impact', 'Low TRB']
+Support: 0.22346368715083798
+Confidence: 0.9523809523809523
+
+Rule #104: ['Low MP', 'Low Defensive Impact'] -> ['Low TRB']
+Support: 0.22346368715083798
+Confidence: 0.9756097560975608
+
+Rule #105: ['Low MP', 'Low TRB'] -> ['Low Defensive Impact']
+Support: 0.22346368715083798
+Confidence: 0.9756097560975608
+
+Rule #106: ['Low MP', 'Very Low PPG'] -> ['Low Defensive Impact']
+Support: 0.17039106145251395
+Confidence: 1.0
+
+Rule #107: ['Low Mistakes', 'Low Defensive Impact'] -> ['Low TRB']
+Support: 0.44972067039106145
+Confidence: 0.9640718562874252
+
+Rule #108: ['Low Mistakes', 'Low TRB'] -> ['Low Defensive Impact']
+Support: 0.44972067039106145
+Confidence: 0.9583333333333334
+
+Rule #109: ['Low Mistakes', 'Medium MP'] -> ['Low Defensive Impact']
+Support: 0.2011173184357542
+Confidence: 0.9000000000000001
+
+Rule #110: ['Low Mistakes', 'Prime'] -> ['Low Defensive Impact']
+Support: 0.18994413407821228
+Confidence: 0.9189189189189189
+
+Rule #111: ['Very Low PPG'] -> ['Low Mistakes', 'Low Defensive Impact']
+Support: 0.19553072625698323
+Confidence: 0.9722222222222221
+
+Rule #112: ['Low Defensive Impact', 'Very Low PPG'] -> ['Low Mistakes']
+Support: 0.19553072625698323
+Confidence: 0.9859154929577464
+
+Rule #113: ['Low Mistakes', 'Very Low PPG'] -> ['Low Defensive Impact']
+Support: 0.19553072625698323
+Confidence: 0.9859154929577464
+
+Rule #114: ['Low PPG', 'Low Defensive Impact'] -> ['Low TRB']
+Support: 0.24022346368715083
+Confidence: 0.9148936170212766
+
+Rule #115: ['Medium MP', 'Low TRB'] -> ['Low Defensive Impact']
+Support: 0.24581005586592178
+Confidence: 0.9166666666666666
+
+Rule #116: ['Low Defensive Impact', 'SG'] -> ['Low TRB']
+Support: 0.16759776536312848
+Confidence: 0.9374999999999999
+
+Rule #117: ['Very Low PPG'] -> ['Low Defensive Impact', 'Low TRB']
+Support: 0.19273743016759776
+Confidence: 0.9583333333333333
+
+Rule #118: ['Low Defensive Impact', 'Very Low PPG'] -> ['Low TRB']
+Support: 0.19273743016759776
+Confidence: 0.9718309859154929
+
+Rule #119: ['Low TRB', 'Very Low PPG'] -> ['Low Defensive Impact']
+Support: 0.19273743016759776
+Confidence: 0.9857142857142858
+
+Rule #120: ['Low MP'] -> ['Low Mistakes', 'Low FGA']
+Support: 0.22905027932960895
+Confidence: 0.9761904761904762
+
+Rule #121: ['Low FGA', 'Low MP'] -> ['Low Mistakes']
+Support: 0.22905027932960895
+Confidence: 0.9761904761904762
+
+Rule #122: ['Low Mistakes', 'Low MP'] -> ['Low FGA']
+Support: 0.22905027932960895
+Confidence: 1.0
+
+Rule #123: ['Low MP'] -> ['Low FGA', 'Low TRB']
+Support: 0.22905027932960895
+Confidence: 0.9761904761904762
+
+Rule #124: ['Low FGA', 'Low MP'] -> ['Low TRB']
+Support: 0.22905027932960895
+Confidence: 0.9761904761904762
+
+Rule #125: ['Low MP', 'Low TRB'] -> ['Low FGA']
+Support: 0.22905027932960895
+Confidence: 1.0
+
+Rule #126: ['Low MP', 'Very Low PPG'] -> ['Low FGA']
+Support: 0.17039106145251395
+Confidence: 1.0
+
+Rule #127: ['Low Mistakes', 'Low PPG'] -> ['Low FGA']
+Support: 0.23184357541899442
+Confidence: 0.9880952380952381
+
+Rule #128: ['Low FGA', 'Low Mistakes'] -> ['Low TRB']
+Support: 0.42178770949720673
+Confidence: 0.949685534591195
+
+Rule #129: ['Very Low PPG'] -> ['Low FGA', 'Low Mistakes']
+Support: 0.19832402234636873
+Confidence: 0.9861111111111112
+
+Rule #130: ['Low FGA', 'Very Low PPG'] -> ['Low Mistakes']
+Support: 0.19832402234636873
+Confidence: 0.9861111111111112
+
+Rule #131: ['Low Mistakes', 'Very Low PPG'] -> ['Low FGA']
+Support: 0.19832402234636873
+Confidence: 1.0
+
+Rule #132: ['Low PPG', 'Low TRB'] -> ['Low FGA']
+Support: 0.26536312849162014
+Confidence: 0.9793814432989691
+
+Rule #133: ['Medium MP', 'Low PPG'] -> ['Low FGA']
+Support: 0.2206703910614525
+Confidence: 0.9753086419753085
+
+Rule #134: ['Very Low PPG'] -> ['Low FGA', 'Low TRB']
+Support: 0.19553072625698323
+Confidence: 0.9722222222222221
+
+Rule #135: ['Low FGA', 'Very Low PPG'] -> ['Low TRB']
+Support: 0.19553072625698323
+Confidence: 0.9722222222222221
+
+Rule #136: ['Low TRB', 'Very Low PPG'] -> ['Low FGA']
+Support: 0.19553072625698323
+Confidence: 1.0
+
+Rule #137: ['Low MP'] -> ['Low Mistakes', 'Low TRB']
+Support: 0.22625698324022347
+Confidence: 0.9642857142857143
+
+Rule #138: ['Low Mistakes', 'Low MP'] -> ['Low TRB']
+Support: 0.22625698324022347
+Confidence: 0.9878048780487805
+
+Rule #139: ['Low MP', 'Low TRB'] -> ['Low Mistakes']
+Support: 0.22625698324022347
+Confidence: 0.9878048780487805
+
+Rule #140: ['Low MP', 'Very Low PPG'] -> ['Low Mistakes']
+Support: 0.17039106145251395
+Confidence: 1.0
+
+Rule #141: ['Low MP', 'Very Low PPG'] -> ['Low TRB']
+Support: 0.17039106145251395
+Confidence: 1.0
+
+Rule #142: ['Low Mistakes', 'Low PPG'] -> ['Low TRB']
+Support: 0.21787709497206703
+Confidence: 0.9285714285714285
+
+Rule #143: ['Low Mistakes', 'Medium MP'] -> ['Low TRB']
+Support: 0.20391061452513967
+Confidence: 0.9125000000000001
+
+Rule #144: ['Low Mistakes', 'Prime'] -> ['Low TRB']
+Support: 0.19553072625698323
+Confidence: 0.9459459459459458
+
+Rule #145: ['Very Low PPG'] -> ['Low Mistakes', 'Low TRB']
+Support: 0.19553072625698323
+Confidence: 0.9722222222222221
+
+Rule #146: ['Low Mistakes', 'Very Low PPG'] -> ['Low TRB']
+Support: 0.19553072625698323
+Confidence: 0.9859154929577464
+
+Rule #147: ['Low TRB', 'Very Low PPG'] -> ['Low Mistakes']
+Support: 0.19553072625698323
+Confidence: 1.0
+
+Rule #148: ['Low Mistakes', 'Bad FT Shooter', 'Above Average 2P%'] -> ['Low Defensive Impact']
+Support: 0.15363128491620112
+Confidence: 0.9322033898305085
+
+Rule #149: ['Bad FT Shooter', 'Low TRB', 'Above Average 2P%'] -> ['Low Defensive Impact']
+Support: 0.16201117318435754
+Confidence: 0.90625
+
+Rule #150: ['Low Mistakes', 'Bad FT Shooter', 'Above Average 2P%'] -> ['Low FGA']
+Support: 0.15083798882681565
+Confidence: 0.9152542372881357
+
+Rule #151: ['Low Defensive Impact', 'Low AST', 'Above Average 2P%'] -> ['Low FGA']
+Support: 0.19273743016759776
+Confidence: 0.9078947368421052
+
+Rule #152: ['Low Mistakes', 'Low AST', 'Above Average 2P%'] -> ['Low Defensive Impact']
+Support: 0.1787709497206704
+Confidence: 0.9275362318840581
+
+Rule #153: ['Low AST', 'Low TRB', 'Above Average 2P%'] -> ['Low Defensive Impact']
+Support: 0.1787709497206704
+Confidence: 0.9275362318840581
+
+Rule #154: ['Low Mistakes', 'Low AST', 'Above Average 2P%'] -> ['Low FGA']
+Support: 0.1787709497206704
+Confidence: 0.9275362318840581
+
+Rule #155: ['Low AST', 'Low TRB', 'Above Average 2P%'] -> ['Low FGA']
+Support: 0.17597765363128492
+Confidence: 0.9130434782608696
+
+Rule #156: ['Low Mistakes', 'Low AST', 'Above Average 2P%'] -> ['Low TRB']
+Support: 0.17597765363128492
+Confidence: 0.9130434782608696
+
+Rule #157: ['Low AST', 'Low TRB', 'Above Average 2P%'] -> ['Low Mistakes']
+Support: 0.17597765363128492
+Confidence: 0.9130434782608696
+
+Rule #158: ['Low Mistakes', 'Low Defensive Impact', 'Above Average 2P%'] -> ['Low FGA']
+Support: 0.18994413407821228
+Confidence: 0.9189189189189189
+
+Rule #159: ['Low FGA', 'Low Mistakes', 'Above Average 2P%'] -> ['Low Defensive Impact']
+Support: 0.18994413407821228
+Confidence: 0.9189189189189189
+
+Rule #160: ['Low FGA', 'Low TRB', 'Above Average 2P%'] -> ['Low Defensive Impact']
+Support: 0.19832402234636873
+Confidence: 0.9102564102564104
+
+Rule #161: ['Low Mistakes', 'Low Defensive Impact', 'Above Average 2P%'] -> ['Low TRB']
+Support: 0.19273743016759776
+Confidence: 0.9324324324324323
+
+Rule #162: ['Low Mistakes', 'Low TRB', 'Above Average 2P%'] -> ['Low Defensive Impact']
+Support: 0.19273743016759776
+Confidence: 0.9583333333333333
+
+Rule #163: ['Low Mistakes', 'Low TRB', 'Above Average 2P%'] -> ['Low FGA']
+Support: 0.18435754189944134
+Confidence: 0.9166666666666666
+
+Rule #164: ['Average 3PT Shooter', 'Low Defensive Impact', 'Low FGA'] -> ['Low TRB']
+Support: 0.15921787709497207
+Confidence: 0.9344262295081968
+
+Rule #165: ['Average 3PT Shooter', 'Low TRB', 'Low FGA'] -> ['Low Defensive Impact']
+Support: 0.15921787709497207
+Confidence: 0.9500000000000001
+
+Rule #166: ['Average 3PT Shooter', 'Low Mistakes'] -> ['Low Defensive Impact', 'Low TRB']
+Support: 0.15921787709497207
+Confidence: 0.9193548387096774
+
+Rule #167: ['Low Mistakes', 'Average 3PT Shooter', 'Low Defensive Impact'] -> ['Low TRB']
+Support: 0.15921787709497207
+Confidence: 0.9827586206896551
+
+Rule #168: ['Average 3PT Shooter', 'Low Mistakes', 'Low TRB'] -> ['Low Defensive Impact']
+Support: 0.15921787709497207
+Confidence: 0.9661016949152542
+
+Rule #169: ['Low Defensive Impact', 'Good FT Shooter', 'Average EFG'] -> ['Low TRB']
+Support: 0.17318435754189945
+Confidence: 0.9393939393939394
+
+Rule #170: ['Low Mistakes', 'Low AST', 'Average EFG'] -> ['Low Defensive Impact']
+Support: 0.16759776536312848
+Confidence: 0.923076923076923
+
+Rule #171: ['Low Defensive Impact', 'Low AST', 'Average EFG'] -> ['Low TRB']
+Support: 0.19553072625698323
+Confidence: 0.9333333333333332
+
+Rule #172: ['Low AST', 'Average EFG', 'Low TRB'] -> ['Low Defensive Impact']
+Support: 0.19553072625698323
+Confidence: 0.9090909090909091
+
+Rule #173: ['Low Mistakes', 'Low AST', 'Average EFG'] -> ['Low FGA']
+Support: 0.164804469273743
+Confidence: 0.9076923076923077
+
+Rule #174: ['Low Mistakes', 'Low AST', 'Average EFG'] -> ['Low TRB']
+Support: 0.17597765363128492
+Confidence: 0.9692307692307692
+
+Rule #175: ['Low FGA', 'Low Mistakes', 'Average EFG'] -> ['Low Defensive Impact']
+Support: 0.1871508379888268
+Confidence: 0.9178082191780822
+
+Rule #176: ['Low FGA', 'Low Defensive Impact', 'Average EFG'] -> ['Low TRB']
+Support: 0.21508379888268156
+Confidence: 0.927710843373494
+
+Rule #177: ['Low Mistakes', 'Low Defensive Impact', 'Average EFG'] -> ['Low TRB']
+Support: 0.2122905027932961
+Confidence: 0.9743589743589743
+
+Rule #178: ['Low Mistakes', 'Average EFG', 'Low TRB'] -> ['Low Defensive Impact']
+Support: 0.2122905027932961
+Confidence: 0.9382716049382716
+
+Rule #179: ['Low FGA', 'Low Mistakes', 'Average EFG'] -> ['Low TRB']
+Support: 0.19553072625698323
+Confidence: 0.958904109589041
+
+Rule #180: ['Low PPG', 'Average EFG', 'Low TRB'] -> ['Low FGA']
+Support: 0.15083798882681565
+Confidence: 0.9818181818181818
+
+Rule #181: ['Developing', 'Low Mistakes', 'Bad FT Shooter'] -> ['Low Defensive Impact']
+Support: 0.164804469273743
+Confidence: 0.9218749999999999
+
+Rule #182: ['Developing', 'Low Mistakes', 'Bad FT Shooter'] -> ['Low TRB']
+Support: 0.17039106145251395
+Confidence: 0.9531249999999999
+
+Rule #183: ['Low Defensive Impact', 'Bad FT Shooter', 'Low AST'] -> ['Low FGA']
+Support: 0.2877094972067039
+Confidence: 0.9035087719298246
+
+Rule #184: ['Low MP', 'Bad FT Shooter'] -> ['Low Defensive Impact', 'Low AST']
+Support: 0.16759776536312848
+Confidence: 0.923076923076923
+
+Rule #185: ['Low MP', 'Bad FT Shooter', 'Low AST'] -> ['Low Defensive Impact']
+Support: 0.16759776536312848
+Confidence: 0.9677419354838709
+
+Rule #186: ['Low Defensive Impact', 'Low MP', 'Bad FT Shooter'] -> ['Low AST']
+Support: 0.16759776536312848
+Confidence: 0.9523809523809523
+
+Rule #187: ['Low Mistakes', 'Bad FT Shooter', 'Low AST'] -> ['Low Defensive Impact']
+Support: 0.276536312849162
+Confidence: 0.942857142857143
+
+Rule #188: ['Bad FT Shooter', 'Low AST', 'Low TRB'] -> ['Low Defensive Impact']
+Support: 0.2849162011173184
+Confidence: 0.9107142857142856
+
+Rule #189: ['Bad FT Shooter', 'Very Low PPG'] -> ['Low Defensive Impact', 'Low AST']
+Support: 0.15083798882681565
+Confidence: 0.9473684210526316
+
+Rule #190: ['Bad FT Shooter', 'Low AST', 'Very Low PPG'] -> ['Low Defensive Impact']
+Support: 0.15083798882681565
+Confidence: 1.0
+
+Rule #191: ['Low Defensive Impact', 'Bad FT Shooter', 'Very Low PPG'] -> ['Low AST']
+Support: 0.15083798882681565
+Confidence: 0.9473684210526316
+
+Rule #192: ['Low MP', 'Bad FT Shooter'] -> ['Low FGA', 'Low AST']
+Support: 0.17318435754189945
+Confidence: 0.9538461538461539
+
+Rule #193: ['Low MP', 'Bad FT Shooter', 'Low AST'] -> ['Low FGA']
+Support: 0.17318435754189945
+Confidence: 1.0
+
+Rule #194: ['Low MP', 'Low FGA', 'Bad FT Shooter'] -> ['Low AST']
+Support: 0.17318435754189945
+Confidence: 0.9538461538461539
+
+Rule #195: ['Low Mistakes', 'Bad FT Shooter', 'Low AST'] -> ['Low FGA']
+Support: 0.2709497206703911
+Confidence: 0.9238095238095239
+
+Rule #196: ['Low PPG', 'Bad FT Shooter', 'Low AST'] -> ['Low FGA']
+Support: 0.15921787709497207
+Confidence: 1.0
+
+Rule #197: ['Bad FT Shooter', 'Very Low PPG'] -> ['Low FGA', 'Low AST']
+Support: 0.15083798882681565
+Confidence: 0.9473684210526316
+
+Rule #198: ['Bad FT Shooter', 'Low AST', 'Very Low PPG'] -> ['Low FGA']
+Support: 0.15083798882681565
+Confidence: 1.0
+
+Rule #199: ['Low FGA', 'Bad FT Shooter', 'Very Low PPG'] -> ['Low AST']
+Support: 0.15083798882681565
+Confidence: 0.9473684210526316
+
+Rule #200: ['Low MP', 'Bad FT Shooter'] -> ['Low Mistakes', 'Low AST']
+Support: 0.16759776536312848
+Confidence: 0.923076923076923
+
+Rule #201: ['Low MP', 'Bad FT Shooter', 'Low AST'] -> ['Low Mistakes']
+Support: 0.16759776536312848
+Confidence: 0.9677419354838709
+
+Rule #202: ['Low Mistakes', 'Low MP', 'Bad FT Shooter'] -> ['Low AST']
+Support: 0.16759776536312848
+Confidence: 0.9523809523809523
+
+Rule #203: ['Low MP', 'Bad FT Shooter'] -> ['Low AST', 'Low TRB']
+Support: 0.16759776536312848
+Confidence: 0.923076923076923
+
+Rule #204: ['Low MP', 'Bad FT Shooter', 'Low AST'] -> ['Low TRB']
+Support: 0.16759776536312848
+Confidence: 0.9677419354838709
+
+Rule #205: ['Low MP', 'Bad FT Shooter', 'Low TRB'] -> ['Low AST']
+Support: 0.16759776536312848
+Confidence: 0.9523809523809523
+
+Rule #206: ['Low Mistakes', 'Bad FT Shooter', 'Low AST'] -> ['Low TRB']
+Support: 0.276536312849162
+Confidence: 0.942857142857143
+
+Rule #207: ['Low MP', 'Bad FT Shooter'] -> ['Low FGA', 'Low Defensive Impact']
+Support: 0.17597765363128492
+Confidence: 0.9692307692307692
+
+Rule #208: ['Low Defensive Impact', 'Low MP', 'Bad FT Shooter'] -> ['Low FGA']
+Support: 0.17597765363128492
+Confidence: 1.0
+
+Rule #209: ['Low MP', 'Low FGA', 'Bad FT Shooter'] -> ['Low Defensive Impact']
+Support: 0.17597765363128492
+Confidence: 0.9692307692307692
+
+Rule #210: ['Low Mistakes', 'Low FGA', 'Bad FT Shooter'] -> ['Low Defensive Impact']
+Support: 0.2849162011173184
+Confidence: 0.9357798165137614
+
+Rule #211: ['Low PPG', 'Low Defensive Impact', 'Bad FT Shooter'] -> ['Low FGA']
+Support: 0.1564245810055866
+Confidence: 0.9824561403508772
+
+Rule #212: ['Low FGA', 'Bad FT Shooter', 'Low TRB'] -> ['Low Defensive Impact']
+Support: 0.3016759776536313
+Confidence: 0.9152542372881357
+
+Rule #213: ['Bad FT Shooter', 'Very Low PPG'] -> ['Low FGA', 'Low Defensive Impact']
+Support: 0.15921787709497207
+Confidence: 1.0
+
+Rule #214: ['Low Defensive Impact', 'Bad FT Shooter', 'Very Low PPG'] -> ['Low FGA']
+Support: 0.15921787709497207
+Confidence: 1.0
+
+Rule #215: ['Low FGA', 'Bad FT Shooter', 'Very Low PPG'] -> ['Low Defensive Impact']
+Support: 0.15921787709497207
+Confidence: 1.0
+
+Rule #216: ['Low MP', 'Bad FT Shooter'] -> ['Low Mistakes', 'Low Defensive Impact']
+Support: 0.17318435754189945
+Confidence: 0.9538461538461539
+
+Rule #217: ['Low Defensive Impact', 'Low MP', 'Bad FT Shooter'] -> ['Low Mistakes']
+Support: 0.17318435754189945
+Confidence: 0.9841269841269842
+
+Rule #218: ['Low Mistakes', 'Low MP', 'Bad FT Shooter'] -> ['Low Defensive Impact']
+Support: 0.17318435754189945
+Confidence: 0.9841269841269842
+
+Rule #219: ['Low MP', 'Bad FT Shooter'] -> ['Low Defensive Impact', 'Low TRB']
+Support: 0.17039106145251395
+Confidence: 0.9384615384615383
+
+Rule #220: ['Low Defensive Impact', 'Low MP', 'Bad FT Shooter'] -> ['Low TRB']
+Support: 0.17039106145251395
+Confidence: 0.9682539682539681
+
+Rule #221: ['Low MP', 'Bad FT Shooter', 'Low TRB'] -> ['Low Defensive Impact']
+Support: 0.17039106145251395
+Confidence: 0.9682539682539681
+
+Rule #222: ['Low Defensive Impact', 'Low Mistakes', 'Bad FT Shooter'] -> ['Low TRB']
+Support: 0.30446927374301674
+Confidence: 0.956140350877193
+
+Rule #223: ['Low Mistakes', 'Bad FT Shooter', 'Low TRB'] -> ['Low Defensive Impact']
+Support: 0.30446927374301674
+Confidence: 0.956140350877193
+
+Rule #224: ['Bad FT Shooter', 'Very Low PPG'] -> ['Low Mistakes', 'Low Defensive Impact']
+Support: 0.1564245810055866
+Confidence: 0.9824561403508772
+
+Rule #225: ['Low Defensive Impact', 'Bad FT Shooter', 'Very Low PPG'] -> ['Low Mistakes']
+Support: 0.1564245810055866
+Confidence: 0.9824561403508772
+
+Rule #226: ['Low Mistakes', 'Bad FT Shooter', 'Very Low PPG'] -> ['Low Defensive Impact']
+Support: 0.1564245810055866
+Confidence: 1.0
+
+Rule #227: ['Bad FT Shooter', 'Very Low PPG'] -> ['Low Defensive Impact', 'Low TRB']
+Support: 0.15363128491620112
+Confidence: 0.9649122807017544
+
+Rule #228: ['Low Defensive Impact', 'Bad FT Shooter', 'Very Low PPG'] -> ['Low TRB']
+Support: 0.15363128491620112
+Confidence: 0.9649122807017544
+
+Rule #229: ['Bad FT Shooter', 'Low TRB', 'Very Low PPG'] -> ['Low Defensive Impact']
+Support: 0.15363128491620112
+Confidence: 1.0
+
+Rule #230: ['Low MP', 'Bad FT Shooter'] -> ['Low FGA', 'Low Mistakes']
+Support: 0.17597765363128492
+Confidence: 0.9692307692307692
+
+Rule #231: ['Low MP', 'Low FGA', 'Bad FT Shooter'] -> ['Low Mistakes']
+Support: 0.17597765363128492
+Confidence: 0.9692307692307692
+
+Rule #232: ['Low Mistakes', 'Low MP', 'Bad FT Shooter'] -> ['Low FGA']
+Support: 0.17597765363128492
+Confidence: 1.0
+
+Rule #233: ['Low MP', 'Bad FT Shooter'] -> ['Low FGA', 'Low TRB']
+Support: 0.17597765363128492
+Confidence: 0.9692307692307692
+
+Rule #234: ['Low MP', 'Low FGA', 'Bad FT Shooter'] -> ['Low TRB']
+Support: 0.17597765363128492
+Confidence: 0.9692307692307692
+
+Rule #235: ['Low MP', 'Bad FT Shooter', 'Low TRB'] -> ['Low FGA']
+Support: 0.17597765363128492
+Confidence: 1.0
+
+Rule #236: ['Low Mistakes', 'Low FGA', 'Bad FT Shooter'] -> ['Low TRB']
+Support: 0.2849162011173184
+Confidence: 0.9357798165137614
+
+Rule #237: ['Bad FT Shooter', 'Very Low PPG'] -> ['Low Mistakes', 'Low FGA']
+Support: 0.1564245810055866
+Confidence: 0.9824561403508772
+
+Rule #238: ['Low FGA', 'Bad FT Shooter', 'Very Low PPG'] -> ['Low Mistakes']
+Support: 0.1564245810055866
+Confidence: 0.9824561403508772
+
+Rule #239: ['Low Mistakes', 'Bad FT Shooter', 'Very Low PPG'] -> ['Low FGA']
+Support: 0.1564245810055866
+Confidence: 1.0
+
+Rule #240: ['Low PPG', 'Bad FT Shooter', 'Low TRB'] -> ['Low FGA']
+Support: 0.164804469273743
+Confidence: 0.9833333333333334
+
+Rule #241: ['Bad FT Shooter', 'Very Low PPG'] -> ['Low FGA', 'Low TRB']
+Support: 0.15363128491620112
+Confidence: 0.9649122807017544
+
+Rule #242: ['Low FGA', 'Bad FT Shooter', 'Very Low PPG'] -> ['Low TRB']
+Support: 0.15363128491620112
+Confidence: 0.9649122807017544
+
+Rule #243: ['Bad FT Shooter', 'Low TRB', 'Very Low PPG'] -> ['Low FGA']
+Support: 0.15363128491620112
+Confidence: 1.0
+
+Rule #244: ['Low MP', 'Bad FT Shooter'] -> ['Low Mistakes', 'Low TRB']
+Support: 0.17318435754189945
+Confidence: 0.9538461538461539
+
+Rule #245: ['Low Mistakes', 'Low MP', 'Bad FT Shooter'] -> ['Low TRB']
+Support: 0.17318435754189945
+Confidence: 0.9841269841269842
+
+Rule #246: ['Low MP', 'Bad FT Shooter', 'Low TRB'] -> ['Low Mistakes']
+Support: 0.17318435754189945
+Confidence: 0.9841269841269842
+
+Rule #247: ['Bad FT Shooter', 'Very Low PPG'] -> ['Low Mistakes', 'Low TRB']
+Support: 0.15363128491620112
+Confidence: 0.9649122807017544
+
+Rule #248: ['Low Mistakes', 'Bad FT Shooter', 'Very Low PPG'] -> ['Low TRB']
+Support: 0.15363128491620112
+Confidence: 0.9821428571428572
+
+Rule #249: ['Bad FT Shooter', 'Low TRB', 'Very Low PPG'] -> ['Low Mistakes']
+Support: 0.15363128491620112
+Confidence: 1.0
+
+Rule #250: ['Developing', 'Low Mistakes', 'Low AST'] -> ['Low Defensive Impact']
+Support: 0.2011173184357542
+Confidence: 0.9600000000000001
+
+Rule #251: ['Developing', 'Low Defensive Impact', 'Low AST'] -> ['Low TRB']
+Support: 0.20949720670391062
+Confidence: 0.9036144578313253
+
+Rule #252: ['Developing', 'Low AST', 'Low TRB'] -> ['Low Defensive Impact']
+Support: 0.20949720670391062
+Confidence: 0.9036144578313253
+
+Rule #253: ['Developing', 'Low Mistakes', 'Low AST'] -> ['Low TRB']
+Support: 0.2011173184357542
+Confidence: 0.9600000000000001
+
+Rule #254: ['Developing', 'Low FGA', 'Low Mistakes'] -> ['Low Defensive Impact']
+Support: 0.2011173184357542
+Confidence: 0.9473684210526316
+
+Rule #255: ['Developing', 'Low FGA', 'Low Defensive Impact'] -> ['Low TRB']
+Support: 0.2206703910614525
+Confidence: 0.9186046511627907
+
+Rule #256: ['Developing', 'Low FGA', 'Low TRB'] -> ['Low Defensive Impact']
+Support: 0.2206703910614525
+Confidence: 0.9080459770114943
+
+Rule #257: ['Developing', 'Low Mistakes'] -> ['Low Defensive Impact', 'Low TRB']
+Support: 0.2206703910614525
+Confidence: 0.9186046511627907
+
+Rule #258: ['Developing', 'Low Mistakes', 'Low Defensive Impact'] -> ['Low TRB']
+Support: 0.2206703910614525
+Confidence: 0.9753086419753085
+
+Rule #259: ['Developing', 'Low Mistakes', 'Low TRB'] -> ['Low Defensive Impact']
+Support: 0.2206703910614525
+Confidence: 0.9634146341463414
+
+Rule #260: ['Developing', 'Low FGA', 'Low Mistakes'] -> ['Low TRB']
+Support: 0.20670391061452514
+Confidence: 0.9736842105263158
+
+Rule #261: ['Developing', 'Low Mistakes', 'Low TRB'] -> ['Low FGA']
+Support: 0.20670391061452514
+Confidence: 0.9024390243902439
+
+Rule #262: ['Low FGA', 'Low Defensive Impact', 'Low 2P%'] -> ['Low Mistakes']
+Support: 0.15083798882681565
+Confidence: 0.9000000000000001
+
+Rule #263: ['Low Mistakes', 'Low Defensive Impact', 'Low 2P%'] -> ['Low FGA']
+Support: 0.15083798882681565
+Confidence: 0.9000000000000001
+
+Rule #264: ['Low FGA', 'Low Mistakes', 'Low 2P%'] -> ['Low Defensive Impact']
+Support: 0.15083798882681565
+Confidence: 0.9818181818181818
+
+Rule #265: ['Low FGA', 'Low 2P%'] -> ['Low Defensive Impact', 'Low TRB']
+Support: 0.164804469273743
+Confidence: 0.9218749999999999
+
+Rule #266: ['Low FGA', 'Low Defensive Impact', 'Low 2P%'] -> ['Low TRB']
+Support: 0.164804469273743
+Confidence: 0.9833333333333334
+
+Rule #267: ['Low FGA', 'Low TRB', 'Low 2P%'] -> ['Low Defensive Impact']
+Support: 0.164804469273743
+Confidence: 0.9365079365079364
+
+Rule #268: ['Low Mistakes', 'Low 2P%'] -> ['Low Defensive Impact', 'Low TRB']
+Support: 0.16759776536312848
+Confidence: 0.9836065573770492
+
+Rule #269: ['Low Mistakes', 'Low Defensive Impact', 'Low 2P%'] -> ['Low TRB']
+Support: 0.16759776536312848
+Confidence: 1.0
+
+Rule #270: ['Low Mistakes', 'Low TRB', 'Low 2P%'] -> ['Low Defensive Impact']
+Support: 0.16759776536312848
+Confidence: 0.9836065573770492
+
+Rule #271: ['Low Mistakes', 'Low 2P%'] -> ['Low FGA', 'Low TRB']
+Support: 0.15363128491620112
+Confidence: 0.9016393442622952
+
+Rule #272: ['Low FGA', 'Low Mistakes', 'Low 2P%'] -> ['Low TRB']
+Support: 0.15363128491620112
+Confidence: 1.0
+
+Rule #273: ['Low Mistakes', 'Low TRB', 'Low 2P%'] -> ['Low FGA']
+Support: 0.15363128491620112
+Confidence: 0.9016393442622952
+
+Rule #274: ['Low MP'] -> ['Low FGA', 'Low Defensive Impact', 'Low AST']
+Support: 0.21787709497206703
+Confidence: 0.9285714285714285
+
+Rule #275: ['Low MP', 'Low AST'] -> ['Low FGA', 'Low Defensive Impact']
+Support: 0.21787709497206703
+Confidence: 0.975
+
+Rule #276: ['Low MP', 'Low Defensive Impact'] -> ['Low FGA', 'Low AST']
+Support: 0.21787709497206703
+Confidence: 0.9512195121951219
+
+Rule #277: ['Low FGA', 'Low MP'] -> ['Low Defensive Impact', 'Low AST']
+Support: 0.21787709497206703
+Confidence: 0.9285714285714285
+
+Rule #278: ['Low MP', 'Low Defensive Impact', 'Low AST'] -> ['Low FGA']
+Support: 0.21787709497206703
+Confidence: 1.0
+
+Rule #279: ['Low FGA', 'Low MP', 'Low AST'] -> ['Low Defensive Impact']
+Support: 0.21787709497206703
+Confidence: 0.975
+
+Rule #280: ['Low MP', 'Low FGA', 'Low Defensive Impact'] -> ['Low AST']
+Support: 0.21787709497206703
+Confidence: 0.9512195121951219
+
+Rule #281: ['Low Mistakes', 'Low Defensive Impact', 'Low AST'] -> ['Low FGA']
+Support: 0.3463687150837989
+Confidence: 0.9051094890510949
+
+Rule #282: ['Low FGA', 'Low Mistakes', 'Low AST'] -> ['Low Defensive Impact']
+Support: 0.3463687150837989
+Confidence: 0.9465648854961833
+
+Rule #283: ['Low PPG', 'Low Defensive Impact', 'Low AST'] -> ['Low FGA']
+Support: 0.18156424581005587
+Confidence: 1.0
+
+Rule #284: ['Low FGA', 'Low Defensive Impact', 'Low AST'] -> ['Low TRB']
+Support: 0.3575418994413408
+Confidence: 0.920863309352518
+
+Rule #285: ['Low FGA', 'Low AST', 'Low TRB'] -> ['Low Defensive Impact']
+Support: 0.3575418994413408
+Confidence: 0.9343065693430657
+
+Rule #286: ['Very Low PPG'] -> ['Low FGA', 'Low Defensive Impact', 'Low AST']
+Support: 0.18156424581005587
+Confidence: 0.9027777777777778
+
+Rule #287: ['Low AST', 'Very Low PPG'] -> ['Low FGA', 'Low Defensive Impact']
+Support: 0.18156424581005587
+Confidence: 0.9848484848484849
+
+Rule #288: ['Low Defensive Impact', 'Very Low PPG'] -> ['Low FGA', 'Low AST']
+Support: 0.18156424581005587
+Confidence: 0.9154929577464789
+
+Rule #289: ['Low FGA', 'Very Low PPG'] -> ['Low Defensive Impact', 'Low AST']
+Support: 0.18156424581005587
+Confidence: 0.9027777777777778
+
+Rule #290: ['Low Defensive Impact', 'Low AST', 'Very Low PPG'] -> ['Low FGA']
+Support: 0.18156424581005587
+Confidence: 1.0
+
+Rule #291: ['Low FGA', 'Low AST', 'Very Low PPG'] -> ['Low Defensive Impact']
+Support: 0.18156424581005587
+Confidence: 0.9848484848484849
+
+Rule #292: ['Low FGA', 'Low Defensive Impact', 'Very Low PPG'] -> ['Low AST']
+Support: 0.18156424581005587
+Confidence: 0.9154929577464789
+
+Rule #293: ['Low MP'] -> ['Low Mistakes', 'Low Defensive Impact', 'Low AST']
+Support: 0.21508379888268156
+Confidence: 0.9166666666666666
+
+Rule #294: ['Low MP', 'Low AST'] -> ['Low Mistakes', 'Low Defensive Impact']
+Support: 0.21508379888268156
+Confidence: 0.9625
+
+Rule #295: ['Low MP', 'Low Defensive Impact'] -> ['Low Mistakes', 'Low AST']
+Support: 0.21508379888268156
+Confidence: 0.9390243902439024
+
+Rule #296: ['Low Mistakes', 'Low MP'] -> ['Low Defensive Impact', 'Low AST']
+Support: 0.21508379888268156
+Confidence: 0.9390243902439024
+
+Rule #297: ['Low MP', 'Low Defensive Impact', 'Low AST'] -> ['Low Mistakes']
+Support: 0.21508379888268156
+Confidence: 0.9871794871794872
+
+Rule #298: ['Low Mistakes', 'Low MP', 'Low AST'] -> ['Low Defensive Impact']
+Support: 0.21508379888268156
+Confidence: 0.9871794871794872
+
+Rule #299: ['Low Mistakes', 'Low MP', 'Low Defensive Impact'] -> ['Low AST']
+Support: 0.21508379888268156
+Confidence: 0.9506172839506172
+
+Rule #300: ['Low MP'] -> ['Low Defensive Impact', 'Low AST', 'Low TRB']
+Support: 0.2122905027932961
+Confidence: 0.9047619047619048
+
+Rule #301: ['Low MP', 'Low AST'] -> ['Low Defensive Impact', 'Low TRB']
+Support: 0.2122905027932961
+Confidence: 0.9500000000000001
+
+Rule #302: ['Low MP', 'Low Defensive Impact'] -> ['Low AST', 'Low TRB']
+Support: 0.2122905027932961
+Confidence: 0.9268292682926829
+
+Rule #303: ['Low MP', 'Low TRB'] -> ['Low Defensive Impact', 'Low AST']
+Support: 0.2122905027932961
+Confidence: 0.9268292682926829
+
+Rule #304: ['Low MP', 'Low Defensive Impact', 'Low AST'] -> ['Low TRB']
+Support: 0.2122905027932961
+Confidence: 0.9743589743589743
+
+Rule #305: ['Low MP', 'Low AST', 'Low TRB'] -> ['Low Defensive Impact']
+Support: 0.2122905027932961
+Confidence: 0.9743589743589743
+
+Rule #306: ['Low MP', 'Low Defensive Impact', 'Low TRB'] -> ['Low AST']
+Support: 0.2122905027932961
+Confidence: 0.9500000000000001
+
+Rule #307: ['Low MP', 'Very Low PPG'] -> ['Low Defensive Impact', 'Low AST']
+Support: 0.16201117318435754
+Confidence: 0.9508196721311476
+
+Rule #308: ['Low MP', 'Low AST', 'Very Low PPG'] -> ['Low Defensive Impact']
+Support: 0.16201117318435754
+Confidence: 1.0
+
+Rule #309: ['Low MP', 'Low Defensive Impact', 'Very Low PPG'] -> ['Low AST']
+Support: 0.16201117318435754
+Confidence: 0.9508196721311476
+
+Rule #310: ['Low Mistakes', 'Low PPG', 'Low AST'] -> ['Low Defensive Impact']
+Support: 0.15921787709497207
+Confidence: 0.9047619047619047
+
+Rule #311: ['Low Mistakes', 'Low AST'] -> ['Low Defensive Impact', 'Low TRB']
+Support: 0.3687150837988827
+Confidence: 0.9166666666666666
+
+Rule #312: ['Low Mistakes', 'Low Defensive Impact', 'Low AST'] -> ['Low TRB']
+Support: 0.3687150837988827
+Confidence: 0.9635036496350364
+
+Rule #313: ['Low Defensive Impact', 'Low AST', 'Low TRB'] -> ['Low Mistakes']
+Support: 0.3687150837988827
+Confidence: 0.9103448275862069
+
+Rule #314: ['Low Mistakes', 'Low AST', 'Low TRB'] -> ['Low Defensive Impact']
+Support: 0.3687150837988827
+Confidence: 0.9635036496350364
+
+Rule #315: ['Low Mistakes', 'Prime', 'Low AST'] -> ['Low Defensive Impact']
+Support: 0.1564245810055866
+Confidence: 0.9333333333333333
+
+Rule #316: ['Low AST', 'Very Low PPG'] -> ['Low Mistakes', 'Low Defensive Impact']
+Support: 0.1787709497206704
+Confidence: 0.9696969696969697
+
+Rule #317: ['Low Defensive Impact', 'Very Low PPG'] -> ['Low Mistakes', 'Low AST']
+Support: 0.1787709497206704
+Confidence: 0.9014084507042254
+
+Rule #318: ['Low Mistakes', 'Very Low PPG'] -> ['Low Defensive Impact', 'Low AST']
+Support: 0.1787709497206704
+Confidence: 0.9014084507042254
+
+Rule #319: ['Low Defensive Impact', 'Low AST', 'Very Low PPG'] -> ['Low Mistakes']
+Support: 0.1787709497206704
+Confidence: 0.9846153846153847
+
+Rule #320: ['Low Mistakes', 'Low AST', 'Very Low PPG'] -> ['Low Defensive Impact']
+Support: 0.1787709497206704
+Confidence: 0.9846153846153847
+
+Rule #321: ['Low Mistakes', 'Low Defensive Impact', 'Very Low PPG'] -> ['Low AST']
+Support: 0.1787709497206704
+Confidence: 0.9142857142857144
+
+Rule #322: ['Low PPG', 'Low Defensive Impact', 'Low AST'] -> ['Low TRB']
+Support: 0.17039106145251395
+Confidence: 0.9384615384615383
+
+Rule #323: ['Medium MP', 'Low AST', 'Low TRB'] -> ['Low Defensive Impact']
+Support: 0.15363128491620112
+Confidence: 0.9166666666666667
+
+Rule #324: ['Low Defensive Impact', 'Prime', 'Low AST'] -> ['Low TRB']
+Support: 0.17039106145251395
+Confidence: 0.9104477611940298
+
+Rule #325: ['Prime', 'Low AST', 'Low TRB'] -> ['Low Defensive Impact']
+Support: 0.17039106145251395
+Confidence: 0.9384615384615383
+
+Rule #326: ['Low AST', 'Very Low PPG'] -> ['Low Defensive Impact', 'Low TRB']
+Support: 0.17597765363128492
+Confidence: 0.9545454545454546
+
+Rule #327: ['Low TRB', 'Very Low PPG'] -> ['Low Defensive Impact', 'Low AST']
+Support: 0.17597765363128492
+Confidence: 0.9000000000000001
+
+Rule #328: ['Low Defensive Impact', 'Low AST', 'Very Low PPG'] -> ['Low TRB']
+Support: 0.17597765363128492
+Confidence: 0.9692307692307692
+
+Rule #329: ['Low AST', 'Low TRB', 'Very Low PPG'] -> ['Low Defensive Impact']
+Support: 0.17597765363128492
+Confidence: 0.984375
+
+Rule #330: ['Low Defensive Impact', 'Low TRB', 'Very Low PPG'] -> ['Low AST']
+Support: 0.17597765363128492
+Confidence: 0.9130434782608696
+
+Rule #331: ['Low MP'] -> ['Low Mistakes', 'Low AST', 'Low FGA']
+Support: 0.21787709497206703
+Confidence: 0.9285714285714285
+
+Rule #332: ['Low MP', 'Low AST'] -> ['Low Mistakes', 'Low FGA']
+Support: 0.21787709497206703
+Confidence: 0.975
+
+Rule #333: ['Low FGA', 'Low MP'] -> ['Low Mistakes', 'Low AST']
+Support: 0.21787709497206703
+Confidence: 0.9285714285714285
+
+Rule #334: ['Low Mistakes', 'Low MP'] -> ['Low FGA', 'Low AST']
+Support: 0.21787709497206703
+Confidence: 0.9512195121951219
+
+Rule #335: ['Low FGA', 'Low MP', 'Low AST'] -> ['Low Mistakes']
+Support: 0.21787709497206703
+Confidence: 0.975
+
+Rule #336: ['Low Mistakes', 'Low MP', 'Low AST'] -> ['Low FGA']
+Support: 0.21787709497206703
+Confidence: 1.0
+
+Rule #337: ['Low Mistakes', 'Low FGA', 'Low MP'] -> ['Low AST']
+Support: 0.21787709497206703
+Confidence: 0.9512195121951219
+
+Rule #338: ['Low MP'] -> ['Low FGA', 'Low AST', 'Low TRB']
+Support: 0.21787709497206703
+Confidence: 0.9285714285714285
+
+Rule #339: ['Low MP', 'Low AST'] -> ['Low FGA', 'Low TRB']
+Support: 0.21787709497206703
+Confidence: 0.975
+
+Rule #340: ['Low FGA', 'Low MP'] -> ['Low AST', 'Low TRB']
+Support: 0.21787709497206703
+Confidence: 0.9285714285714285
+
+Rule #341: ['Low MP', 'Low TRB'] -> ['Low FGA', 'Low AST']
+Support: 0.21787709497206703
+Confidence: 0.9512195121951219
+
+Rule #342: ['Low FGA', 'Low MP', 'Low AST'] -> ['Low TRB']
+Support: 0.21787709497206703
+Confidence: 0.975
+
+Rule #343: ['Low MP', 'Low AST', 'Low TRB'] -> ['Low FGA']
+Support: 0.21787709497206703
+Confidence: 1.0
+
+Rule #344: ['Low FGA', 'Low MP', 'Low TRB'] -> ['Low AST']
+Support: 0.21787709497206703
+Confidence: 0.9512195121951219
+
+Rule #345: ['Low MP', 'Very Low PPG'] -> ['Low FGA', 'Low AST']
+Support: 0.16201117318435754
+Confidence: 0.9508196721311476
+
+Rule #346: ['Low MP', 'Low AST', 'Very Low PPG'] -> ['Low FGA']
+Support: 0.16201117318435754
+Confidence: 1.0
+
+Rule #347: ['Low FGA', 'Low MP', 'Very Low PPG'] -> ['Low AST']
+Support: 0.16201117318435754
+Confidence: 0.9508196721311476
+
+Rule #348: ['Low Mistakes', 'Low PPG', 'Low AST'] -> ['Low FGA']
+Support: 0.17597765363128492
+Confidence: 1.0
+
+Rule #349: ['Low FGA', 'Low Mistakes', 'Low AST'] -> ['Low TRB']
+Support: 0.34916201117318435
+Confidence: 0.9541984732824428
+
+Rule #350: ['Low FGA', 'Low AST', 'Low TRB'] -> ['Low Mistakes']
+Support: 0.34916201117318435
+Confidence: 0.9124087591240876
+
+Rule #351: ['Low Mistakes', 'Low AST', 'Low TRB'] -> ['Low FGA']
+Support: 0.34916201117318435
+Confidence: 0.9124087591240876
+
+Rule #352: ['Low Mistakes', 'Prime', 'Low AST'] -> ['Low FGA']
+Support: 0.15363128491620112
+Confidence: 0.9166666666666667
+
+Rule #353: ['Very Low PPG'] -> ['Low FGA', 'Low Mistakes', 'Low AST']
+Support: 0.18156424581005587
+Confidence: 0.9027777777777778
+
+Rule #354: ['Low AST', 'Very Low PPG'] -> ['Low FGA', 'Low Mistakes']
+Support: 0.18156424581005587
+Confidence: 0.9848484848484849
+
+Rule #355: ['Low FGA', 'Very Low PPG'] -> ['Low Mistakes', 'Low AST']
+Support: 0.18156424581005587
+Confidence: 0.9027777777777778
+
+Rule #356: ['Low Mistakes', 'Very Low PPG'] -> ['Low FGA', 'Low AST']
+Support: 0.18156424581005587
+Confidence: 0.9154929577464789
+
+Rule #357: ['Low FGA', 'Low AST', 'Very Low PPG'] -> ['Low Mistakes']
+Support: 0.18156424581005587
+Confidence: 0.9848484848484849
+
+Rule #358: ['Low Mistakes', 'Low AST', 'Very Low PPG'] -> ['Low FGA']
+Support: 0.18156424581005587
+Confidence: 1.0
+
+Rule #359: ['Low FGA', 'Low Mistakes', 'Very Low PPG'] -> ['Low AST']
+Support: 0.18156424581005587
+Confidence: 0.9154929577464789
+
+Rule #360: ['Low PPG', 'Low AST', 'Low TRB'] -> ['Low FGA']
+Support: 0.18994413407821228
+Confidence: 1.0
+
+Rule #361: ['Low AST', 'Very Low PPG'] -> ['Low FGA', 'Low TRB']
+Support: 0.1787709497206704
+Confidence: 0.9696969696969697
+
+Rule #362: ['Low TRB', 'Very Low PPG'] -> ['Low FGA', 'Low AST']
+Support: 0.1787709497206704
+Confidence: 0.9142857142857144
+
+Rule #363: ['Low FGA', 'Low AST', 'Very Low PPG'] -> ['Low TRB']
+Support: 0.1787709497206704
+Confidence: 0.9696969696969697
+
+Rule #364: ['Low AST', 'Low TRB', 'Very Low PPG'] -> ['Low FGA']
+Support: 0.1787709497206704
+Confidence: 1.0
+
+Rule #365: ['Low FGA', 'Low TRB', 'Very Low PPG'] -> ['Low AST']
+Support: 0.1787709497206704
+Confidence: 0.9142857142857144
+
+Rule #366: ['Low MP'] -> ['Low Mistakes', 'Low AST', 'Low TRB']
+Support: 0.21508379888268156
+Confidence: 0.9166666666666666
+
+Rule #367: ['Low MP', 'Low AST'] -> ['Low Mistakes', 'Low TRB']
+Support: 0.21508379888268156
+Confidence: 0.9625
+
+Rule #368: ['Low Mistakes', 'Low MP'] -> ['Low AST', 'Low TRB']
+Support: 0.21508379888268156
+Confidence: 0.9390243902439024
+
+Rule #369: ['Low MP', 'Low TRB'] -> ['Low Mistakes', 'Low AST']
+Support: 0.21508379888268156
+Confidence: 0.9390243902439024
+
+Rule #370: ['Low Mistakes', 'Low MP', 'Low AST'] -> ['Low TRB']
+Support: 0.21508379888268156
+Confidence: 0.9871794871794872
+
+Rule #371: ['Low MP', 'Low AST', 'Low TRB'] -> ['Low Mistakes']
+Support: 0.21508379888268156
+Confidence: 0.9871794871794872
+
+Rule #372: ['Low Mistakes', 'Low MP', 'Low TRB'] -> ['Low AST']
+Support: 0.21508379888268156
+Confidence: 0.9506172839506172
+
+Rule #373: ['Low MP', 'Very Low PPG'] -> ['Low Mistakes', 'Low AST']
+Support: 0.16201117318435754
+Confidence: 0.9508196721311476
+
+Rule #374: ['Low MP', 'Low AST', 'Very Low PPG'] -> ['Low Mistakes']
+Support: 0.16201117318435754
+Confidence: 1.0
+
+Rule #375: ['Low Mistakes', 'Low MP', 'Very Low PPG'] -> ['Low AST']
+Support: 0.16201117318435754
+Confidence: 0.9508196721311476
+
+Rule #376: ['Low MP', 'Very Low PPG'] -> ['Low AST', 'Low TRB']
+Support: 0.16201117318435754
+Confidence: 0.9508196721311476
+
+Rule #377: ['Low MP', 'Low AST', 'Very Low PPG'] -> ['Low TRB']
+Support: 0.16201117318435754
+Confidence: 1.0
+
+Rule #378: ['Low AST', 'Low TRB', 'Very Low PPG'] -> ['Low MP']
+Support: 0.16201117318435754
+Confidence: 0.90625
+
+Rule #379: ['Low MP', 'Low TRB', 'Very Low PPG'] -> ['Low AST']
+Support: 0.16201117318435754
+Confidence: 0.9508196721311476
+
+Rule #380: ['Low Mistakes', 'Low PPG', 'Low AST'] -> ['Low TRB']
+Support: 0.164804469273743
+Confidence: 0.9365079365079364
+
+Rule #381: ['Low Mistakes', 'Prime', 'Low AST'] -> ['Low TRB']
+Support: 0.15921787709497207
+Confidence: 0.9500000000000001
+
+Rule #382: ['Low AST', 'Very Low PPG'] -> ['Low Mistakes', 'Low TRB']
+Support: 0.1787709497206704
+Confidence: 0.9696969696969697
+
+Rule #383: ['Low Mistakes', 'Very Low PPG'] -> ['Low AST', 'Low TRB']
+Support: 0.1787709497206704
+Confidence: 0.9014084507042254
+
+Rule #384: ['Low TRB', 'Very Low PPG'] -> ['Low Mistakes', 'Low AST']
+Support: 0.1787709497206704
+Confidence: 0.9142857142857144
+
+Rule #385: ['Low Mistakes', 'Low AST', 'Very Low PPG'] -> ['Low TRB']
+Support: 0.1787709497206704
+Confidence: 0.9846153846153847
+
+Rule #386: ['Low AST', 'Low TRB', 'Very Low PPG'] -> ['Low Mistakes']
+Support: 0.1787709497206704
+Confidence: 1.0
+
+Rule #387: ['Low Mistakes', 'Low TRB', 'Very Low PPG'] -> ['Low AST']
+Support: 0.1787709497206704
+Confidence: 0.9142857142857144
+
+Rule #388: ['Low MP'] -> ['Low Mistakes', 'Low FGA', 'Low Defensive Impact']
+Support: 0.22625698324022347
+Confidence: 0.9642857142857143
+
+Rule #389: ['Low MP', 'Low Defensive Impact'] -> ['Low FGA', 'Low Mistakes']
+Support: 0.22625698324022347
+Confidence: 0.9878048780487805
+
+Rule #390: ['Low FGA', 'Low MP'] -> ['Low Mistakes', 'Low Defensive Impact']
+Support: 0.22625698324022347
+Confidence: 0.9642857142857143
+
+Rule #391: ['Low Mistakes', 'Low MP'] -> ['Low FGA', 'Low Defensive Impact']
+Support: 0.22625698324022347
+Confidence: 0.9878048780487805
+
+Rule #392: ['Low MP', 'Low FGA', 'Low Defensive Impact'] -> ['Low Mistakes']
+Support: 0.22625698324022347
+Confidence: 0.9878048780487805
+
+Rule #393: ['Low Mistakes', 'Low MP', 'Low Defensive Impact'] -> ['Low FGA']
+Support: 0.22625698324022347
+Confidence: 1.0
+
+Rule #394: ['Low Mistakes', 'Low FGA', 'Low MP'] -> ['Low Defensive Impact']
+Support: 0.22625698324022347
+Confidence: 0.9878048780487805
+
+Rule #395: ['Low MP'] -> ['Low FGA', 'Low Defensive Impact', 'Low TRB']
+Support: 0.22346368715083798
+Confidence: 0.9523809523809523
+
+Rule #396: ['Low MP', 'Low Defensive Impact'] -> ['Low FGA', 'Low TRB']
+Support: 0.22346368715083798
+Confidence: 0.9756097560975608
+
+Rule #397: ['Low FGA', 'Low MP'] -> ['Low Defensive Impact', 'Low TRB']
+Support: 0.22346368715083798
+Confidence: 0.9523809523809523
+
+Rule #398: ['Low MP', 'Low TRB'] -> ['Low FGA', 'Low Defensive Impact']
+Support: 0.22346368715083798
+Confidence: 0.9756097560975608
+
+Rule #399: ['Low MP', 'Low FGA', 'Low Defensive Impact'] -> ['Low TRB']
+Support: 0.22346368715083798
+Confidence: 0.9756097560975608
+
+Rule #400: ['Low MP', 'Low Defensive Impact', 'Low TRB'] -> ['Low FGA']
+Support: 0.22346368715083798
+Confidence: 1.0
+
+Rule #401: ['Low FGA', 'Low MP', 'Low TRB'] -> ['Low Defensive Impact']
+Support: 0.22346368715083798
+Confidence: 0.9756097560975608
+
+Rule #402: ['Low MP', 'Very Low PPG'] -> ['Low FGA', 'Low Defensive Impact']
+Support: 0.17039106145251395
+Confidence: 1.0
+
+Rule #403: ['Low MP', 'Low Defensive Impact', 'Very Low PPG'] -> ['Low FGA']
+Support: 0.17039106145251395
+Confidence: 1.0
+
+Rule #404: ['Low FGA', 'Low MP', 'Very Low PPG'] -> ['Low Defensive Impact']
+Support: 0.17039106145251395
+Confidence: 1.0
+
+Rule #405: ['Low PPG', 'Low Mistakes', 'Low Defensive Impact'] -> ['Low FGA']
+Support: 0.20670391061452514
+Confidence: 0.9866666666666667
+
+Rule #406: ['Low FGA', 'Low Mistakes'] -> ['Low Defensive Impact', 'Low TRB']
+Support: 0.4022346368715084
+Confidence: 0.9056603773584906
+
+Rule #407: ['Low Mistakes', 'Low FGA', 'Low Defensive Impact'] -> ['Low TRB']
+Support: 0.4022346368715084
+Confidence: 0.9664429530201343
+
+Rule #408: ['Low FGA', 'Low Mistakes', 'Low TRB'] -> ['Low Defensive Impact']
+Support: 0.4022346368715084
+Confidence: 0.9536423841059603
+
+Rule #409: ['Low FGA', 'Low Mistakes', 'Medium MP'] -> ['Low Defensive Impact']
+Support: 0.1787709497206704
+Confidence: 0.9014084507042254
+
+Rule #410: ['Low FGA', 'Low Mistakes', 'Prime'] -> ['Low Defensive Impact']
+Support: 0.17039106145251395
+Confidence: 0.9242424242424242
+
+Rule #411: ['Very Low PPG'] -> ['Low Mistakes', 'Low Defensive Impact', 'Low FGA']
+Support: 0.19553072625698323
+Confidence: 0.9722222222222221
+
+Rule #412: ['Low Defensive Impact', 'Very Low PPG'] -> ['Low Mistakes', 'Low FGA']
+Support: 0.19553072625698323
+Confidence: 0.9859154929577464
+
+Rule #413: ['Low FGA', 'Very Low PPG'] -> ['Low Mistakes', 'Low Defensive Impact']
+Support: 0.19553072625698323
+Confidence: 0.9722222222222221
+
+Rule #414: ['Low Mistakes', 'Very Low PPG'] -> ['Low FGA', 'Low Defensive Impact']
+Support: 0.19553072625698323
+Confidence: 0.9859154929577464
+
+Rule #415: ['Low FGA', 'Low Defensive Impact', 'Very Low PPG'] -> ['Low Mistakes']
+Support: 0.19553072625698323
+Confidence: 0.9859154929577464
+
+Rule #416: ['Low Mistakes', 'Low Defensive Impact', 'Very Low PPG'] -> ['Low FGA']
+Support: 0.19553072625698323
+Confidence: 1.0
+
+Rule #417: ['Low FGA', 'Low Mistakes', 'Very Low PPG'] -> ['Low Defensive Impact']
+Support: 0.19553072625698323
+Confidence: 0.9859154929577464
+
+Rule #418: ['Low PPG', 'Low FGA', 'Low Defensive Impact'] -> ['Low TRB']
+Support: 0.2346368715083799
+Confidence: 0.9130434782608695
+
+Rule #419: ['Low PPG', 'Low Defensive Impact', 'Low TRB'] -> ['Low FGA']
+Support: 0.2346368715083799
+Confidence: 0.9767441860465117
+
+Rule #420: ['Low PPG', 'Medium MP', 'Low Defensive Impact'] -> ['Low FGA']
+Support: 0.17597765363128492
+Confidence: 0.9692307692307692
+
+Rule #421: ['Low FGA', 'Medium MP', 'Low TRB'] -> ['Low Defensive Impact']
+Support: 0.19832402234636873
+Confidence: 0.9220779220779222
+
+Rule #422: ['Low FGA', 'Low Defensive Impact', 'Prime'] -> ['Low TRB']
+Support: 0.1871508379888268
+Confidence: 0.9178082191780822
+
+Rule #423: ['Low FGA', 'Prime', 'Low TRB'] -> ['Low Defensive Impact']
+Support: 0.1871508379888268
+Confidence: 0.9054054054054054
+
+Rule #424: ['Very Low PPG'] -> ['Low FGA', 'Low Defensive Impact', 'Low TRB']
+Support: 0.19273743016759776
+Confidence: 0.9583333333333333
+
+Rule #425: ['Low Defensive Impact', 'Very Low PPG'] -> ['Low FGA', 'Low TRB']
+Support: 0.19273743016759776
+Confidence: 0.9718309859154929
+
+Rule #426: ['Low FGA', 'Very Low PPG'] -> ['Low Defensive Impact', 'Low TRB']
+Support: 0.19273743016759776
+Confidence: 0.9583333333333333
+
+Rule #427: ['Low TRB', 'Very Low PPG'] -> ['Low FGA', 'Low Defensive Impact']
+Support: 0.19273743016759776
+Confidence: 0.9857142857142858
+
+Rule #428: ['Low FGA', 'Low Defensive Impact', 'Very Low PPG'] -> ['Low TRB']
+Support: 0.19273743016759776
+Confidence: 0.9718309859154929
+
+Rule #429: ['Low Defensive Impact', 'Low TRB', 'Very Low PPG'] -> ['Low FGA']
+Support: 0.19273743016759776
+Confidence: 1.0
+
+Rule #430: ['Low FGA', 'Low TRB', 'Very Low PPG'] -> ['Low Defensive Impact']
+Support: 0.19273743016759776
+Confidence: 0.9857142857142858
+
+Rule #431: ['Low MP'] -> ['Low Mistakes', 'Low Defensive Impact', 'Low TRB']
+Support: 0.22346368715083798
+Confidence: 0.9523809523809523
+
+Rule #432: ['Low MP', 'Low Defensive Impact'] -> ['Low Mistakes', 'Low TRB']
+Support: 0.22346368715083798
+Confidence: 0.9756097560975608
+
+Rule #433: ['Low Mistakes', 'Low MP'] -> ['Low Defensive Impact', 'Low TRB']
+Support: 0.22346368715083798
+Confidence: 0.9756097560975608
+
+Rule #434: ['Low MP', 'Low TRB'] -> ['Low Mistakes', 'Low Defensive Impact']
+Support: 0.22346368715083798
+Confidence: 0.9756097560975608
+
+Rule #435: ['Low Mistakes', 'Low MP', 'Low Defensive Impact'] -> ['Low TRB']
+Support: 0.22346368715083798
+Confidence: 0.9876543209876543
+
+Rule #436: ['Low MP', 'Low Defensive Impact', 'Low TRB'] -> ['Low Mistakes']
+Support: 0.22346368715083798
+Confidence: 1.0
+
+Rule #437: ['Low Mistakes', 'Low MP', 'Low TRB'] -> ['Low Defensive Impact']
+Support: 0.22346368715083798
+Confidence: 0.9876543209876543
+
+Rule #438: ['Low MP', 'Very Low PPG'] -> ['Low Mistakes', 'Low Defensive Impact']
+Support: 0.17039106145251395
+Confidence: 1.0
+
+Rule #439: ['Low MP', 'Low Defensive Impact', 'Very Low PPG'] -> ['Low Mistakes']
+Support: 0.17039106145251395
+Confidence: 1.0
+
+Rule #440: ['Low Mistakes', 'Low MP', 'Very Low PPG'] -> ['Low Defensive Impact']
+Support: 0.17039106145251395
+Confidence: 1.0
+
+Rule #441: ['Low MP', 'Very Low PPG'] -> ['Low Defensive Impact', 'Low TRB']
+Support: 0.17039106145251395
+Confidence: 1.0
+
+Rule #442: ['Low MP', 'Low Defensive Impact', 'Very Low PPG'] -> ['Low TRB']
+Support: 0.17039106145251395
+Confidence: 1.0
+
+Rule #443: ['Low MP', 'Low TRB', 'Very Low PPG'] -> ['Low Defensive Impact']
+Support: 0.17039106145251395
+Confidence: 1.0
+
+Rule #444: ['Low PPG', 'Low Mistakes', 'Low Defensive Impact'] -> ['Low TRB']
+Support: 0.2011173184357542
+Confidence: 0.9600000000000001
+
+Rule #445: ['Low Mistakes', 'Low PPG', 'Low TRB'] -> ['Low Defensive Impact']
+Support: 0.2011173184357542
+Confidence: 0.9230769230769231
+
+Rule #446: ['Low Mistakes', 'Low Defensive Impact', 'Medium MP'] -> ['Low TRB']
+Support: 0.18994413407821228
+Confidence: 0.9444444444444444
+
+Rule #447: ['Low Mistakes', 'Medium MP', 'Low TRB'] -> ['Low Defensive Impact']
+Support: 0.18994413407821228
+Confidence: 0.9315068493150684
+
+Rule #448: ['Low Mistakes', 'Low Defensive Impact', 'Prime'] -> ['Low TRB']
+Support: 0.18435754189944134
+Confidence: 0.9705882352941176
+
+Rule #449: ['Low Mistakes', 'Prime', 'Low TRB'] -> ['Low Defensive Impact']
+Support: 0.18435754189944134
+Confidence: 0.942857142857143
+
+Rule #450: ['Very Low PPG'] -> ['Low Mistakes', 'Low Defensive Impact', 'Low TRB']
+Support: 0.19273743016759776
+Confidence: 0.9583333333333333
+
+Rule #451: ['Low Defensive Impact', 'Very Low PPG'] -> ['Low Mistakes', 'Low TRB']
+Support: 0.19273743016759776
+Confidence: 0.9718309859154929
+
+Rule #452: ['Low Mistakes', 'Very Low PPG'] -> ['Low Defensive Impact', 'Low TRB']
+Support: 0.19273743016759776
+Confidence: 0.9718309859154929
+
+Rule #453: ['Low TRB', 'Very Low PPG'] -> ['Low Mistakes', 'Low Defensive Impact']
+Support: 0.19273743016759776
+Confidence: 0.9857142857142858
+
+Rule #454: ['Low Mistakes', 'Low Defensive Impact', 'Very Low PPG'] -> ['Low TRB']
+Support: 0.19273743016759776
+Confidence: 0.9857142857142858
+
+Rule #455: ['Low Defensive Impact', 'Low TRB', 'Very Low PPG'] -> ['Low Mistakes']
+Support: 0.19273743016759776
+Confidence: 1.0
+
+Rule #456: ['Low Mistakes', 'Low TRB', 'Very Low PPG'] -> ['Low Defensive Impact']
+Support: 0.19273743016759776
+Confidence: 0.9857142857142858
+
+Rule #457: ['Low PPG', 'Medium MP', 'Low Defensive Impact'] -> ['Low TRB']
+Support: 0.17039106145251395
+Confidence: 0.9384615384615383
+
+Rule #458: ['Medium MP', 'Low PPG', 'Low TRB'] -> ['Low Defensive Impact']
+Support: 0.17039106145251395
+Confidence: 0.9242424242424242
+
+Rule #459: ['Low MP'] -> ['Low Mistakes', 'Low TRB', 'Low FGA']
+Support: 0.22625698324022347
+Confidence: 0.9642857142857143
+
+Rule #460: ['Low FGA', 'Low MP'] -> ['Low Mistakes', 'Low TRB']
+Support: 0.22625698324022347
+Confidence: 0.9642857142857143
+
+Rule #461: ['Low Mistakes', 'Low MP'] -> ['Low FGA', 'Low TRB']
+Support: 0.22625698324022347
+Confidence: 0.9878048780487805
+
+Rule #462: ['Low MP', 'Low TRB'] -> ['Low Mistakes', 'Low FGA']
+Support: 0.22625698324022347
+Confidence: 0.9878048780487805
+
+Rule #463: ['Low Mistakes', 'Low FGA', 'Low MP'] -> ['Low TRB']
+Support: 0.22625698324022347
+Confidence: 0.9878048780487805
+
+Rule #464: ['Low FGA', 'Low MP', 'Low TRB'] -> ['Low Mistakes']
+Support: 0.22625698324022347
+Confidence: 0.9878048780487805
+
+Rule #465: ['Low Mistakes', 'Low MP', 'Low TRB'] -> ['Low FGA']
+Support: 0.22625698324022347
+Confidence: 1.0
+
+Rule #466: ['Low MP', 'Very Low PPG'] -> ['Low Mistakes', 'Low FGA']
+Support: 0.17039106145251395
+Confidence: 1.0
+
+Rule #467: ['Low FGA', 'Low MP', 'Very Low PPG'] -> ['Low Mistakes']
+Support: 0.17039106145251395
+Confidence: 1.0
+
+Rule #468: ['Low Mistakes', 'Low MP', 'Very Low PPG'] -> ['Low FGA']
+Support: 0.17039106145251395
+Confidence: 1.0
+
+Rule #469: ['Low MP', 'Very Low PPG'] -> ['Low FGA', 'Low TRB']
+Support: 0.17039106145251395
+Confidence: 1.0
+
+Rule #470: ['Low FGA', 'Low MP', 'Very Low PPG'] -> ['Low TRB']
+Support: 0.17039106145251395
+Confidence: 1.0
+
+Rule #471: ['Low MP', 'Low TRB', 'Very Low PPG'] -> ['Low FGA']
+Support: 0.17039106145251395
+Confidence: 1.0
+
+Rule #472: ['Low Mistakes', 'Low PPG'] -> ['Low FGA', 'Low TRB']
+Support: 0.21508379888268156
+Confidence: 0.9166666666666666
+
+Rule #473: ['Low PPG', 'Low FGA', 'Low Mistakes'] -> ['Low TRB']
+Support: 0.21508379888268156
+Confidence: 0.927710843373494
+
+Rule #474: ['Low Mistakes', 'Low PPG', 'Low TRB'] -> ['Low FGA']
+Support: 0.21508379888268156
+Confidence: 0.9871794871794872
+
+Rule #475: ['Low Mistakes', 'Low PPG', 'Medium MP'] -> ['Low FGA']
+Support: 0.15921787709497207
+Confidence: 0.9827586206896551
+
+Rule #476: ['Low FGA', 'Low Mistakes', 'Medium MP'] -> ['Low TRB']
+Support: 0.18156424581005587
+Confidence: 0.9154929577464789
+
+Rule #477: ['Low FGA', 'Low Mistakes', 'Prime'] -> ['Low TRB']
+Support: 0.17597765363128492
+Confidence: 0.9545454545454546
+
+Rule #478: ['Low Mistakes', 'Prime', 'Low TRB'] -> ['Low FGA']
+Support: 0.17597765363128492
+Confidence: 0.9000000000000001
+
+Rule #479: ['Very Low PPG'] -> ['Low FGA', 'Low Mistakes', 'Low TRB']
+Support: 0.19553072625698323
+Confidence: 0.9722222222222221
+
+Rule #480: ['Low FGA', 'Very Low PPG'] -> ['Low Mistakes', 'Low TRB']
+Support: 0.19553072625698323
+Confidence: 0.9722222222222221
+
+Rule #481: ['Low Mistakes', 'Very Low PPG'] -> ['Low FGA', 'Low TRB']
+Support: 0.19553072625698323
+Confidence: 0.9859154929577464
+
+Rule #482: ['Low TRB', 'Very Low PPG'] -> ['Low FGA', 'Low Mistakes']
+Support: 0.19553072625698323
+Confidence: 1.0
+
+Rule #483: ['Low FGA', 'Low Mistakes', 'Very Low PPG'] -> ['Low TRB']
+Support: 0.19553072625698323
+Confidence: 0.9859154929577464
+
+Rule #484: ['Low FGA', 'Low TRB', 'Very Low PPG'] -> ['Low Mistakes']
+Support: 0.19553072625698323
+Confidence: 1.0
+
+Rule #485: ['Low Mistakes', 'Low TRB', 'Very Low PPG'] -> ['Low FGA']
+Support: 0.19553072625698323
+Confidence: 1.0
+
+Rule #486: ['Medium MP', 'Low PPG', 'Low TRB'] -> ['Low FGA']
+Support: 0.1787709497206704
+Confidence: 0.9696969696969697
+
+Rule #487: ['Low MP', 'Very Low PPG'] -> ['Low Mistakes', 'Low TRB']
+Support: 0.17039106145251395
+Confidence: 1.0
+
+Rule #488: ['Low Mistakes', 'Low MP', 'Very Low PPG'] -> ['Low TRB']
+Support: 0.17039106145251395
+Confidence: 1.0
+
+Rule #489: ['Low MP', 'Low TRB', 'Very Low PPG'] -> ['Low Mistakes']
+Support: 0.17039106145251395
+Confidence: 1.0
+
+Rule #490: ['Low Mistakes', 'Low PPG', 'Medium MP'] -> ['Low TRB']
+Support: 0.15083798882681565
+Confidence: 0.9310344827586208
+
+Rule #491: ['Low Mistakes', 'Low Defensive Impact', 'Low AST', 'Above Average 2P%'] -> ['Low FGA']
+Support: 0.164804469273743
+Confidence: 0.9218749999999999
+
+Rule #492: ['Low FGA', 'Low Mistakes', 'Low AST', 'Above Average 2P%'] -> ['Low Defensive Impact']
+Support: 0.164804469273743
+Confidence: 0.9218749999999999
+
+Rule #493: ['Low Defensive Impact', 'Low AST', 'Low TRB', 'Above Average 2P%'] -> ['Low FGA']
+Support: 0.164804469273743
+Confidence: 0.9218749999999999
+
+Rule #494: ['Low FGA', 'Low AST', 'Low TRB', 'Above Average 2P%'] -> ['Low Defensive Impact']
+Support: 0.164804469273743
+Confidence: 0.9365079365079364
+
+Rule #495: ['Low Mistakes', 'Low Defensive Impact', 'Low AST', 'Above Average 2P%'] -> ['Low TRB']
+Support: 0.16759776536312848
+Confidence: 0.9374999999999999
+
+Rule #496: ['Low Defensive Impact', 'Low AST', 'Low TRB', 'Above Average 2P%'] -> ['Low Mistakes']
+Support: 0.16759776536312848
+Confidence: 0.9374999999999999
+
+Rule #497: ['Low Mistakes', 'Low AST', 'Low TRB', 'Above Average 2P%'] -> ['Low Defensive Impact']
+Support: 0.16759776536312848
+Confidence: 0.9523809523809523
+
+Rule #498: ['Low FGA', 'Low Mistakes', 'Low AST', 'Above Average 2P%'] -> ['Low TRB']
+Support: 0.16201117318435754
+Confidence: 0.90625
+
+Rule #499: ['Low FGA', 'Low AST', 'Low TRB', 'Above Average 2P%'] -> ['Low Mistakes']
+Support: 0.16201117318435754
+Confidence: 0.9206349206349206
+
+Rule #500: ['Low Mistakes', 'Low AST', 'Low TRB', 'Above Average 2P%'] -> ['Low FGA']
+Support: 0.16201117318435754
+Confidence: 0.9206349206349206
+
+Rule #501: ['Low Mistakes', 'Low FGA', 'Low Defensive Impact', 'Above Average 2P%'] -> ['Low TRB']
+Support: 0.17597765363128492
+Confidence: 0.9264705882352942
+
+Rule #502: ['Low Mistakes', 'Low Defensive Impact', 'Low TRB', 'Above Average 2P%'] -> ['Low FGA']
+Support: 0.17597765363128492
+Confidence: 0.9130434782608696
+
+Rule #503: ['Low FGA', 'Low Mistakes', 'Low TRB', 'Above Average 2P%'] -> ['Low Defensive Impact']
+Support: 0.17597765363128492
+Confidence: 0.9545454545454546
+
+Rule #504: ['Low Defensive Impact', 'Low Mistakes', 'Low AST', 'Average EFG'] -> ['Low FGA']
+Support: 0.15083798882681565
+Confidence: 0.9000000000000001
+
+Rule #505: ['Low Mistakes', 'Low FGA', 'Low AST', 'Average EFG'] -> ['Low Defensive Impact']
+Support: 0.15083798882681565
+Confidence: 0.9152542372881357
+
+Rule #506: ['Low Defensive Impact', 'Low FGA', 'Low AST', 'Average EFG'] -> ['Low TRB']
+Support: 0.164804469273743
+Confidence: 0.9365079365079364
+
+Rule #507: ['Low Mistakes', 'Low AST', 'Average EFG'] -> ['Low Defensive Impact', 'Low TRB']
+Support: 0.164804469273743
+Confidence: 0.9076923076923077
+
+Rule #508: ['Low Defensive Impact', 'Low Mistakes', 'Low AST', 'Average EFG'] -> ['Low TRB']
+Support: 0.164804469273743
+Confidence: 0.9833333333333334
+
+Rule #509: ['Low Mistakes', 'Low AST', 'Average EFG', 'Low TRB'] -> ['Low Defensive Impact']
+Support: 0.164804469273743
+Confidence: 0.9365079365079364
+
+Rule #510: ['Low Mistakes', 'Low FGA', 'Low AST', 'Average EFG'] -> ['Low TRB']
+Support: 0.15921787709497207
+Confidence: 0.9661016949152542
+
+Rule #511: ['Low Mistakes', 'Low AST', 'Average EFG', 'Low TRB'] -> ['Low FGA']
+Support: 0.15921787709497207
+Confidence: 0.9047619047619047
+
+Rule #512: ['Low Mistakes', 'Low FGA', 'Low Defensive Impact', 'Average EFG'] -> ['Low TRB']
+Support: 0.18156424581005587
+Confidence: 0.9701492537313433
+
+Rule #513: ['Low FGA', 'Low Mistakes', 'Average EFG', 'Low TRB'] -> ['Low Defensive Impact']
+Support: 0.18156424581005587
+Confidence: 0.9285714285714286
+
+Rule #514: ['Developing', 'Low Mistakes', 'Bad FT Shooter', 'Low AST'] -> ['Low Defensive Impact']
+Support: 0.15083798882681565
+Confidence: 0.9473684210526316
+
+Rule #515: ['Developing', 'Low Defensive Impact', 'Low Mistakes', 'Bad FT Shooter'] -> ['Low AST']
+Support: 0.15083798882681565
+Confidence: 0.9152542372881357
+
+Rule #516: ['Developing', 'Low Defensive Impact', 'Bad FT Shooter', 'Low AST'] -> ['Low TRB']
+Support: 0.1564245810055866
+Confidence: 0.9032258064516129
+
+Rule #517: ['Developing', 'Low Mistakes', 'Bad FT Shooter', 'Low AST'] -> ['Low TRB']
+Support: 0.15363128491620112
+Confidence: 0.9649122807017544
+
+Rule #518: ['Developing', 'Low Mistakes', 'Bad FT Shooter', 'Low TRB'] -> ['Low AST']
+Support: 0.15363128491620112
+Confidence: 0.9016393442622952
+
+Rule #519: ['Developing', 'Low FGA', 'Bad FT Shooter', 'Low TRB'] -> ['Low Defensive Impact']
+Support: 0.1564245810055866
+Confidence: 0.9032258064516129
+
+Rule #520: ['Developing', 'Low Mistakes', 'Bad FT Shooter'] -> ['Low Defensive Impact', 'Low TRB']
+Support: 0.16201117318435754
+Confidence: 0.90625
+
+Rule #521: ['Developing', 'Low Defensive Impact', 'Low Mistakes', 'Bad FT Shooter'] -> ['Low TRB']
+Support: 0.16201117318435754
+Confidence: 0.9830508474576272
+
+Rule #522: ['Developing', 'Low Mistakes', 'Bad FT Shooter', 'Low TRB'] -> ['Low Defensive Impact']
+Support: 0.16201117318435754
+Confidence: 0.9508196721311476
+
+Rule #523: ['Low MP', 'Bad FT Shooter'] -> ['Low FGA', 'Low Defensive Impact', 'Low AST']
+Support: 0.16759776536312848
+Confidence: 0.923076923076923
+
+Rule #524: ['Low MP', 'Bad FT Shooter', 'Low AST'] -> ['Low FGA', 'Low Defensive Impact']
+Support: 0.16759776536312848
+Confidence: 0.9677419354838709
+
+Rule #525: ['Low Defensive Impact', 'Low MP', 'Bad FT Shooter'] -> ['Low FGA', 'Low AST']
+Support: 0.16759776536312848
+Confidence: 0.9523809523809523
+
+Rule #526: ['Low MP', 'Low FGA', 'Bad FT Shooter'] -> ['Low Defensive Impact', 'Low AST']
+Support: 0.16759776536312848
+Confidence: 0.923076923076923
+
+Rule #527: ['Low Defensive Impact', 'Low MP', 'Bad FT Shooter', 'Low AST'] -> ['Low FGA']
+Support: 0.16759776536312848
+Confidence: 1.0
+
+Rule #528: ['Low MP', 'Low FGA', 'Bad FT Shooter', 'Low AST'] -> ['Low Defensive Impact']
+Support: 0.16759776536312848
+Confidence: 0.9677419354838709
+
+Rule #529: ['Low MP', 'Low Defensive Impact', 'Low FGA', 'Bad FT Shooter'] -> ['Low AST']
+Support: 0.16759776536312848
+Confidence: 0.9523809523809523
+
+Rule #530: ['Low Defensive Impact', 'Low Mistakes', 'Bad FT Shooter', 'Low AST'] -> ['Low FGA']
+Support: 0.2541899441340782
+Confidence: 0.9191919191919191
+
+Rule #531: ['Low Mistakes', 'Low FGA', 'Bad FT Shooter', 'Low AST'] -> ['Low Defensive Impact']
+Support: 0.2541899441340782
+Confidence: 0.9381443298969071
+
+Rule #532: ['Low Defensive Impact', 'Bad FT Shooter', 'Low AST', 'Low TRB'] -> ['Low FGA']
+Support: 0.2569832402234637
+Confidence: 0.9019607843137256
+
+Rule #533: ['Low FGA', 'Bad FT Shooter', 'Low AST', 'Low TRB'] -> ['Low Defensive Impact']
+Support: 0.2569832402234637
+Confidence: 0.9292929292929293
+
+Rule #534: ['Bad FT Shooter', 'Very Low PPG'] -> ['Low FGA', 'Low Defensive Impact', 'Low AST']
+Support: 0.15083798882681565
+Confidence: 0.9473684210526316
+
+Rule #535: ['Bad FT Shooter', 'Low AST', 'Very Low PPG'] -> ['Low FGA', 'Low Defensive Impact']
+Support: 0.15083798882681565
+Confidence: 1.0
+
+Rule #536: ['Low Defensive Impact', 'Bad FT Shooter', 'Very Low PPG'] -> ['Low FGA', 'Low AST']
+Support: 0.15083798882681565
+Confidence: 0.9473684210526316
+
+Rule #537: ['Low FGA', 'Bad FT Shooter', 'Very Low PPG'] -> ['Low Defensive Impact', 'Low AST']
+Support: 0.15083798882681565
+Confidence: 0.9473684210526316
+
+Rule #538: ['Low Defensive Impact', 'Bad FT Shooter', 'Low AST', 'Very Low PPG'] -> ['Low FGA']
+Support: 0.15083798882681565
+Confidence: 1.0
+
+Rule #539: ['Low FGA', 'Bad FT Shooter', 'Low AST', 'Very Low PPG'] -> ['Low Defensive Impact']
+Support: 0.15083798882681565
+Confidence: 1.0
+
+Rule #540: ['Low Defensive Impact', 'Low FGA', 'Bad FT Shooter', 'Very Low PPG'] -> ['Low AST']
+Support: 0.15083798882681565
+Confidence: 0.9473684210526316
+
+Rule #541: ['Low MP', 'Bad FT Shooter'] -> ['Low Mistakes', 'Low Defensive Impact', 'Low AST']
+Support: 0.164804469273743
+Confidence: 0.9076923076923077
+
+Rule #542: ['Low MP', 'Bad FT Shooter', 'Low AST'] -> ['Low Mistakes', 'Low Defensive Impact']
+Support: 0.164804469273743
+Confidence: 0.9516129032258064
+
+Rule #543: ['Low Defensive Impact', 'Low MP', 'Bad FT Shooter'] -> ['Low Mistakes', 'Low AST']
+Support: 0.164804469273743
+Confidence: 0.9365079365079364
+
+Rule #544: ['Low Mistakes', 'Low MP', 'Bad FT Shooter'] -> ['Low Defensive Impact', 'Low AST']
+Support: 0.164804469273743
+Confidence: 0.9365079365079364
+
+Rule #545: ['Low Defensive Impact', 'Low MP', 'Bad FT Shooter', 'Low AST'] -> ['Low Mistakes']
+Support: 0.164804469273743
+Confidence: 0.9833333333333334
+
+Rule #546: ['Low Mistakes', 'Low MP', 'Bad FT Shooter', 'Low AST'] -> ['Low Defensive Impact']
+Support: 0.164804469273743
+Confidence: 0.9833333333333334
+
+Rule #547: ['Low Mistakes', 'Low Defensive Impact', 'Low MP', 'Bad FT Shooter'] -> ['Low AST']
+Support: 0.164804469273743
+Confidence: 0.9516129032258064
+
+Rule #548: ['Low MP', 'Bad FT Shooter', 'Low AST'] -> ['Low Defensive Impact', 'Low TRB']
+Support: 0.16201117318435754
+Confidence: 0.9354838709677419
+
+Rule #549: ['Low Defensive Impact', 'Low MP', 'Bad FT Shooter'] -> ['Low AST', 'Low TRB']
+Support: 0.16201117318435754
+Confidence: 0.9206349206349206
+
+Rule #550: ['Low MP', 'Bad FT Shooter', 'Low TRB'] -> ['Low Defensive Impact', 'Low AST']
+Support: 0.16201117318435754
+Confidence: 0.9206349206349206
+
+Rule #551: ['Low Defensive Impact', 'Low MP', 'Bad FT Shooter', 'Low AST'] -> ['Low TRB']
+Support: 0.16201117318435754
+Confidence: 0.9666666666666667
+
+Rule #552: ['Low MP', 'Bad FT Shooter', 'Low AST', 'Low TRB'] -> ['Low Defensive Impact']
+Support: 0.16201117318435754
+Confidence: 0.9666666666666667
+
+Rule #553: ['Low Defensive Impact', 'Low MP', 'Bad FT Shooter', 'Low TRB'] -> ['Low AST']
+Support: 0.16201117318435754
+Confidence: 0.9508196721311476
+
+Rule #554: ['Low Mistakes', 'Bad FT Shooter', 'Low AST'] -> ['Low Defensive Impact', 'Low TRB']
+Support: 0.26536312849162014
+Confidence: 0.9047619047619049
+
+Rule #555: ['Low Defensive Impact', 'Low Mistakes', 'Bad FT Shooter', 'Low AST'] -> ['Low TRB']
+Support: 0.26536312849162014
+Confidence: 0.9595959595959597
+
+Rule #556: ['Low Defensive Impact', 'Bad FT Shooter', 'Low AST', 'Low TRB'] -> ['Low Mistakes']
+Support: 0.26536312849162014
+Confidence: 0.931372549019608
+
+Rule #557: ['Low Mistakes', 'Bad FT Shooter', 'Low AST', 'Low TRB'] -> ['Low Defensive Impact']
+Support: 0.26536312849162014
+Confidence: 0.9595959595959597
+
+Rule #558: ['Low MP', 'Bad FT Shooter'] -> ['Low FGA', 'Low Mistakes', 'Low AST']
+Support: 0.16759776536312848
+Confidence: 0.923076923076923
+
+Rule #559: ['Low MP', 'Bad FT Shooter', 'Low AST'] -> ['Low FGA', 'Low Mistakes']
+Support: 0.16759776536312848
+Confidence: 0.9677419354838709
+
+Rule #560: ['Low MP', 'Low FGA', 'Bad FT Shooter'] -> ['Low Mistakes', 'Low AST']
+Support: 0.16759776536312848
+Confidence: 0.923076923076923
+
+Rule #561: ['Low Mistakes', 'Low MP', 'Bad FT Shooter'] -> ['Low FGA', 'Low AST']
+Support: 0.16759776536312848
+Confidence: 0.9523809523809523
+
+Rule #562: ['Low MP', 'Low FGA', 'Bad FT Shooter', 'Low AST'] -> ['Low Mistakes']
+Support: 0.16759776536312848
+Confidence: 0.9677419354838709
+
+Rule #563: ['Low Mistakes', 'Low MP', 'Bad FT Shooter', 'Low AST'] -> ['Low FGA']
+Support: 0.16759776536312848
+Confidence: 1.0
+
+Rule #564: ['Low MP', 'Low FGA', 'Bad FT Shooter', 'Low Mistakes'] -> ['Low AST']
+Support: 0.16759776536312848
+Confidence: 0.9523809523809523
+
+Rule #565: ['Low MP', 'Bad FT Shooter'] -> ['Low FGA', 'Low AST', 'Low TRB']
+Support: 0.16759776536312848
+Confidence: 0.923076923076923
+
+Rule #566: ['Low MP', 'Bad FT Shooter', 'Low AST'] -> ['Low FGA', 'Low TRB']
+Support: 0.16759776536312848
+Confidence: 0.9677419354838709
+
+Rule #567: ['Low MP', 'Low FGA', 'Bad FT Shooter'] -> ['Low AST', 'Low TRB']
+Support: 0.16759776536312848
+Confidence: 0.923076923076923
+
+Rule #568: ['Low MP', 'Bad FT Shooter', 'Low TRB'] -> ['Low FGA', 'Low AST']
+Support: 0.16759776536312848
+Confidence: 0.9523809523809523
+
+Rule #569: ['Low MP', 'Low FGA', 'Bad FT Shooter', 'Low AST'] -> ['Low TRB']
+Support: 0.16759776536312848
+Confidence: 0.9677419354838709
+
+Rule #570: ['Low MP', 'Bad FT Shooter', 'Low AST', 'Low TRB'] -> ['Low FGA']
+Support: 0.16759776536312848
+Confidence: 1.0
+
+Rule #571: ['Low MP', 'Low FGA', 'Bad FT Shooter', 'Low TRB'] -> ['Low AST']
+Support: 0.16759776536312848
+Confidence: 0.9523809523809523
+
+Rule #572: ['Low Mistakes', 'Low FGA', 'Bad FT Shooter', 'Low AST'] -> ['Low TRB']
+Support: 0.2541899441340782
+Confidence: 0.9381443298969071
+
+Rule #573: ['Low FGA', 'Bad FT Shooter', 'Low AST', 'Low TRB'] -> ['Low Mistakes']
+Support: 0.2541899441340782
+Confidence: 0.9191919191919191
+
+Rule #574: ['Low Mistakes', 'Bad FT Shooter', 'Low AST', 'Low TRB'] -> ['Low FGA']
+Support: 0.2541899441340782
+Confidence: 0.9191919191919191
+
+Rule #575: ['Low MP', 'Bad FT Shooter'] -> ['Low Mistakes', 'Low AST', 'Low TRB']
+Support: 0.164804469273743
+Confidence: 0.9076923076923077
+
+Rule #576: ['Low MP', 'Bad FT Shooter', 'Low AST'] -> ['Low Mistakes', 'Low TRB']
+Support: 0.164804469273743
+Confidence: 0.9516129032258064
+
+Rule #577: ['Low Mistakes', 'Low MP', 'Bad FT Shooter'] -> ['Low AST', 'Low TRB']
+Support: 0.164804469273743
+Confidence: 0.9365079365079364
+
+Rule #578: ['Low MP', 'Bad FT Shooter', 'Low TRB'] -> ['Low Mistakes', 'Low AST']
+Support: 0.164804469273743
+Confidence: 0.9365079365079364
+
+Rule #579: ['Low Mistakes', 'Low MP', 'Bad FT Shooter', 'Low AST'] -> ['Low TRB']
+Support: 0.164804469273743
+Confidence: 0.9833333333333334
+
+Rule #580: ['Low MP', 'Bad FT Shooter', 'Low AST', 'Low TRB'] -> ['Low Mistakes']
+Support: 0.164804469273743
+Confidence: 0.9833333333333334
+
+Rule #581: ['Low Mistakes', 'Low MP', 'Bad FT Shooter', 'Low TRB'] -> ['Low AST']
+Support: 0.164804469273743
+Confidence: 0.9516129032258064
+
+Rule #582: ['Low MP', 'Bad FT Shooter'] -> ['Low Mistakes', 'Low FGA', 'Low Defensive Impact']
+Support: 0.17318435754189945
+Confidence: 0.9538461538461539
+
+Rule #583: ['Low Defensive Impact', 'Low MP', 'Bad FT Shooter'] -> ['Low FGA', 'Low Mistakes']
+Support: 0.17318435754189945
+Confidence: 0.9841269841269842
+
+Rule #584: ['Low MP', 'Low FGA', 'Bad FT Shooter'] -> ['Low Mistakes', 'Low Defensive Impact']
+Support: 0.17318435754189945
+Confidence: 0.9538461538461539
+
+Rule #585: ['Low Mistakes', 'Low MP', 'Bad FT Shooter'] -> ['Low FGA', 'Low Defensive Impact']
+Support: 0.17318435754189945
+Confidence: 0.9841269841269842
+
+Rule #586: ['Low MP', 'Low Defensive Impact', 'Low FGA', 'Bad FT Shooter'] -> ['Low Mistakes']
+Support: 0.17318435754189945
+Confidence: 0.9841269841269842
+
+Rule #587: ['Low Mistakes', 'Low Defensive Impact', 'Low MP', 'Bad FT Shooter'] -> ['Low FGA']
+Support: 0.17318435754189945
+Confidence: 1.0
+
+Rule #588: ['Low MP', 'Low FGA', 'Bad FT Shooter', 'Low Mistakes'] -> ['Low Defensive Impact']
+Support: 0.17318435754189945
+Confidence: 0.9841269841269842
+
+Rule #589: ['Low MP', 'Bad FT Shooter'] -> ['Low FGA', 'Low Defensive Impact', 'Low TRB']
+Support: 0.17039106145251395
+Confidence: 0.9384615384615383
+
+Rule #590: ['Low Defensive Impact', 'Low MP', 'Bad FT Shooter'] -> ['Low FGA', 'Low TRB']
+Support: 0.17039106145251395
+Confidence: 0.9682539682539681
+
+Rule #591: ['Low MP', 'Low FGA', 'Bad FT Shooter'] -> ['Low Defensive Impact', 'Low TRB']
+Support: 0.17039106145251395
+Confidence: 0.9384615384615383
+
+Rule #592: ['Low MP', 'Bad FT Shooter', 'Low TRB'] -> ['Low FGA', 'Low Defensive Impact']
+Support: 0.17039106145251395
+Confidence: 0.9682539682539681
+
+Rule #593: ['Low MP', 'Low Defensive Impact', 'Low FGA', 'Bad FT Shooter'] -> ['Low TRB']
+Support: 0.17039106145251395
+Confidence: 0.9682539682539681
+
+Rule #594: ['Low Defensive Impact', 'Low MP', 'Bad FT Shooter', 'Low TRB'] -> ['Low FGA']
+Support: 0.17039106145251395
+Confidence: 1.0
+
+Rule #595: ['Low MP', 'Low FGA', 'Bad FT Shooter', 'Low TRB'] -> ['Low Defensive Impact']
+Support: 0.17039106145251395
+Confidence: 0.9682539682539681
+
+Rule #596: ['Low Mistakes', 'Low Defensive Impact', 'Low FGA', 'Bad FT Shooter'] -> ['Low TRB']
+Support: 0.2709497206703911
+Confidence: 0.9509803921568629
+
+Rule #597: ['Low Mistakes', 'Low FGA', 'Bad FT Shooter', 'Low TRB'] -> ['Low Defensive Impact']
+Support: 0.2709497206703911
+Confidence: 0.9509803921568629
+
+Rule #598: ['Bad FT Shooter', 'Very Low PPG'] -> ['Low Mistakes', 'Low FGA', 'Low Defensive Impact']
+Support: 0.1564245810055866
+Confidence: 0.9824561403508772
+
+Rule #599: ['Low Defensive Impact', 'Bad FT Shooter', 'Very Low PPG'] -> ['Low FGA', 'Low Mistakes']
+Support: 0.1564245810055866
+Confidence: 0.9824561403508772
+
+Rule #600: ['Low FGA', 'Bad FT Shooter', 'Very Low PPG'] -> ['Low Mistakes', 'Low Defensive Impact']
+Support: 0.1564245810055866
+Confidence: 0.9824561403508772
+
+Rule #601: ['Low Mistakes', 'Bad FT Shooter', 'Very Low PPG'] -> ['Low FGA', 'Low Defensive Impact']
+Support: 0.1564245810055866
+Confidence: 1.0
+
+Rule #602: ['Low Defensive Impact', 'Low FGA', 'Bad FT Shooter', 'Very Low PPG'] -> ['Low Mistakes']
+Support: 0.1564245810055866
+Confidence: 0.9824561403508772
+
+Rule #603: ['Low Defensive Impact', 'Low Mistakes', 'Bad FT Shooter', 'Very Low PPG'] -> ['Low FGA']
+Support: 0.1564245810055866
+Confidence: 1.0
+
+Rule #604: ['Low Mistakes', 'Low FGA', 'Bad FT Shooter', 'Very Low PPG'] -> ['Low Defensive Impact']
+Support: 0.1564245810055866
+Confidence: 1.0
+
+Rule #605: ['Bad FT Shooter', 'Very Low PPG'] -> ['Low FGA', 'Low Defensive Impact', 'Low TRB']
+Support: 0.15363128491620112
+Confidence: 0.9649122807017544
+
+Rule #606: ['Low Defensive Impact', 'Bad FT Shooter', 'Very Low PPG'] -> ['Low FGA', 'Low TRB']
+Support: 0.15363128491620112
+Confidence: 0.9649122807017544
+
+Rule #607: ['Low FGA', 'Bad FT Shooter', 'Very Low PPG'] -> ['Low Defensive Impact', 'Low TRB']
+Support: 0.15363128491620112
+Confidence: 0.9649122807017544
+
+Rule #608: ['Bad FT Shooter', 'Low TRB', 'Very Low PPG'] -> ['Low FGA', 'Low Defensive Impact']
+Support: 0.15363128491620112
+Confidence: 1.0
+
+Rule #609: ['Low Defensive Impact', 'Low FGA', 'Bad FT Shooter', 'Very Low PPG'] -> ['Low TRB']
+Support: 0.15363128491620112
+Confidence: 0.9649122807017544
+
+Rule #610: ['Low Defensive Impact', 'Bad FT Shooter', 'Low TRB', 'Very Low PPG'] -> ['Low FGA']
+Support: 0.15363128491620112
+Confidence: 1.0
+
+Rule #611: ['Low FGA', 'Bad FT Shooter', 'Low TRB', 'Very Low PPG'] -> ['Low Defensive Impact']
+Support: 0.15363128491620112
+Confidence: 1.0
+
+Rule #612: ['Low MP', 'Bad FT Shooter'] -> ['Low Mistakes', 'Low Defensive Impact', 'Low TRB']
+Support: 0.17039106145251395
+Confidence: 0.9384615384615383
+
+Rule #613: ['Low Defensive Impact', 'Low MP', 'Bad FT Shooter'] -> ['Low Mistakes', 'Low TRB']
+Support: 0.17039106145251395
+Confidence: 0.9682539682539681
+
+Rule #614: ['Low Mistakes', 'Low MP', 'Bad FT Shooter'] -> ['Low Defensive Impact', 'Low TRB']
+Support: 0.17039106145251395
+Confidence: 0.9682539682539681
+
+Rule #615: ['Low MP', 'Bad FT Shooter', 'Low TRB'] -> ['Low Mistakes', 'Low Defensive Impact']
+Support: 0.17039106145251395
+Confidence: 0.9682539682539681
+
+Rule #616: ['Low Mistakes', 'Low Defensive Impact', 'Low MP', 'Bad FT Shooter'] -> ['Low TRB']
+Support: 0.17039106145251395
+Confidence: 0.9838709677419354
+
+Rule #617: ['Low Defensive Impact', 'Low MP', 'Bad FT Shooter', 'Low TRB'] -> ['Low Mistakes']
+Support: 0.17039106145251395
+Confidence: 1.0
+
+Rule #618: ['Low Mistakes', 'Low MP', 'Bad FT Shooter', 'Low TRB'] -> ['Low Defensive Impact']
+Support: 0.17039106145251395
+Confidence: 0.9838709677419354
+
+Rule #619: ['Bad FT Shooter', 'Very Low PPG'] -> ['Low Mistakes', 'Low Defensive Impact', 'Low TRB']
+Support: 0.15363128491620112
+Confidence: 0.9649122807017544
+
+Rule #620: ['Low Defensive Impact', 'Bad FT Shooter', 'Very Low PPG'] -> ['Low Mistakes', 'Low TRB']
+Support: 0.15363128491620112
+Confidence: 0.9649122807017544
+
+Rule #621: ['Low Mistakes', 'Bad FT Shooter', 'Very Low PPG'] -> ['Low Defensive Impact', 'Low TRB']
+Support: 0.15363128491620112
+Confidence: 0.9821428571428572
+
+Rule #622: ['Bad FT Shooter', 'Low TRB', 'Very Low PPG'] -> ['Low Mistakes', 'Low Defensive Impact']
+Support: 0.15363128491620112
+Confidence: 1.0
+
+Rule #623: ['Low Defensive Impact', 'Low Mistakes', 'Bad FT Shooter', 'Very Low PPG'] -> ['Low TRB']
+Support: 0.15363128491620112
+Confidence: 0.9821428571428572
+
+Rule #624: ['Low Defensive Impact', 'Bad FT Shooter', 'Low TRB', 'Very Low PPG'] -> ['Low Mistakes']
+Support: 0.15363128491620112
+Confidence: 1.0
+
+Rule #625: ['Low Mistakes', 'Bad FT Shooter', 'Low TRB', 'Very Low PPG'] -> ['Low Defensive Impact']
+Support: 0.15363128491620112
+Confidence: 1.0
+
+Rule #626: ['Low MP', 'Bad FT Shooter'] -> ['Low FGA', 'Low Mistakes', 'Low TRB']
+Support: 0.17318435754189945
+Confidence: 0.9538461538461539
+
+Rule #627: ['Low MP', 'Low FGA', 'Bad FT Shooter'] -> ['Low Mistakes', 'Low TRB']
+Support: 0.17318435754189945
+Confidence: 0.9538461538461539
+
+Rule #628: ['Low Mistakes', 'Low MP', 'Bad FT Shooter'] -> ['Low FGA', 'Low TRB']
+Support: 0.17318435754189945
+Confidence: 0.9841269841269842
+
+Rule #629: ['Low MP', 'Bad FT Shooter', 'Low TRB'] -> ['Low FGA', 'Low Mistakes']
+Support: 0.17318435754189945
+Confidence: 0.9841269841269842
+
+Rule #630: ['Low MP', 'Low FGA', 'Bad FT Shooter', 'Low Mistakes'] -> ['Low TRB']
+Support: 0.17318435754189945
+Confidence: 0.9841269841269842
+
+Rule #631: ['Low MP', 'Low FGA', 'Bad FT Shooter', 'Low TRB'] -> ['Low Mistakes']
+Support: 0.17318435754189945
+Confidence: 0.9841269841269842
+
+Rule #632: ['Low Mistakes', 'Low MP', 'Bad FT Shooter', 'Low TRB'] -> ['Low FGA']
+Support: 0.17318435754189945
+Confidence: 1.0
+
+Rule #633: ['Bad FT Shooter', 'Very Low PPG'] -> ['Low FGA', 'Low Mistakes', 'Low TRB']
+Support: 0.15363128491620112
+Confidence: 0.9649122807017544
+
+Rule #634: ['Low FGA', 'Bad FT Shooter', 'Very Low PPG'] -> ['Low Mistakes', 'Low TRB']
+Support: 0.15363128491620112
+Confidence: 0.9649122807017544
+
+Rule #635: ['Low Mistakes', 'Bad FT Shooter', 'Very Low PPG'] -> ['Low FGA', 'Low TRB']
+Support: 0.15363128491620112
+Confidence: 0.9821428571428572
+
+Rule #636: ['Bad FT Shooter', 'Low TRB', 'Very Low PPG'] -> ['Low FGA', 'Low Mistakes']
+Support: 0.15363128491620112
+Confidence: 1.0
+
+Rule #637: ['Low Mistakes', 'Low FGA', 'Bad FT Shooter', 'Very Low PPG'] -> ['Low TRB']
+Support: 0.15363128491620112
+Confidence: 0.9821428571428572
+
+Rule #638: ['Low FGA', 'Bad FT Shooter', 'Low TRB', 'Very Low PPG'] -> ['Low Mistakes']
+Support: 0.15363128491620112
+Confidence: 1.0
+
+Rule #639: ['Low Mistakes', 'Bad FT Shooter', 'Low TRB', 'Very Low PPG'] -> ['Low FGA']
+Support: 0.15363128491620112
+Confidence: 1.0
+
+Rule #640: ['Developing', 'Low FGA', 'Low Mistakes', 'Low AST'] -> ['Low Defensive Impact']
+Support: 0.1787709497206704
+Confidence: 0.955223880597015
+
+Rule #641: ['Developing', 'Low FGA', 'Low Defensive Impact', 'Low AST'] -> ['Low TRB']
+Support: 0.1871508379888268
+Confidence: 0.9178082191780822
+
+Rule #642: ['Developing', 'Low FGA', 'Low AST', 'Low TRB'] -> ['Low Defensive Impact']
+Support: 0.1871508379888268
+Confidence: 0.9178082191780822
+
+Rule #643: ['Developing', 'Low Mistakes', 'Low AST'] -> ['Low Defensive Impact', 'Low TRB']
+Support: 0.19553072625698323
+Confidence: 0.9333333333333332
+
+Rule #644: ['Developing', 'Low Mistakes', 'Low Defensive Impact', 'Low AST'] -> ['Low TRB']
+Support: 0.19553072625698323
+Confidence: 0.9722222222222221
+
+Rule #645: ['Developing', 'Low Defensive Impact', 'Low AST', 'Low TRB'] -> ['Low Mistakes']
+Support: 0.19553072625698323
+Confidence: 0.9333333333333332
+
+Rule #646: ['Developing', 'Low Mistakes', 'Low AST', 'Low TRB'] -> ['Low Defensive Impact']
+Support: 0.19553072625698323
+Confidence: 0.9722222222222221
+
+Rule #647: ['Developing', 'Low FGA', 'Low Mistakes', 'Low AST'] -> ['Low TRB']
+Support: 0.18156424581005587
+Confidence: 0.9701492537313433
+
+Rule #648: ['Developing', 'Low Mistakes', 'Low AST', 'Low TRB'] -> ['Low FGA']
+Support: 0.18156424581005587
+Confidence: 0.9027777777777778
+
+Rule #649: ['Developing', 'Low FGA', 'Low Mistakes'] -> ['Low Defensive Impact', 'Low TRB']
+Support: 0.19832402234636873
+Confidence: 0.9342105263157895
+
+Rule #650: ['Developing', 'Low FGA', 'Low Defensive Impact', 'Low Mistakes'] -> ['Low TRB']
+Support: 0.19832402234636873
+Confidence: 0.9861111111111112
+
+Rule #651: ['Developing', 'Low FGA', 'Low Mistakes', 'Low TRB'] -> ['Low Defensive Impact']
+Support: 0.19832402234636873
+Confidence: 0.9594594594594595
+
+Rule #652: ['Low FGA', 'Low Defensive Impact', 'Low 2P%'] -> ['Low Mistakes', 'Low TRB']
+Support: 0.15083798882681565
+Confidence: 0.9000000000000001
+
+Rule #653: ['Low Mistakes', 'Low Defensive Impact', 'Low 2P%'] -> ['Low FGA', 'Low TRB']
+Support: 0.15083798882681565
+Confidence: 0.9000000000000001
+
+Rule #654: ['Low FGA', 'Low Mistakes', 'Low 2P%'] -> ['Low Defensive Impact', 'Low TRB']
+Support: 0.15083798882681565
+Confidence: 0.9818181818181818
+
+Rule #655: ['Low Mistakes', 'Low FGA', 'Low Defensive Impact', 'Low 2P%'] -> ['Low TRB']
+Support: 0.15083798882681565
+Confidence: 1.0
+
+Rule #656: ['Low FGA', 'Low Defensive Impact', 'Low TRB', 'Low 2P%'] -> ['Low Mistakes']
+Support: 0.15083798882681565
+Confidence: 0.9152542372881357
+
+Rule #657: ['Low Mistakes', 'Low Defensive Impact', 'Low TRB', 'Low 2P%'] -> ['Low FGA']
+Support: 0.15083798882681565
+Confidence: 0.9000000000000001
+
+Rule #658: ['Low FGA', 'Low Mistakes', 'Low TRB', 'Low 2P%'] -> ['Low Defensive Impact']
+Support: 0.15083798882681565
+Confidence: 0.9818181818181818
+
+Rule #659: ['Low MP'] -> ['Low Mistakes', 'Low FGA', 'Low Defensive Impact', 'Low AST']
+Support: 0.21508379888268156
+Confidence: 0.9166666666666666
+
+Rule #660: ['Low MP', 'Low AST'] -> ['Low Mistakes', 'Low FGA', 'Low Defensive Impact']
+Support: 0.21508379888268156
+Confidence: 0.9625
+
+Rule #661: ['Low MP', 'Low Defensive Impact'] -> ['Low FGA', 'Low Mistakes', 'Low AST']
+Support: 0.21508379888268156
+Confidence: 0.9390243902439024
+
+Rule #662: ['Low FGA', 'Low MP'] -> ['Low Mistakes', 'Low Defensive Impact', 'Low AST']
+Support: 0.21508379888268156
+Confidence: 0.9166666666666666
+
+Rule #663: ['Low Mistakes', 'Low MP'] -> ['Low FGA', 'Low Defensive Impact', 'Low AST']
+Support: 0.21508379888268156
+Confidence: 0.9390243902439024
+
+Rule #664: ['Low MP', 'Low Defensive Impact', 'Low AST'] -> ['Low FGA', 'Low Mistakes']
+Support: 0.21508379888268156
+Confidence: 0.9871794871794872
+
+Rule #665: ['Low FGA', 'Low MP', 'Low AST'] -> ['Low Mistakes', 'Low Defensive Impact']
+Support: 0.21508379888268156
+Confidence: 0.9625
+
+Rule #666: ['Low Mistakes', 'Low MP', 'Low AST'] -> ['Low FGA', 'Low Defensive Impact']
+Support: 0.21508379888268156
+Confidence: 0.9871794871794872
+
+Rule #667: ['Low MP', 'Low FGA', 'Low Defensive Impact'] -> ['Low Mistakes', 'Low AST']
+Support: 0.21508379888268156
+Confidence: 0.9390243902439024
+
+Rule #668: ['Low Mistakes', 'Low MP', 'Low Defensive Impact'] -> ['Low FGA', 'Low AST']
+Support: 0.21508379888268156
+Confidence: 0.9506172839506172
+
+Rule #669: ['Low Mistakes', 'Low FGA', 'Low MP'] -> ['Low Defensive Impact', 'Low AST']
+Support: 0.21508379888268156
+Confidence: 0.9390243902439024
+
+Rule #670: ['Low MP', 'Low FGA', 'Low Defensive Impact', 'Low AST'] -> ['Low Mistakes']
+Support: 0.21508379888268156
+Confidence: 0.9871794871794872
+
+Rule #671: ['Low Mistakes', 'Low MP', 'Low Defensive Impact', 'Low AST'] -> ['Low FGA']
+Support: 0.21508379888268156
+Confidence: 1.0
+
+Rule #672: ['Low Mistakes', 'Low FGA', 'Low MP', 'Low AST'] -> ['Low Defensive Impact']
+Support: 0.21508379888268156
+Confidence: 0.9871794871794872
+
+Rule #673: ['Low MP', 'Low FGA', 'Low Defensive Impact', 'Low Mistakes'] -> ['Low AST']
+Support: 0.21508379888268156
+Confidence: 0.9506172839506172
+
+Rule #674: ['Low MP'] -> ['Low FGA', 'Low Defensive Impact', 'Low AST', 'Low TRB']
+Support: 0.2122905027932961
+Confidence: 0.9047619047619048
+
+Rule #675: ['Low MP', 'Low AST'] -> ['Low FGA', 'Low Defensive Impact', 'Low TRB']
+Support: 0.2122905027932961
+Confidence: 0.9500000000000001
+
+Rule #676: ['Low MP', 'Low Defensive Impact'] -> ['Low FGA', 'Low AST', 'Low TRB']
+Support: 0.2122905027932961
+Confidence: 0.9268292682926829
+
+Rule #677: ['Low FGA', 'Low MP'] -> ['Low Defensive Impact', 'Low AST', 'Low TRB']
+Support: 0.2122905027932961
+Confidence: 0.9047619047619048
+
+Rule #678: ['Low MP', 'Low TRB'] -> ['Low FGA', 'Low Defensive Impact', 'Low AST']
+Support: 0.2122905027932961
+Confidence: 0.9268292682926829
+
+Rule #679: ['Low MP', 'Low Defensive Impact', 'Low AST'] -> ['Low FGA', 'Low TRB']
+Support: 0.2122905027932961
+Confidence: 0.9743589743589743
+
+Rule #680: ['Low FGA', 'Low MP', 'Low AST'] -> ['Low Defensive Impact', 'Low TRB']
+Support: 0.2122905027932961
+Confidence: 0.9500000000000001
+
+Rule #681: ['Low MP', 'Low AST', 'Low TRB'] -> ['Low FGA', 'Low Defensive Impact']
+Support: 0.2122905027932961
+Confidence: 0.9743589743589743
+
+Rule #682: ['Low MP', 'Low FGA', 'Low Defensive Impact'] -> ['Low AST', 'Low TRB']
+Support: 0.2122905027932961
+Confidence: 0.9268292682926829
+
+Rule #683: ['Low MP', 'Low Defensive Impact', 'Low TRB'] -> ['Low FGA', 'Low AST']
+Support: 0.2122905027932961
+Confidence: 0.9500000000000001
+
+Rule #684: ['Low FGA', 'Low MP', 'Low TRB'] -> ['Low Defensive Impact', 'Low AST']
+Support: 0.2122905027932961
+Confidence: 0.9268292682926829
+
+Rule #685: ['Low MP', 'Low FGA', 'Low Defensive Impact', 'Low AST'] -> ['Low TRB']
+Support: 0.2122905027932961
+Confidence: 0.9743589743589743
+
+Rule #686: ['Low MP', 'Low Defensive Impact', 'Low AST', 'Low TRB'] -> ['Low FGA']
+Support: 0.2122905027932961
+Confidence: 1.0
+
+Rule #687: ['Low FGA', 'Low MP', 'Low AST', 'Low TRB'] -> ['Low Defensive Impact']
+Support: 0.2122905027932961
+Confidence: 0.9743589743589743
+
+Rule #688: ['Low MP', 'Low FGA', 'Low Defensive Impact', 'Low TRB'] -> ['Low AST']
+Support: 0.2122905027932961
+Confidence: 0.9500000000000001
+
+Rule #689: ['Low MP', 'Very Low PPG'] -> ['Low FGA', 'Low Defensive Impact', 'Low AST']
+Support: 0.16201117318435754
+Confidence: 0.9508196721311476
+
+Rule #690: ['Low MP', 'Low AST', 'Very Low PPG'] -> ['Low FGA', 'Low Defensive Impact']
+Support: 0.16201117318435754
+Confidence: 1.0
+
+Rule #691: ['Low MP', 'Low Defensive Impact', 'Very Low PPG'] -> ['Low FGA', 'Low AST']
+Support: 0.16201117318435754
+Confidence: 0.9508196721311476
+
+Rule #692: ['Low FGA', 'Low MP', 'Very Low PPG'] -> ['Low Defensive Impact', 'Low AST']
+Support: 0.16201117318435754
+Confidence: 0.9508196721311476
+
+Rule #693: ['Low MP', 'Low Defensive Impact', 'Low AST', 'Very Low PPG'] -> ['Low FGA']
+Support: 0.16201117318435754
+Confidence: 1.0
+
+Rule #694: ['Low FGA', 'Low MP', 'Low AST', 'Very Low PPG'] -> ['Low Defensive Impact']
+Support: 0.16201117318435754
+Confidence: 1.0
+
+Rule #695: ['Low MP', 'Low FGA', 'Low Defensive Impact', 'Very Low PPG'] -> ['Low AST']
+Support: 0.16201117318435754
+Confidence: 0.9508196721311476
+
+Rule #696: ['Low Mistakes', 'Low PPG', 'Low AST'] -> ['Low FGA', 'Low Defensive Impact']
+Support: 0.15921787709497207
+Confidence: 0.9047619047619047
+
+Rule #697: ['Low PPG', 'Low Mistakes', 'Low Defensive Impact', 'Low AST'] -> ['Low FGA']
+Support: 0.15921787709497207
+Confidence: 1.0
+
+Rule #698: ['Low PPG', 'Low FGA', 'Low Mistakes', 'Low AST'] -> ['Low Defensive Impact']
+Support: 0.15921787709497207
+Confidence: 0.9047619047619047
+
+Rule #699: ['Low FGA', 'Low Mistakes', 'Low AST'] -> ['Low Defensive Impact', 'Low TRB']
+Support: 0.33519553072625696
+Confidence: 0.916030534351145
+
+Rule #700: ['Low Mistakes', 'Low FGA', 'Low Defensive Impact', 'Low AST'] -> ['Low TRB']
+Support: 0.33519553072625696
+Confidence: 0.9677419354838709
+
+Rule #701: ['Low FGA', 'Low Defensive Impact', 'Low AST', 'Low TRB'] -> ['Low Mistakes']
+Support: 0.33519553072625696
+Confidence: 0.9374999999999999
+
+Rule #702: ['Low Mistakes', 'Low Defensive Impact', 'Low AST', 'Low TRB'] -> ['Low FGA']
+Support: 0.33519553072625696
+Confidence: 0.9090909090909091
+
+Rule #703: ['Low FGA', 'Low Mistakes', 'Low AST', 'Low TRB'] -> ['Low Defensive Impact']
+Support: 0.33519553072625696
+Confidence: 0.96
+
+Rule #704: ['Low AST', 'Very Low PPG'] -> ['Low Mistakes', 'Low FGA', 'Low Defensive Impact']
+Support: 0.1787709497206704
+Confidence: 0.9696969696969697
+
+Rule #705: ['Low Defensive Impact', 'Very Low PPG'] -> ['Low FGA', 'Low Mistakes', 'Low AST']
+Support: 0.1787709497206704
+Confidence: 0.9014084507042254
+
+Rule #706: ['Low Mistakes', 'Very Low PPG'] -> ['Low FGA', 'Low Defensive Impact', 'Low AST']
+Support: 0.1787709497206704
+Confidence: 0.9014084507042254
+
+Rule #707: ['Low Defensive Impact', 'Low AST', 'Very Low PPG'] -> ['Low FGA', 'Low Mistakes']
+Support: 0.1787709497206704
+Confidence: 0.9846153846153847
+
+Rule #708: ['Low FGA', 'Low AST', 'Very Low PPG'] -> ['Low Mistakes', 'Low Defensive Impact']
+Support: 0.1787709497206704
+Confidence: 0.9696969696969697
+
+Rule #709: ['Low Mistakes', 'Low AST', 'Very Low PPG'] -> ['Low FGA', 'Low Defensive Impact']
+Support: 0.1787709497206704
+Confidence: 0.9846153846153847
+
+Rule #710: ['Low FGA', 'Low Defensive Impact', 'Very Low PPG'] -> ['Low Mistakes', 'Low AST']
+Support: 0.1787709497206704
+Confidence: 0.9014084507042254
+
+Rule #711: ['Low Mistakes', 'Low Defensive Impact', 'Very Low PPG'] -> ['Low FGA', 'Low AST']
+Support: 0.1787709497206704
+Confidence: 0.9142857142857144
+
+Rule #712: ['Low FGA', 'Low Mistakes', 'Very Low PPG'] -> ['Low Defensive Impact', 'Low AST']
+Support: 0.1787709497206704
+Confidence: 0.9014084507042254
+
+Rule #713: ['Low FGA', 'Low Defensive Impact', 'Low AST', 'Very Low PPG'] -> ['Low Mistakes']
+Support: 0.1787709497206704
+Confidence: 0.9846153846153847
+
+Rule #714: ['Low Mistakes', 'Low Defensive Impact', 'Low AST', 'Very Low PPG'] -> ['Low FGA']
+Support: 0.1787709497206704
+Confidence: 1.0
+
+Rule #715: ['Low FGA', 'Low Mistakes', 'Low AST', 'Very Low PPG'] -> ['Low Defensive Impact']
+Support: 0.1787709497206704
+Confidence: 0.9846153846153847
+
+Rule #716: ['Low Mistakes', 'Low FGA', 'Low Defensive Impact', 'Very Low PPG'] -> ['Low AST']
+Support: 0.1787709497206704
+Confidence: 0.9142857142857144
+
+Rule #717: ['Low PPG', 'Low Defensive Impact', 'Low AST'] -> ['Low FGA', 'Low TRB']
+Support: 0.17039106145251395
+Confidence: 0.9384615384615383
+
+Rule #718: ['Low PPG', 'Low FGA', 'Low Defensive Impact', 'Low AST'] -> ['Low TRB']
+Support: 0.17039106145251395
+Confidence: 0.9384615384615383
+
+Rule #719: ['Low PPG', 'Low Defensive Impact', 'Low AST', 'Low TRB'] -> ['Low FGA']
+Support: 0.17039106145251395
+Confidence: 1.0
+
+Rule #720: ['Low AST', 'Very Low PPG'] -> ['Low FGA', 'Low Defensive Impact', 'Low TRB']
+Support: 0.17597765363128492
+Confidence: 0.9545454545454546
+
+Rule #721: ['Low TRB', 'Very Low PPG'] -> ['Low FGA', 'Low Defensive Impact', 'Low AST']
+Support: 0.17597765363128492
+Confidence: 0.9000000000000001
+
+Rule #722: ['Low Defensive Impact', 'Low AST', 'Very Low PPG'] -> ['Low FGA', 'Low TRB']
+Support: 0.17597765363128492
+Confidence: 0.9692307692307692
+
+Rule #723: ['Low FGA', 'Low AST', 'Very Low PPG'] -> ['Low Defensive Impact', 'Low TRB']
+Support: 0.17597765363128492
+Confidence: 0.9545454545454546
+
+Rule #724: ['Low AST', 'Low TRB', 'Very Low PPG'] -> ['Low FGA', 'Low Defensive Impact']
+Support: 0.17597765363128492
+Confidence: 0.984375
+
+Rule #725: ['Low Defensive Impact', 'Low TRB', 'Very Low PPG'] -> ['Low FGA', 'Low AST']
+Support: 0.17597765363128492
+Confidence: 0.9130434782608696
+
+Rule #726: ['Low FGA', 'Low TRB', 'Very Low PPG'] -> ['Low Defensive Impact', 'Low AST']
+Support: 0.17597765363128492
+Confidence: 0.9000000000000001
+
+Rule #727: ['Low FGA', 'Low Defensive Impact', 'Low AST', 'Very Low PPG'] -> ['Low TRB']
+Support: 0.17597765363128492
+Confidence: 0.9692307692307692
+
+Rule #728: ['Low Defensive Impact', 'Low AST', 'Low TRB', 'Very Low PPG'] -> ['Low FGA']
+Support: 0.17597765363128492
+Confidence: 1.0
+
+Rule #729: ['Low FGA', 'Low AST', 'Low TRB', 'Very Low PPG'] -> ['Low Defensive Impact']
+Support: 0.17597765363128492
+Confidence: 0.984375
+
+Rule #730: ['Low FGA', 'Low Defensive Impact', 'Low TRB', 'Very Low PPG'] -> ['Low AST']
+Support: 0.17597765363128492
+Confidence: 0.9130434782608696
+
+Rule #731: ['Low MP'] -> ['Low Mistakes', 'Low Defensive Impact', 'Low AST', 'Low TRB']
+Support: 0.2122905027932961
+Confidence: 0.9047619047619048
+
+Rule #732: ['Low MP', 'Low AST'] -> ['Low Mistakes', 'Low Defensive Impact', 'Low TRB']
+Support: 0.2122905027932961
+Confidence: 0.9500000000000001
+
+Rule #733: ['Low MP', 'Low Defensive Impact'] -> ['Low Mistakes', 'Low AST', 'Low TRB']
+Support: 0.2122905027932961
+Confidence: 0.9268292682926829
+
+Rule #734: ['Low Mistakes', 'Low MP'] -> ['Low Defensive Impact', 'Low AST', 'Low TRB']
+Support: 0.2122905027932961
+Confidence: 0.9268292682926829
+
+Rule #735: ['Low MP', 'Low TRB'] -> ['Low Mistakes', 'Low Defensive Impact', 'Low AST']
+Support: 0.2122905027932961
+Confidence: 0.9268292682926829
+
+Rule #736: ['Low MP', 'Low Defensive Impact', 'Low AST'] -> ['Low Mistakes', 'Low TRB']
+Support: 0.2122905027932961
+Confidence: 0.9743589743589743
+
+Rule #737: ['Low Mistakes', 'Low MP', 'Low AST'] -> ['Low Defensive Impact', 'Low TRB']
+Support: 0.2122905027932961
+Confidence: 0.9743589743589743
+
+Rule #738: ['Low MP', 'Low AST', 'Low TRB'] -> ['Low Mistakes', 'Low Defensive Impact']
+Support: 0.2122905027932961
+Confidence: 0.9743589743589743
+
+Rule #739: ['Low Mistakes', 'Low MP', 'Low Defensive Impact'] -> ['Low AST', 'Low TRB']
+Support: 0.2122905027932961
+Confidence: 0.9382716049382716
+
+Rule #740: ['Low MP', 'Low Defensive Impact', 'Low TRB'] -> ['Low Mistakes', 'Low AST']
+Support: 0.2122905027932961
+Confidence: 0.9500000000000001
+
+Rule #741: ['Low Mistakes', 'Low MP', 'Low TRB'] -> ['Low Defensive Impact', 'Low AST']
+Support: 0.2122905027932961
+Confidence: 0.9382716049382716
+
+Rule #742: ['Low Mistakes', 'Low MP', 'Low Defensive Impact', 'Low AST'] -> ['Low TRB']
+Support: 0.2122905027932961
+Confidence: 0.987012987012987
+
+Rule #743: ['Low MP', 'Low Defensive Impact', 'Low AST', 'Low TRB'] -> ['Low Mistakes']
+Support: 0.2122905027932961
+Confidence: 1.0
+
+Rule #744: ['Low Mistakes', 'Low MP', 'Low AST', 'Low TRB'] -> ['Low Defensive Impact']
+Support: 0.2122905027932961
+Confidence: 0.987012987012987
+
+Rule #745: ['Low Mistakes', 'Low MP', 'Low Defensive Impact', 'Low TRB'] -> ['Low AST']
+Support: 0.2122905027932961
+Confidence: 0.9500000000000001
+
+Rule #746: ['Low MP', 'Very Low PPG'] -> ['Low Mistakes', 'Low Defensive Impact', 'Low AST']
+Support: 0.16201117318435754
+Confidence: 0.9508196721311476
+
+Rule #747: ['Low MP', 'Low AST', 'Very Low PPG'] -> ['Low Mistakes', 'Low Defensive Impact']
+Support: 0.16201117318435754
+Confidence: 1.0
+
+Rule #748: ['Low MP', 'Low Defensive Impact', 'Very Low PPG'] -> ['Low Mistakes', 'Low AST']
+Support: 0.16201117318435754
+Confidence: 0.9508196721311476
+
+Rule #749: ['Low Mistakes', 'Low MP', 'Very Low PPG'] -> ['Low Defensive Impact', 'Low AST']
+Support: 0.16201117318435754
+Confidence: 0.9508196721311476
+
+Rule #750: ['Low MP', 'Low Defensive Impact', 'Low AST', 'Very Low PPG'] -> ['Low Mistakes']
+Support: 0.16201117318435754
+Confidence: 1.0
+
+Rule #751: ['Low Mistakes', 'Low Defensive Impact', 'Low AST', 'Very Low PPG'] -> ['Low MP']
+Support: 0.16201117318435754
+Confidence: 0.90625
+
+Rule #752: ['Low Mistakes', 'Low MP', 'Low AST', 'Very Low PPG'] -> ['Low Defensive Impact']
+Support: 0.16201117318435754
+Confidence: 1.0
+
+Rule #753: ['Low Mistakes', 'Low MP', 'Low Defensive Impact', 'Very Low PPG'] -> ['Low AST']
+Support: 0.16201117318435754
+Confidence: 0.9508196721311476
+
+Rule #754: ['Low MP', 'Very Low PPG'] -> ['Low Defensive Impact', 'Low AST', 'Low TRB']
+Support: 0.16201117318435754
+Confidence: 0.9508196721311476
+
+Rule #755: ['Low MP', 'Low AST', 'Very Low PPG'] -> ['Low Defensive Impact', 'Low TRB']
+Support: 0.16201117318435754
+Confidence: 1.0
+
+Rule #756: ['Low AST', 'Low TRB', 'Very Low PPG'] -> ['Low MP', 'Low Defensive Impact']
+Support: 0.16201117318435754
+Confidence: 0.90625
+
+Rule #757: ['Low MP', 'Low Defensive Impact', 'Very Low PPG'] -> ['Low AST', 'Low TRB']
+Support: 0.16201117318435754
+Confidence: 0.9508196721311476
+
+Rule #758: ['Low MP', 'Low TRB', 'Very Low PPG'] -> ['Low Defensive Impact', 'Low AST']
+Support: 0.16201117318435754
+Confidence: 0.9508196721311476
+
+Rule #759: ['Low MP', 'Low Defensive Impact', 'Low AST', 'Very Low PPG'] -> ['Low TRB']
+Support: 0.16201117318435754
+Confidence: 1.0
+
+Rule #760: ['Low Defensive Impact', 'Low AST', 'Low TRB', 'Very Low PPG'] -> ['Low MP']
+Support: 0.16201117318435754
+Confidence: 0.9206349206349206
+
+Rule #761: ['Low MP', 'Low AST', 'Low TRB', 'Very Low PPG'] -> ['Low Defensive Impact']
+Support: 0.16201117318435754
+Confidence: 1.0
+
+Rule #762: ['Low MP', 'Low Defensive Impact', 'Low TRB', 'Very Low PPG'] -> ['Low AST']
+Support: 0.16201117318435754
+Confidence: 0.9508196721311476
+
+Rule #763: ['Low PPG', 'Low Mistakes', 'Low Defensive Impact', 'Low AST'] -> ['Low TRB']
+Support: 0.15363128491620112
+Confidence: 0.9649122807017544
+
+Rule #764: ['Low PPG', 'Low Defensive Impact', 'Low AST', 'Low TRB'] -> ['Low Mistakes']
+Support: 0.15363128491620112
+Confidence: 0.9016393442622952
+
+Rule #765: ['Low Mistakes', 'Low PPG', 'Low AST', 'Low TRB'] -> ['Low Defensive Impact']
+Support: 0.15363128491620112
+Confidence: 0.9322033898305085
+
+Rule #766: ['Low Mistakes', 'Prime', 'Low AST'] -> ['Low Defensive Impact', 'Low TRB']
+Support: 0.15083798882681565
+Confidence: 0.9000000000000001
+
+Rule #767: ['Low Mistakes', 'Low Defensive Impact', 'Prime', 'Low AST'] -> ['Low TRB']
+Support: 0.15083798882681565
+Confidence: 0.9642857142857143
+
+Rule #768: ['Low Mistakes', 'Prime', 'Low AST', 'Low TRB'] -> ['Low Defensive Impact']
+Support: 0.15083798882681565
+Confidence: 0.9473684210526316
+
+Rule #769: ['Low AST', 'Very Low PPG'] -> ['Low Mistakes', 'Low Defensive Impact', 'Low TRB']
+Support: 0.17597765363128492
+Confidence: 0.9545454545454546
+
+Rule #770: ['Low TRB', 'Very Low PPG'] -> ['Low Mistakes', 'Low Defensive Impact', 'Low AST']
+Support: 0.17597765363128492
+Confidence: 0.9000000000000001
+
+Rule #771: ['Low Defensive Impact', 'Low AST', 'Very Low PPG'] -> ['Low Mistakes', 'Low TRB']
+Support: 0.17597765363128492
+Confidence: 0.9692307692307692
+
+Rule #772: ['Low Mistakes', 'Low AST', 'Very Low PPG'] -> ['Low Defensive Impact', 'Low TRB']
+Support: 0.17597765363128492
+Confidence: 0.9692307692307692
+
+Rule #773: ['Low AST', 'Low TRB', 'Very Low PPG'] -> ['Low Mistakes', 'Low Defensive Impact']
+Support: 0.17597765363128492
+Confidence: 0.984375
+
+Rule #774: ['Low Mistakes', 'Low Defensive Impact', 'Very Low PPG'] -> ['Low AST', 'Low TRB']
+Support: 0.17597765363128492
+Confidence: 0.9000000000000001
+
+Rule #775: ['Low Defensive Impact', 'Low TRB', 'Very Low PPG'] -> ['Low Mistakes', 'Low AST']
+Support: 0.17597765363128492
+Confidence: 0.9130434782608696
+
+Rule #776: ['Low Mistakes', 'Low TRB', 'Very Low PPG'] -> ['Low Defensive Impact', 'Low AST']
+Support: 0.17597765363128492
+Confidence: 0.9000000000000001
+
+Rule #777: ['Low Mistakes', 'Low Defensive Impact', 'Low AST', 'Very Low PPG'] -> ['Low TRB']
+Support: 0.17597765363128492
+Confidence: 0.984375
+
+Rule #778: ['Low Defensive Impact', 'Low AST', 'Low TRB', 'Very Low PPG'] -> ['Low Mistakes']
+Support: 0.17597765363128492
+Confidence: 1.0
+
+Rule #779: ['Low Mistakes', 'Low AST', 'Low TRB', 'Very Low PPG'] -> ['Low Defensive Impact']
+Support: 0.17597765363128492
+Confidence: 0.984375
+
+Rule #780: ['Low Mistakes', 'Low Defensive Impact', 'Low TRB', 'Very Low PPG'] -> ['Low AST']
+Support: 0.17597765363128492
+Confidence: 0.9130434782608696
+
+Rule #781: ['Low MP'] -> ['Low FGA', 'Low Mistakes', 'Low AST', 'Low TRB']
+Support: 0.21508379888268156
+Confidence: 0.9166666666666666
+
+Rule #782: ['Low MP', 'Low AST'] -> ['Low FGA', 'Low Mistakes', 'Low TRB']
+Support: 0.21508379888268156
+Confidence: 0.9625
+
+Rule #783: ['Low FGA', 'Low MP'] -> ['Low Mistakes', 'Low AST', 'Low TRB']
+Support: 0.21508379888268156
+Confidence: 0.9166666666666666
+
+Rule #784: ['Low Mistakes', 'Low MP'] -> ['Low FGA', 'Low AST', 'Low TRB']
+Support: 0.21508379888268156
+Confidence: 0.9390243902439024
+
+Rule #785: ['Low MP', 'Low TRB'] -> ['Low FGA', 'Low Mistakes', 'Low AST']
+Support: 0.21508379888268156
+Confidence: 0.9390243902439024
+
+Rule #786: ['Low FGA', 'Low MP', 'Low AST'] -> ['Low Mistakes', 'Low TRB']
+Support: 0.21508379888268156
+Confidence: 0.9625
+
+Rule #787: ['Low Mistakes', 'Low MP', 'Low AST'] -> ['Low FGA', 'Low TRB']
+Support: 0.21508379888268156
+Confidence: 0.9871794871794872
+
+Rule #788: ['Low MP', 'Low AST', 'Low TRB'] -> ['Low FGA', 'Low Mistakes']
+Support: 0.21508379888268156
+Confidence: 0.9871794871794872
+
+Rule #789: ['Low Mistakes', 'Low FGA', 'Low MP'] -> ['Low AST', 'Low TRB']
+Support: 0.21508379888268156
+Confidence: 0.9390243902439024
+
+Rule #790: ['Low FGA', 'Low MP', 'Low TRB'] -> ['Low Mistakes', 'Low AST']
+Support: 0.21508379888268156
+Confidence: 0.9390243902439024
+
+Rule #791: ['Low Mistakes', 'Low MP', 'Low TRB'] -> ['Low FGA', 'Low AST']
+Support: 0.21508379888268156
+Confidence: 0.9506172839506172
+
+Rule #792: ['Low Mistakes', 'Low FGA', 'Low MP', 'Low AST'] -> ['Low TRB']
+Support: 0.21508379888268156
+Confidence: 0.9871794871794872
+
+Rule #793: ['Low FGA', 'Low MP', 'Low AST', 'Low TRB'] -> ['Low Mistakes']
+Support: 0.21508379888268156
+Confidence: 0.9871794871794872
+
+Rule #794: ['Low Mistakes', 'Low MP', 'Low AST', 'Low TRB'] -> ['Low FGA']
+Support: 0.21508379888268156
+Confidence: 1.0
+
+Rule #795: ['Low Mistakes', 'Low FGA', 'Low MP', 'Low TRB'] -> ['Low AST']
+Support: 0.21508379888268156
+Confidence: 0.9506172839506172
+
+Rule #796: ['Low MP', 'Very Low PPG'] -> ['Low FGA', 'Low Mistakes', 'Low AST']
+Support: 0.16201117318435754
+Confidence: 0.9508196721311476
+
+Rule #797: ['Low MP', 'Low AST', 'Very Low PPG'] -> ['Low FGA', 'Low Mistakes']
+Support: 0.16201117318435754
+Confidence: 1.0
+
+Rule #798: ['Low FGA', 'Low MP', 'Very Low PPG'] -> ['Low Mistakes', 'Low AST']
+Support: 0.16201117318435754
+Confidence: 0.9508196721311476
+
+Rule #799: ['Low Mistakes', 'Low MP', 'Very Low PPG'] -> ['Low FGA', 'Low AST']
+Support: 0.16201117318435754
+Confidence: 0.9508196721311476
+
+Rule #800: ['Low FGA', 'Low MP', 'Low AST', 'Very Low PPG'] -> ['Low Mistakes']
+Support: 0.16201117318435754
+Confidence: 1.0
+
+Rule #801: ['Low Mistakes', 'Low MP', 'Low AST', 'Very Low PPG'] -> ['Low FGA']
+Support: 0.16201117318435754
+Confidence: 1.0
+
+Rule #802: ['Low Mistakes', 'Low FGA', 'Low MP', 'Very Low PPG'] -> ['Low AST']
+Support: 0.16201117318435754
+Confidence: 0.9508196721311476
+
+Rule #803: ['Low MP', 'Very Low PPG'] -> ['Low FGA', 'Low AST', 'Low TRB']
+Support: 0.16201117318435754
+Confidence: 0.9508196721311476
+
+Rule #804: ['Low MP', 'Low AST', 'Very Low PPG'] -> ['Low FGA', 'Low TRB']
+Support: 0.16201117318435754
+Confidence: 1.0
+
+Rule #805: ['Low AST', 'Low TRB', 'Very Low PPG'] -> ['Low FGA', 'Low MP']
+Support: 0.16201117318435754
+Confidence: 0.90625
+
+Rule #806: ['Low FGA', 'Low MP', 'Very Low PPG'] -> ['Low AST', 'Low TRB']
+Support: 0.16201117318435754
+Confidence: 0.9508196721311476
+
+Rule #807: ['Low MP', 'Low TRB', 'Very Low PPG'] -> ['Low FGA', 'Low AST']
+Support: 0.16201117318435754
+Confidence: 0.9508196721311476
+
+Rule #808: ['Low FGA', 'Low MP', 'Low AST', 'Very Low PPG'] -> ['Low TRB']
+Support: 0.16201117318435754
+Confidence: 1.0
+
+Rule #809: ['Low FGA', 'Low AST', 'Low TRB', 'Very Low PPG'] -> ['Low MP']
+Support: 0.16201117318435754
+Confidence: 0.90625
+
+Rule #810: ['Low MP', 'Low AST', 'Low TRB', 'Very Low PPG'] -> ['Low FGA']
+Support: 0.16201117318435754
+Confidence: 1.0
+
+Rule #811: ['Low FGA', 'Low MP', 'Low TRB', 'Very Low PPG'] -> ['Low AST']
+Support: 0.16201117318435754
+Confidence: 0.9508196721311476
+
+Rule #812: ['Low Mistakes', 'Low PPG', 'Low AST'] -> ['Low FGA', 'Low TRB']
+Support: 0.164804469273743
+Confidence: 0.9365079365079364
+
+Rule #813: ['Low PPG', 'Low FGA', 'Low Mistakes', 'Low AST'] -> ['Low TRB']
+Support: 0.164804469273743
+Confidence: 0.9365079365079364
+
+Rule #814: ['Low Mistakes', 'Low PPG', 'Low AST', 'Low TRB'] -> ['Low FGA']
+Support: 0.164804469273743
+Confidence: 1.0
+
+Rule #815: ['Low AST', 'Very Low PPG'] -> ['Low FGA', 'Low Mistakes', 'Low TRB']
+Support: 0.1787709497206704
+Confidence: 0.9696969696969697
+
+Rule #816: ['Low Mistakes', 'Very Low PPG'] -> ['Low FGA', 'Low AST', 'Low TRB']
+Support: 0.1787709497206704
+Confidence: 0.9014084507042254
+
+Rule #817: ['Low TRB', 'Very Low PPG'] -> ['Low FGA', 'Low Mistakes', 'Low AST']
+Support: 0.1787709497206704
+Confidence: 0.9142857142857144
+
+Rule #818: ['Low FGA', 'Low AST', 'Very Low PPG'] -> ['Low Mistakes', 'Low TRB']
+Support: 0.1787709497206704
+Confidence: 0.9696969696969697
+
+Rule #819: ['Low Mistakes', 'Low AST', 'Very Low PPG'] -> ['Low FGA', 'Low TRB']
+Support: 0.1787709497206704
+Confidence: 0.9846153846153847
+
+Rule #820: ['Low AST', 'Low TRB', 'Very Low PPG'] -> ['Low FGA', 'Low Mistakes']
+Support: 0.1787709497206704
+Confidence: 1.0
+
+Rule #821: ['Low FGA', 'Low Mistakes', 'Very Low PPG'] -> ['Low AST', 'Low TRB']
+Support: 0.1787709497206704
+Confidence: 0.9014084507042254
+
+Rule #822: ['Low FGA', 'Low TRB', 'Very Low PPG'] -> ['Low Mistakes', 'Low AST']
+Support: 0.1787709497206704
+Confidence: 0.9142857142857144
+
+Rule #823: ['Low Mistakes', 'Low TRB', 'Very Low PPG'] -> ['Low FGA', 'Low AST']
+Support: 0.1787709497206704
+Confidence: 0.9142857142857144
+
+Rule #824: ['Low FGA', 'Low Mistakes', 'Low AST', 'Very Low PPG'] -> ['Low TRB']
+Support: 0.1787709497206704
+Confidence: 0.9846153846153847
+
+Rule #825: ['Low FGA', 'Low AST', 'Low TRB', 'Very Low PPG'] -> ['Low Mistakes']
+Support: 0.1787709497206704
+Confidence: 1.0
+
+Rule #826: ['Low Mistakes', 'Low AST', 'Low TRB', 'Very Low PPG'] -> ['Low FGA']
+Support: 0.1787709497206704
+Confidence: 1.0
+
+Rule #827: ['Low FGA', 'Low Mistakes', 'Low TRB', 'Very Low PPG'] -> ['Low AST']
+Support: 0.1787709497206704
+Confidence: 0.9142857142857144
+
+Rule #828: ['Low MP', 'Very Low PPG'] -> ['Low Mistakes', 'Low AST', 'Low TRB']
+Support: 0.16201117318435754
+Confidence: 0.9508196721311476
+
+Rule #829: ['Low MP', 'Low AST', 'Very Low PPG'] -> ['Low Mistakes', 'Low TRB']
+Support: 0.16201117318435754
+Confidence: 1.0
+
+Rule #830: ['Low AST', 'Low TRB', 'Very Low PPG'] -> ['Low Mistakes', 'Low MP']
+Support: 0.16201117318435754
+Confidence: 0.90625
+
+Rule #831: ['Low Mistakes', 'Low MP', 'Very Low PPG'] -> ['Low AST', 'Low TRB']
+Support: 0.16201117318435754
+Confidence: 0.9508196721311476
+
+Rule #832: ['Low MP', 'Low TRB', 'Very Low PPG'] -> ['Low Mistakes', 'Low AST']
+Support: 0.16201117318435754
+Confidence: 0.9508196721311476
+
+Rule #833: ['Low Mistakes', 'Low MP', 'Low AST', 'Very Low PPG'] -> ['Low TRB']
+Support: 0.16201117318435754
+Confidence: 1.0
+
+Rule #834: ['Low MP', 'Low AST', 'Low TRB', 'Very Low PPG'] -> ['Low Mistakes']
+Support: 0.16201117318435754
+Confidence: 1.0
+
+Rule #835: ['Low Mistakes', 'Low AST', 'Low TRB', 'Very Low PPG'] -> ['Low MP']
+Support: 0.16201117318435754
+Confidence: 0.90625
+
+Rule #836: ['Low Mistakes', 'Low MP', 'Low TRB', 'Very Low PPG'] -> ['Low AST']
+Support: 0.16201117318435754
+Confidence: 0.9508196721311476
+
+Rule #837: ['Low MP'] -> ['Low Mistakes', 'Low FGA', 'Low Defensive Impact', 'Low TRB']
+Support: 0.22346368715083798
+Confidence: 0.9523809523809523
+
+Rule #838: ['Low MP', 'Low Defensive Impact'] -> ['Low FGA', 'Low Mistakes', 'Low TRB']
+Support: 0.22346368715083798
+Confidence: 0.9756097560975608
+
+Rule #839: ['Low FGA', 'Low MP'] -> ['Low Mistakes', 'Low Defensive Impact', 'Low TRB']
+Support: 0.22346368715083798
+Confidence: 0.9523809523809523
+
+Rule #840: ['Low Mistakes', 'Low MP'] -> ['Low FGA', 'Low Defensive Impact', 'Low TRB']
+Support: 0.22346368715083798
+Confidence: 0.9756097560975608
+
+Rule #841: ['Low MP', 'Low TRB'] -> ['Low Mistakes', 'Low FGA', 'Low Defensive Impact']
+Support: 0.22346368715083798
+Confidence: 0.9756097560975608
+
+Rule #842: ['Low MP', 'Low FGA', 'Low Defensive Impact'] -> ['Low Mistakes', 'Low TRB']
+Support: 0.22346368715083798
+Confidence: 0.9756097560975608
+
+Rule #843: ['Low Mistakes', 'Low MP', 'Low Defensive Impact'] -> ['Low FGA', 'Low TRB']
+Support: 0.22346368715083798
+Confidence: 0.9876543209876543
+
+Rule #844: ['Low MP', 'Low Defensive Impact', 'Low TRB'] -> ['Low FGA', 'Low Mistakes']
+Support: 0.22346368715083798
+Confidence: 1.0
+
+Rule #845: ['Low Mistakes', 'Low FGA', 'Low MP'] -> ['Low Defensive Impact', 'Low TRB']
+Support: 0.22346368715083798
+Confidence: 0.9756097560975608
+
+Rule #846: ['Low FGA', 'Low MP', 'Low TRB'] -> ['Low Mistakes', 'Low Defensive Impact']
+Support: 0.22346368715083798
+Confidence: 0.9756097560975608
+
+Rule #847: ['Low Mistakes', 'Low MP', 'Low TRB'] -> ['Low FGA', 'Low Defensive Impact']
+Support: 0.22346368715083798
+Confidence: 0.9876543209876543
+
+Rule #848: ['Low MP', 'Low FGA', 'Low Defensive Impact', 'Low Mistakes'] -> ['Low TRB']
+Support: 0.22346368715083798
+Confidence: 0.9876543209876543
+
+Rule #849: ['Low MP', 'Low FGA', 'Low Defensive Impact', 'Low TRB'] -> ['Low Mistakes']
+Support: 0.22346368715083798
+Confidence: 1.0
+
+Rule #850: ['Low Mistakes', 'Low MP', 'Low Defensive Impact', 'Low TRB'] -> ['Low FGA']
+Support: 0.22346368715083798
+Confidence: 1.0
+
+Rule #851: ['Low Mistakes', 'Low FGA', 'Low MP', 'Low TRB'] -> ['Low Defensive Impact']
+Support: 0.22346368715083798
+Confidence: 0.9876543209876543
+
+Rule #852: ['Low MP', 'Very Low PPG'] -> ['Low Mistakes', 'Low FGA', 'Low Defensive Impact']
+Support: 0.17039106145251395
+Confidence: 1.0
+
+Rule #853: ['Low MP', 'Low Defensive Impact', 'Very Low PPG'] -> ['Low FGA', 'Low Mistakes']
+Support: 0.17039106145251395
+Confidence: 1.0
+
+Rule #854: ['Low FGA', 'Low MP', 'Very Low PPG'] -> ['Low Mistakes', 'Low Defensive Impact']
+Support: 0.17039106145251395
+Confidence: 1.0
+
+Rule #855: ['Low Mistakes', 'Low MP', 'Very Low PPG'] -> ['Low FGA', 'Low Defensive Impact']
+Support: 0.17039106145251395
+Confidence: 1.0
+
+Rule #856: ['Low MP', 'Low FGA', 'Low Defensive Impact', 'Very Low PPG'] -> ['Low Mistakes']
+Support: 0.17039106145251395
+Confidence: 1.0
+
+Rule #857: ['Low Mistakes', 'Low MP', 'Low Defensive Impact', 'Very Low PPG'] -> ['Low FGA']
+Support: 0.17039106145251395
+Confidence: 1.0
+
+Rule #858: ['Low Mistakes', 'Low FGA', 'Low MP', 'Very Low PPG'] -> ['Low Defensive Impact']
+Support: 0.17039106145251395
+Confidence: 1.0
+
+Rule #859: ['Low MP', 'Very Low PPG'] -> ['Low FGA', 'Low Defensive Impact', 'Low TRB']
+Support: 0.17039106145251395
+Confidence: 1.0
+
+Rule #860: ['Low MP', 'Low Defensive Impact', 'Very Low PPG'] -> ['Low FGA', 'Low TRB']
+Support: 0.17039106145251395
+Confidence: 1.0
+
+Rule #861: ['Low FGA', 'Low MP', 'Very Low PPG'] -> ['Low Defensive Impact', 'Low TRB']
+Support: 0.17039106145251395
+Confidence: 1.0
+
+Rule #862: ['Low MP', 'Low TRB', 'Very Low PPG'] -> ['Low FGA', 'Low Defensive Impact']
+Support: 0.17039106145251395
+Confidence: 1.0
+
+Rule #863: ['Low MP', 'Low FGA', 'Low Defensive Impact', 'Very Low PPG'] -> ['Low TRB']
+Support: 0.17039106145251395
+Confidence: 1.0
+
+Rule #864: ['Low MP', 'Low Defensive Impact', 'Low TRB', 'Very Low PPG'] -> ['Low FGA']
+Support: 0.17039106145251395
+Confidence: 1.0
+
+Rule #865: ['Low FGA', 'Low MP', 'Low TRB', 'Very Low PPG'] -> ['Low Defensive Impact']
+Support: 0.17039106145251395
+Confidence: 1.0
+
+Rule #866: ['Low PPG', 'Low Mistakes', 'Low Defensive Impact'] -> ['Low FGA', 'Low TRB']
+Support: 0.19832402234636873
+Confidence: 0.9466666666666668
+
+Rule #867: ['Low Mistakes', 'Low PPG', 'Low TRB'] -> ['Low FGA', 'Low Defensive Impact']
+Support: 0.19832402234636873
+Confidence: 0.9102564102564104
+
+Rule #868: ['Low Mistakes', 'Low FGA', 'Low Defensive Impact', 'Low PPG'] -> ['Low TRB']
+Support: 0.19832402234636873
+Confidence: 0.9594594594594595
+
+Rule #869: ['Low PPG', 'Low Mistakes', 'Low Defensive Impact', 'Low TRB'] -> ['Low FGA']
+Support: 0.19832402234636873
+Confidence: 0.9861111111111112
+
+Rule #870: ['Low PPG', 'Low FGA', 'Low Mistakes', 'Low TRB'] -> ['Low Defensive Impact']
+Support: 0.19832402234636873
+Confidence: 0.9220779220779222
+
+Rule #871: ['Low Mistakes', 'Low FGA', 'Low Defensive Impact', 'Medium MP'] -> ['Low TRB']
+Support: 0.16759776536312848
+Confidence: 0.9374999999999999
+
+Rule #872: ['Low FGA', 'Low Mistakes', 'Low TRB', 'Medium MP'] -> ['Low Defensive Impact']
+Support: 0.16759776536312848
+Confidence: 0.923076923076923
+
+Rule #873: ['Low Mistakes', 'Low FGA', 'Low Defensive Impact', 'Prime'] -> ['Low TRB']
+Support: 0.164804469273743
+Confidence: 0.9672131147540984
+
+Rule #874: ['Low FGA', 'Low Mistakes', 'Prime', 'Low TRB'] -> ['Low Defensive Impact']
+Support: 0.164804469273743
+Confidence: 0.9365079365079364
+
+Rule #875: ['Very Low PPG'] -> ['Low Mistakes', 'Low FGA', 'Low Defensive Impact', 'Low TRB']
+Support: 0.19273743016759776
+Confidence: 0.9583333333333333
+
+Rule #876: ['Low Defensive Impact', 'Very Low PPG'] -> ['Low FGA', 'Low Mistakes', 'Low TRB']
+Support: 0.19273743016759776
+Confidence: 0.9718309859154929
+
+Rule #877: ['Low FGA', 'Very Low PPG'] -> ['Low Mistakes', 'Low Defensive Impact', 'Low TRB']
+Support: 0.19273743016759776
+Confidence: 0.9583333333333333
+
+Rule #878: ['Low Mistakes', 'Very Low PPG'] -> ['Low FGA', 'Low Defensive Impact', 'Low TRB']
+Support: 0.19273743016759776
+Confidence: 0.9718309859154929
+
+Rule #879: ['Low TRB', 'Very Low PPG'] -> ['Low Mistakes', 'Low FGA', 'Low Defensive Impact']
+Support: 0.19273743016759776
+Confidence: 0.9857142857142858
+
+Rule #880: ['Low FGA', 'Low Defensive Impact', 'Very Low PPG'] -> ['Low Mistakes', 'Low TRB']
+Support: 0.19273743016759776
+Confidence: 0.9718309859154929
+
+Rule #881: ['Low Mistakes', 'Low Defensive Impact', 'Very Low PPG'] -> ['Low FGA', 'Low TRB']
+Support: 0.19273743016759776
+Confidence: 0.9857142857142858
+
+Rule #882: ['Low Defensive Impact', 'Low TRB', 'Very Low PPG'] -> ['Low FGA', 'Low Mistakes']
+Support: 0.19273743016759776
+Confidence: 1.0
+
+Rule #883: ['Low FGA', 'Low Mistakes', 'Very Low PPG'] -> ['Low Defensive Impact', 'Low TRB']
+Support: 0.19273743016759776
+Confidence: 0.9718309859154929
+
+Rule #884: ['Low FGA', 'Low TRB', 'Very Low PPG'] -> ['Low Mistakes', 'Low Defensive Impact']
+Support: 0.19273743016759776
+Confidence: 0.9857142857142858
+
+Rule #885: ['Low Mistakes', 'Low TRB', 'Very Low PPG'] -> ['Low FGA', 'Low Defensive Impact']
+Support: 0.19273743016759776
+Confidence: 0.9857142857142858
+
+Rule #886: ['Low Mistakes', 'Low FGA', 'Low Defensive Impact', 'Very Low PPG'] -> ['Low TRB']
+Support: 0.19273743016759776
+Confidence: 0.9857142857142858
+
+Rule #887: ['Low FGA', 'Low Defensive Impact', 'Low TRB', 'Very Low PPG'] -> ['Low Mistakes']
+Support: 0.19273743016759776
+Confidence: 1.0
+
+Rule #888: ['Low Mistakes', 'Low Defensive Impact', 'Low TRB', 'Very Low PPG'] -> ['Low FGA']
+Support: 0.19273743016759776
+Confidence: 1.0
+
+Rule #889: ['Low FGA', 'Low Mistakes', 'Low TRB', 'Very Low PPG'] -> ['Low Defensive Impact']
+Support: 0.19273743016759776
+Confidence: 0.9857142857142858
+
+Rule #890: ['Low PPG', 'Medium MP', 'Low Defensive Impact'] -> ['Low FGA', 'Low TRB']
+Support: 0.164804469273743
+Confidence: 0.9076923076923077
+
+Rule #891: ['Low PPG', 'Low FGA', 'Low Defensive Impact', 'Medium MP'] -> ['Low TRB']
+Support: 0.164804469273743
+Confidence: 0.9365079365079364
+
+Rule #892: ['Low PPG', 'Medium MP', 'Low Defensive Impact', 'Low TRB'] -> ['Low FGA']
+Support: 0.164804469273743
+Confidence: 0.9672131147540984
+
+Rule #893: ['Low FGA', 'Low PPG', 'Low TRB', 'Medium MP'] -> ['Low Defensive Impact']
+Support: 0.164804469273743
+Confidence: 0.9218749999999999
+
+Rule #894: ['Low MP', 'Very Low PPG'] -> ['Low Mistakes', 'Low Defensive Impact', 'Low TRB']
+Support: 0.17039106145251395
+Confidence: 1.0
+
+Rule #895: ['Low MP', 'Low Defensive Impact', 'Very Low PPG'] -> ['Low Mistakes', 'Low TRB']
+Support: 0.17039106145251395
+Confidence: 1.0
+
+Rule #896: ['Low Mistakes', 'Low MP', 'Very Low PPG'] -> ['Low Defensive Impact', 'Low TRB']
+Support: 0.17039106145251395
+Confidence: 1.0
+
+Rule #897: ['Low MP', 'Low TRB', 'Very Low PPG'] -> ['Low Mistakes', 'Low Defensive Impact']
+Support: 0.17039106145251395
+Confidence: 1.0
+
+Rule #898: ['Low Mistakes', 'Low MP', 'Low Defensive Impact', 'Very Low PPG'] -> ['Low TRB']
+Support: 0.17039106145251395
+Confidence: 1.0
+
+Rule #899: ['Low MP', 'Low Defensive Impact', 'Low TRB', 'Very Low PPG'] -> ['Low Mistakes']
+Support: 0.17039106145251395
+Confidence: 1.0
+
+Rule #900: ['Low Mistakes', 'Low MP', 'Low TRB', 'Very Low PPG'] -> ['Low Defensive Impact']
+Support: 0.17039106145251395
+Confidence: 1.0
+
+Rule #901: ['Low MP', 'Very Low PPG'] -> ['Low FGA', 'Low Mistakes', 'Low TRB']
+Support: 0.17039106145251395
+Confidence: 1.0
+
+Rule #902: ['Low FGA', 'Low MP', 'Very Low PPG'] -> ['Low Mistakes', 'Low TRB']
+Support: 0.17039106145251395
+Confidence: 1.0
+
+Rule #903: ['Low Mistakes', 'Low MP', 'Very Low PPG'] -> ['Low FGA', 'Low TRB']
+Support: 0.17039106145251395
+Confidence: 1.0
+
+Rule #904: ['Low MP', 'Low TRB', 'Very Low PPG'] -> ['Low FGA', 'Low Mistakes']
+Support: 0.17039106145251395
+Confidence: 1.0
+
+Rule #905: ['Low Mistakes', 'Low FGA', 'Low MP', 'Very Low PPG'] -> ['Low TRB']
+Support: 0.17039106145251395
+Confidence: 1.0
+
+Rule #906: ['Low FGA', 'Low MP', 'Low TRB', 'Very Low PPG'] -> ['Low Mistakes']
+Support: 0.17039106145251395
+Confidence: 1.0
+
+Rule #907: ['Low Mistakes', 'Low MP', 'Low TRB', 'Very Low PPG'] -> ['Low FGA']
+Support: 0.17039106145251395
+Confidence: 1.0
+
+Rule #908: ['Low FGA', 'Low Defensive Impact', 'Low Mistakes', 'Low AST', 'Above Average 2P%'] -> ['Low TRB']
+Support: 0.15363128491620112
+Confidence: 0.9322033898305085
+
+Rule #909: ['Low FGA', 'Low Defensive Impact', 'Low TRB', 'Low AST', 'Above Average 2P%'] -> ['Low Mistakes']
+Support: 0.15363128491620112
+Confidence: 0.9322033898305085
+
+Rule #910: ['Low Defensive Impact', 'Low TRB', 'Low Mistakes', 'Low AST', 'Above Average 2P%'] -> ['Low FGA']
+Support: 0.15363128491620112
+Confidence: 0.9166666666666667
+
+Rule #911: ['Low FGA', 'Low TRB', 'Low Mistakes', 'Low AST', 'Above Average 2P%'] -> ['Low Defensive Impact']
+Support: 0.15363128491620112
+Confidence: 0.9482758620689655
+
+Rule #912: ['Low MP', 'Bad FT Shooter'] -> ['Low Mistakes', 'Low FGA', 'Low Defensive Impact', 'Low AST']
+Support: 0.164804469273743
+Confidence: 0.9076923076923077
+
+Rule #913: ['Low MP', 'Bad FT Shooter', 'Low AST'] -> ['Low Mistakes', 'Low FGA', 'Low Defensive Impact']
+Support: 0.164804469273743
+Confidence: 0.9516129032258064
+
+Rule #914: ['Low Defensive Impact', 'Low MP', 'Bad FT Shooter'] -> ['Low FGA', 'Low Mistakes', 'Low AST']
+Support: 0.164804469273743
+Confidence: 0.9365079365079364
+
+Rule #915: ['Low MP', 'Low FGA', 'Bad FT Shooter'] -> ['Low Mistakes', 'Low Defensive Impact', 'Low AST']
+Support: 0.164804469273743
+Confidence: 0.9076923076923077
+
+Rule #916: ['Low Mistakes', 'Low MP', 'Bad FT Shooter'] -> ['Low FGA', 'Low Defensive Impact', 'Low AST']
+Support: 0.164804469273743
+Confidence: 0.9365079365079364
+
+Rule #917: ['Low Defensive Impact', 'Low MP', 'Bad FT Shooter', 'Low AST'] -> ['Low FGA', 'Low Mistakes']
+Support: 0.164804469273743
+Confidence: 0.9833333333333334
+
+Rule #918: ['Low MP', 'Low FGA', 'Bad FT Shooter', 'Low AST'] -> ['Low Mistakes', 'Low Defensive Impact']
+Support: 0.164804469273743
+Confidence: 0.9516129032258064
+
+Rule #919: ['Low Mistakes', 'Low MP', 'Bad FT Shooter', 'Low AST'] -> ['Low FGA', 'Low Defensive Impact']
+Support: 0.164804469273743
+Confidence: 0.9833333333333334
+
+Rule #920: ['Low MP', 'Low Defensive Impact', 'Low FGA', 'Bad FT Shooter'] -> ['Low Mistakes', 'Low AST']
+Support: 0.164804469273743
+Confidence: 0.9365079365079364
+
+Rule #921: ['Low Mistakes', 'Low Defensive Impact', 'Low MP', 'Bad FT Shooter'] -> ['Low FGA', 'Low AST']
+Support: 0.164804469273743
+Confidence: 0.9516129032258064
+
+Rule #922: ['Low MP', 'Low FGA', 'Bad FT Shooter', 'Low Mistakes'] -> ['Low Defensive Impact', 'Low AST']
+Support: 0.164804469273743
+Confidence: 0.9365079365079364
+
+Rule #923: ['Low FGA', 'Low Defensive Impact', 'Low AST', 'Bad FT Shooter', 'Low MP'] -> ['Low Mistakes']
+Support: 0.164804469273743
+Confidence: 0.9833333333333334
+
+Rule #924: ['Low Defensive Impact', 'Low Mistakes', 'Low AST', 'Bad FT Shooter', 'Low MP'] -> ['Low FGA']
+Support: 0.164804469273743
+Confidence: 1.0
+
+Rule #925: ['Low FGA', 'Low Mistakes', 'Low AST', 'Bad FT Shooter', 'Low MP'] -> ['Low Defensive Impact']
+Support: 0.164804469273743
+Confidence: 0.9833333333333334
+
+Rule #926: ['Low FGA', 'Low Defensive Impact', 'Low Mistakes', 'Bad FT Shooter', 'Low MP'] -> ['Low AST']
+Support: 0.164804469273743
+Confidence: 0.9516129032258064
+
+Rule #927: ['Low MP', 'Bad FT Shooter', 'Low AST'] -> ['Low FGA', 'Low Defensive Impact', 'Low TRB']
+Support: 0.16201117318435754
+Confidence: 0.9354838709677419
+
+Rule #928: ['Low Defensive Impact', 'Low MP', 'Bad FT Shooter'] -> ['Low FGA', 'Low AST', 'Low TRB']
+Support: 0.16201117318435754
+Confidence: 0.9206349206349206
+
+Rule #929: ['Low MP', 'Bad FT Shooter', 'Low TRB'] -> ['Low FGA', 'Low Defensive Impact', 'Low AST']
+Support: 0.16201117318435754
+Confidence: 0.9206349206349206
+
+Rule #930: ['Low Defensive Impact', 'Low MP', 'Bad FT Shooter', 'Low AST'] -> ['Low FGA', 'Low TRB']
+Support: 0.16201117318435754
+Confidence: 0.9666666666666667
+
+Rule #931: ['Low MP', 'Low FGA', 'Bad FT Shooter', 'Low AST'] -> ['Low Defensive Impact', 'Low TRB']
+Support: 0.16201117318435754
+Confidence: 0.9354838709677419
+
+Rule #932: ['Low MP', 'Bad FT Shooter', 'Low AST', 'Low TRB'] -> ['Low FGA', 'Low Defensive Impact']
+Support: 0.16201117318435754
+Confidence: 0.9666666666666667
+
+Rule #933: ['Low MP', 'Low Defensive Impact', 'Low FGA', 'Bad FT Shooter'] -> ['Low AST', 'Low TRB']
+Support: 0.16201117318435754
+Confidence: 0.9206349206349206
+
+Rule #934: ['Low Defensive Impact', 'Low MP', 'Bad FT Shooter', 'Low TRB'] -> ['Low FGA', 'Low AST']
+Support: 0.16201117318435754
+Confidence: 0.9508196721311476
+
+Rule #935: ['Low MP', 'Low FGA', 'Bad FT Shooter', 'Low TRB'] -> ['Low Defensive Impact', 'Low AST']
+Support: 0.16201117318435754
+Confidence: 0.9206349206349206
+
+Rule #936: ['Low FGA', 'Low Defensive Impact', 'Low AST', 'Bad FT Shooter', 'Low MP'] -> ['Low TRB']
+Support: 0.16201117318435754
+Confidence: 0.9666666666666667
+
+Rule #937: ['Low Defensive Impact', 'Low TRB', 'Low AST', 'Bad FT Shooter', 'Low MP'] -> ['Low FGA']
+Support: 0.16201117318435754
+Confidence: 1.0
+
+Rule #938: ['Low FGA', 'Low TRB', 'Low AST', 'Bad FT Shooter', 'Low MP'] -> ['Low Defensive Impact']
+Support: 0.16201117318435754
+Confidence: 0.9666666666666667
+
+Rule #939: ['Low FGA', 'Low Defensive Impact', 'Low TRB', 'Bad FT Shooter', 'Low MP'] -> ['Low AST']
+Support: 0.16201117318435754
+Confidence: 0.9508196721311476
+
+Rule #940: ['Low FGA', 'Low Defensive Impact', 'Low Mistakes', 'Low AST', 'Bad FT Shooter'] -> ['Low TRB']
+Support: 0.2430167597765363
+Confidence: 0.9560439560439561
+
+Rule #941: ['Low FGA', 'Low Defensive Impact', 'Low TRB', 'Low AST', 'Bad FT Shooter'] -> ['Low Mistakes']
+Support: 0.2430167597765363
+Confidence: 0.9456521739130435
+
+Rule #942: ['Low Defensive Impact', 'Low TRB', 'Low Mistakes', 'Low AST', 'Bad FT Shooter'] -> ['Low FGA']
+Support: 0.2430167597765363
+Confidence: 0.9157894736842104
+
+Rule #943: ['Low FGA', 'Low TRB', 'Low Mistakes', 'Low AST', 'Bad FT Shooter'] -> ['Low Defensive Impact']
+Support: 0.2430167597765363
+Confidence: 0.9560439560439561
+
+Rule #944: ['Low MP', 'Bad FT Shooter', 'Low AST'] -> ['Low Mistakes', 'Low Defensive Impact', 'Low TRB']
+Support: 0.16201117318435754
+Confidence: 0.9354838709677419
+
+Rule #945: ['Low Defensive Impact', 'Low MP', 'Bad FT Shooter'] -> ['Low Mistakes', 'Low AST', 'Low TRB']
+Support: 0.16201117318435754
+Confidence: 0.9206349206349206
+
+Rule #946: ['Low Mistakes', 'Low MP', 'Bad FT Shooter'] -> ['Low Defensive Impact', 'Low AST', 'Low TRB']
+Support: 0.16201117318435754
+Confidence: 0.9206349206349206
+
+Rule #947: ['Low MP', 'Bad FT Shooter', 'Low TRB'] -> ['Low Mistakes', 'Low Defensive Impact', 'Low AST']
+Support: 0.16201117318435754
+Confidence: 0.9206349206349206
+
+Rule #948: ['Low Defensive Impact', 'Low MP', 'Bad FT Shooter', 'Low AST'] -> ['Low Mistakes', 'Low TRB']
+Support: 0.16201117318435754
+Confidence: 0.9666666666666667
+
+Rule #949: ['Low Mistakes', 'Low MP', 'Bad FT Shooter', 'Low AST'] -> ['Low Defensive Impact', 'Low TRB']
+Support: 0.16201117318435754
+Confidence: 0.9666666666666667
+
+Rule #950: ['Low MP', 'Bad FT Shooter', 'Low AST', 'Low TRB'] -> ['Low Mistakes', 'Low Defensive Impact']
+Support: 0.16201117318435754
+Confidence: 0.9666666666666667
+
+Rule #951: ['Low Mistakes', 'Low Defensive Impact', 'Low MP', 'Bad FT Shooter'] -> ['Low AST', 'Low TRB']
+Support: 0.16201117318435754
+Confidence: 0.9354838709677419
+
+Rule #952: ['Low Defensive Impact', 'Low MP', 'Bad FT Shooter', 'Low TRB'] -> ['Low Mistakes', 'Low AST']
+Support: 0.16201117318435754
+Confidence: 0.9508196721311476
+
+Rule #953: ['Low Mistakes', 'Low MP', 'Bad FT Shooter', 'Low TRB'] -> ['Low Defensive Impact', 'Low AST']
+Support: 0.16201117318435754
+Confidence: 0.9354838709677419
+
+Rule #954: ['Low Defensive Impact', 'Low Mistakes', 'Low AST', 'Bad FT Shooter', 'Low MP'] -> ['Low TRB']
+Support: 0.16201117318435754
+Confidence: 0.9830508474576272
+
+Rule #955: ['Low Defensive Impact', 'Low TRB', 'Low AST', 'Bad FT Shooter', 'Low MP'] -> ['Low Mistakes']
+Support: 0.16201117318435754
+Confidence: 1.0
+
+Rule #956: ['Low TRB', 'Low Mistakes', 'Low AST', 'Bad FT Shooter', 'Low MP'] -> ['Low Defensive Impact']
+Support: 0.16201117318435754
+Confidence: 0.9830508474576272
+
+Rule #957: ['Low Defensive Impact', 'Low TRB', 'Low Mistakes', 'Bad FT Shooter', 'Low MP'] -> ['Low AST']
+Support: 0.16201117318435754
+Confidence: 0.9508196721311476
+
+Rule #958: ['Low MP', 'Bad FT Shooter'] -> ['Low FGA', 'Low Mistakes', 'Low AST', 'Low TRB']
+Support: 0.164804469273743
+Confidence: 0.9076923076923077
+
+Rule #959: ['Low MP', 'Bad FT Shooter', 'Low AST'] -> ['Low FGA', 'Low Mistakes', 'Low TRB']
+Support: 0.164804469273743
+Confidence: 0.9516129032258064
+
+Rule #960: ['Low MP', 'Low FGA', 'Bad FT Shooter'] -> ['Low Mistakes', 'Low AST', 'Low TRB']
+Support: 0.164804469273743
+Confidence: 0.9076923076923077
+
+Rule #961: ['Low Mistakes', 'Low MP', 'Bad FT Shooter'] -> ['Low FGA', 'Low AST', 'Low TRB']
+Support: 0.164804469273743
+Confidence: 0.9365079365079364
+
+Rule #962: ['Low MP', 'Bad FT Shooter', 'Low TRB'] -> ['Low FGA', 'Low Mistakes', 'Low AST']
+Support: 0.164804469273743
+Confidence: 0.9365079365079364
+
+Rule #963: ['Low MP', 'Low FGA', 'Bad FT Shooter', 'Low AST'] -> ['Low Mistakes', 'Low TRB']
+Support: 0.164804469273743
+Confidence: 0.9516129032258064
+
+Rule #964: ['Low Mistakes', 'Low MP', 'Bad FT Shooter', 'Low AST'] -> ['Low FGA', 'Low TRB']
+Support: 0.164804469273743
+Confidence: 0.9833333333333334
+
+Rule #965: ['Low MP', 'Bad FT Shooter', 'Low AST', 'Low TRB'] -> ['Low FGA', 'Low Mistakes']
+Support: 0.164804469273743
+Confidence: 0.9833333333333334
+
+Rule #966: ['Low MP', 'Low FGA', 'Bad FT Shooter', 'Low Mistakes'] -> ['Low AST', 'Low TRB']
+Support: 0.164804469273743
+Confidence: 0.9365079365079364
+
+Rule #967: ['Low MP', 'Low FGA', 'Bad FT Shooter', 'Low TRB'] -> ['Low Mistakes', 'Low AST']
+Support: 0.164804469273743
+Confidence: 0.9365079365079364
+
+Rule #968: ['Low Mistakes', 'Low MP', 'Bad FT Shooter', 'Low TRB'] -> ['Low FGA', 'Low AST']
+Support: 0.164804469273743
+Confidence: 0.9516129032258064
+
+Rule #969: ['Low FGA', 'Low Mistakes', 'Low AST', 'Bad FT Shooter', 'Low MP'] -> ['Low TRB']
+Support: 0.164804469273743
+Confidence: 0.9833333333333334
+
+Rule #970: ['Low FGA', 'Low TRB', 'Low AST', 'Bad FT Shooter', 'Low MP'] -> ['Low Mistakes']
+Support: 0.164804469273743
+Confidence: 0.9833333333333334
+
+Rule #971: ['Low TRB', 'Low Mistakes', 'Low AST', 'Bad FT Shooter', 'Low MP'] -> ['Low FGA']
+Support: 0.164804469273743
+Confidence: 1.0
+
+Rule #972: ['Low FGA', 'Low TRB', 'Low Mistakes', 'Bad FT Shooter', 'Low MP'] -> ['Low AST']
+Support: 0.164804469273743
+Confidence: 0.9516129032258064
+
+Rule #973: ['Low MP', 'Bad FT Shooter'] -> ['Low Mistakes', 'Low FGA', 'Low Defensive Impact', 'Low TRB']
+Support: 0.17039106145251395
+Confidence: 0.9384615384615383
+
+Rule #974: ['Low Defensive Impact', 'Low MP', 'Bad FT Shooter'] -> ['Low FGA', 'Low Mistakes', 'Low TRB']
+Support: 0.17039106145251395
+Confidence: 0.9682539682539681
+
+Rule #975: ['Low MP', 'Low FGA', 'Bad FT Shooter'] -> ['Low Mistakes', 'Low Defensive Impact', 'Low TRB']
+Support: 0.17039106145251395
+Confidence: 0.9384615384615383
+
+Rule #976: ['Low Mistakes', 'Low MP', 'Bad FT Shooter'] -> ['Low FGA', 'Low Defensive Impact', 'Low TRB']
+Support: 0.17039106145251395
+Confidence: 0.9682539682539681
+
+Rule #977: ['Low MP', 'Bad FT Shooter', 'Low TRB'] -> ['Low Mistakes', 'Low FGA', 'Low Defensive Impact']
+Support: 0.17039106145251395
+Confidence: 0.9682539682539681
+
+Rule #978: ['Low MP', 'Low Defensive Impact', 'Low FGA', 'Bad FT Shooter'] -> ['Low Mistakes', 'Low TRB']
+Support: 0.17039106145251395
+Confidence: 0.9682539682539681
+
+Rule #979: ['Low Mistakes', 'Low Defensive Impact', 'Low MP', 'Bad FT Shooter'] -> ['Low FGA', 'Low TRB']
+Support: 0.17039106145251395
+Confidence: 0.9838709677419354
+
+Rule #980: ['Low Defensive Impact', 'Low MP', 'Bad FT Shooter', 'Low TRB'] -> ['Low FGA', 'Low Mistakes']
+Support: 0.17039106145251395
+Confidence: 1.0
+
+Rule #981: ['Low MP', 'Low FGA', 'Bad FT Shooter', 'Low Mistakes'] -> ['Low Defensive Impact', 'Low TRB']
+Support: 0.17039106145251395
+Confidence: 0.9682539682539681
+
+Rule #982: ['Low MP', 'Low FGA', 'Bad FT Shooter', 'Low TRB'] -> ['Low Mistakes', 'Low Defensive Impact']
+Support: 0.17039106145251395
+Confidence: 0.9682539682539681
+
+Rule #983: ['Low Mistakes', 'Low MP', 'Bad FT Shooter', 'Low TRB'] -> ['Low FGA', 'Low Defensive Impact']
+Support: 0.17039106145251395
+Confidence: 0.9838709677419354
+
+Rule #984: ['Low FGA', 'Low Defensive Impact', 'Low Mistakes', 'Bad FT Shooter', 'Low MP'] -> ['Low TRB']
+Support: 0.17039106145251395
+Confidence: 0.9838709677419354
+
+Rule #985: ['Low FGA', 'Low Defensive Impact', 'Low TRB', 'Bad FT Shooter', 'Low MP'] -> ['Low Mistakes']
+Support: 0.17039106145251395
+Confidence: 1.0
+
+Rule #986: ['Low Defensive Impact', 'Low TRB', 'Low Mistakes', 'Bad FT Shooter', 'Low MP'] -> ['Low FGA']
+Support: 0.17039106145251395
+Confidence: 1.0
+
+Rule #987: ['Low FGA', 'Low TRB', 'Low Mistakes', 'Bad FT Shooter', 'Low MP'] -> ['Low Defensive Impact']
+Support: 0.17039106145251395
+Confidence: 0.9838709677419354
+
+Rule #988: ['Bad FT Shooter', 'Very Low PPG'] -> ['Low Mistakes', 'Low FGA', 'Low Defensive Impact', 'Low TRB']
+Support: 0.15363128491620112
+Confidence: 0.9649122807017544
+
+Rule #989: ['Low Defensive Impact', 'Bad FT Shooter', 'Very Low PPG'] -> ['Low FGA', 'Low Mistakes', 'Low TRB']
+Support: 0.15363128491620112
+Confidence: 0.9649122807017544
+
+Rule #990: ['Low FGA', 'Bad FT Shooter', 'Very Low PPG'] -> ['Low Mistakes', 'Low Defensive Impact', 'Low TRB']
+Support: 0.15363128491620112
+Confidence: 0.9649122807017544
+
+Rule #991: ['Low Mistakes', 'Bad FT Shooter', 'Very Low PPG'] -> ['Low FGA', 'Low Defensive Impact', 'Low TRB']
+Support: 0.15363128491620112
+Confidence: 0.9821428571428572
+
+Rule #992: ['Bad FT Shooter', 'Low TRB', 'Very Low PPG'] -> ['Low Mistakes', 'Low FGA', 'Low Defensive Impact']
+Support: 0.15363128491620112
+Confidence: 1.0
+
+Rule #993: ['Low Defensive Impact', 'Low FGA', 'Bad FT Shooter', 'Very Low PPG'] -> ['Low Mistakes', 'Low TRB']
+Support: 0.15363128491620112
+Confidence: 0.9649122807017544
+
+Rule #994: ['Low Defensive Impact', 'Low Mistakes', 'Bad FT Shooter', 'Very Low PPG'] -> ['Low FGA', 'Low TRB']
+Support: 0.15363128491620112
+Confidence: 0.9821428571428572
+
+Rule #995: ['Low Defensive Impact', 'Bad FT Shooter', 'Low TRB', 'Very Low PPG'] -> ['Low FGA', 'Low Mistakes']
+Support: 0.15363128491620112
+Confidence: 1.0
+
+Rule #996: ['Low Mistakes', 'Low FGA', 'Bad FT Shooter', 'Very Low PPG'] -> ['Low Defensive Impact', 'Low TRB']
+Support: 0.15363128491620112
+Confidence: 0.9821428571428572
+
+Rule #997: ['Low FGA', 'Bad FT Shooter', 'Low TRB', 'Very Low PPG'] -> ['Low Mistakes', 'Low Defensive Impact']
+Support: 0.15363128491620112
+Confidence: 1.0
+
+Rule #998: ['Low Mistakes', 'Bad FT Shooter', 'Low TRB', 'Very Low PPG'] -> ['Low FGA', 'Low Defensive Impact']
+Support: 0.15363128491620112
+Confidence: 1.0
+
+Rule #999: ['Low FGA', 'Low Defensive Impact', 'Very Low PPG', 'Low Mistakes', 'Bad FT Shooter'] -> ['Low TRB']
+Support: 0.15363128491620112
+Confidence: 0.9821428571428572
+
+Rule #1000: ['Low FGA', 'Low Defensive Impact', 'Low TRB', 'Very Low PPG', 'Bad FT Shooter'] -> ['Low Mistakes']
+Support: 0.15363128491620112
+Confidence: 1.0
+
+Rule #1001: ['Low Defensive Impact', 'Low TRB', 'Very Low PPG', 'Low Mistakes', 'Bad FT Shooter'] -> ['Low FGA']
+Support: 0.15363128491620112
+Confidence: 1.0
+
+Rule #1002: ['Low FGA', 'Low TRB', 'Very Low PPG', 'Low Mistakes', 'Bad FT Shooter'] -> ['Low Defensive Impact']
+Support: 0.15363128491620112
+Confidence: 1.0
+
+Rule #1003: ['Developing', 'Low FGA', 'Low Mistakes', 'Low AST'] -> ['Low Defensive Impact', 'Low TRB']
+Support: 0.17597765363128492
+Confidence: 0.9402985074626866
+
+Rule #1004: ['Developing', 'Low FGA', 'Low Defensive Impact', 'Low Mistakes', 'Low AST'] -> ['Low TRB']
+Support: 0.17597765363128492
+Confidence: 0.984375
+
+Rule #1005: ['Developing', 'Low FGA', 'Low Defensive Impact', 'Low TRB', 'Low AST'] -> ['Low Mistakes']
+Support: 0.17597765363128492
+Confidence: 0.9402985074626866
+
+Rule #1006: ['Developing', 'Low Defensive Impact', 'Low TRB', 'Low Mistakes', 'Low AST'] -> ['Low FGA']
+Support: 0.17597765363128492
+Confidence: 0.9000000000000001
+
+Rule #1007: ['Developing', 'Low FGA', 'Low TRB', 'Low Mistakes', 'Low AST'] -> ['Low Defensive Impact']
+Support: 0.17597765363128492
+Confidence: 0.9692307692307692
+
+Rule #1008: ['Low MP'] -> ['Low FGA', 'Low Defensive Impact', 'Low TRB', 'Low Mistakes', 'Low AST']
+Support: 0.2122905027932961
+Confidence: 0.9047619047619048
+
+Rule #1009: ['Low MP', 'Low AST'] -> ['Low Mistakes', 'Low FGA', 'Low Defensive Impact', 'Low TRB']
+Support: 0.2122905027932961
+Confidence: 0.9500000000000001
+
+Rule #1010: ['Low MP', 'Low Defensive Impact'] -> ['Low FGA', 'Low Mistakes', 'Low AST', 'Low TRB']
+Support: 0.2122905027932961
+Confidence: 0.9268292682926829
+
+Rule #1011: ['Low FGA', 'Low MP'] -> ['Low Mistakes', 'Low Defensive Impact', 'Low AST', 'Low TRB']
+Support: 0.2122905027932961
+Confidence: 0.9047619047619048
+
+Rule #1012: ['Low Mistakes', 'Low MP'] -> ['Low FGA', 'Low Defensive Impact', 'Low AST', 'Low TRB']
+Support: 0.2122905027932961
+Confidence: 0.9268292682926829
+
+Rule #1013: ['Low MP', 'Low TRB'] -> ['Low Mistakes', 'Low FGA', 'Low Defensive Impact', 'Low AST']
+Support: 0.2122905027932961
+Confidence: 0.9268292682926829
+
+Rule #1014: ['Low MP', 'Low Defensive Impact', 'Low AST'] -> ['Low FGA', 'Low Mistakes', 'Low TRB']
+Support: 0.2122905027932961
+Confidence: 0.9743589743589743
+
+Rule #1015: ['Low FGA', 'Low MP', 'Low AST'] -> ['Low Mistakes', 'Low Defensive Impact', 'Low TRB']
+Support: 0.2122905027932961
+Confidence: 0.9500000000000001
+
+Rule #1016: ['Low Mistakes', 'Low MP', 'Low AST'] -> ['Low FGA', 'Low Defensive Impact', 'Low TRB']
+Support: 0.2122905027932961
+Confidence: 0.9743589743589743
+
+Rule #1017: ['Low MP', 'Low AST', 'Low TRB'] -> ['Low Mistakes', 'Low FGA', 'Low Defensive Impact']
+Support: 0.2122905027932961
+Confidence: 0.9743589743589743
+
+Rule #1018: ['Low MP', 'Low FGA', 'Low Defensive Impact'] -> ['Low Mistakes', 'Low AST', 'Low TRB']
+Support: 0.2122905027932961
+Confidence: 0.9268292682926829
+
+Rule #1019: ['Low Mistakes', 'Low MP', 'Low Defensive Impact'] -> ['Low FGA', 'Low AST', 'Low TRB']
+Support: 0.2122905027932961
+Confidence: 0.9382716049382716
+
+Rule #1020: ['Low MP', 'Low Defensive Impact', 'Low TRB'] -> ['Low FGA', 'Low Mistakes', 'Low AST']
+Support: 0.2122905027932961
+Confidence: 0.9500000000000001
+
+Rule #1021: ['Low Mistakes', 'Low FGA', 'Low MP'] -> ['Low Defensive Impact', 'Low AST', 'Low TRB']
+Support: 0.2122905027932961
+Confidence: 0.9268292682926829
+
+Rule #1022: ['Low FGA', 'Low MP', 'Low TRB'] -> ['Low Mistakes', 'Low Defensive Impact', 'Low AST']
+Support: 0.2122905027932961
+Confidence: 0.9268292682926829
+
+Rule #1023: ['Low Mistakes', 'Low MP', 'Low TRB'] -> ['Low FGA', 'Low Defensive Impact', 'Low AST']
+Support: 0.2122905027932961
+Confidence: 0.9382716049382716
+
+Rule #1024: ['Low MP', 'Low FGA', 'Low Defensive Impact', 'Low AST'] -> ['Low Mistakes', 'Low TRB']
+Support: 0.2122905027932961
+Confidence: 0.9743589743589743
+
+Rule #1025: ['Low Mistakes', 'Low MP', 'Low Defensive Impact', 'Low AST'] -> ['Low FGA', 'Low TRB']
+Support: 0.2122905027932961
+Confidence: 0.987012987012987
+
+Rule #1026: ['Low MP', 'Low Defensive Impact', 'Low AST', 'Low TRB'] -> ['Low FGA', 'Low Mistakes']
+Support: 0.2122905027932961
+Confidence: 1.0
+
+Rule #1027: ['Low Mistakes', 'Low FGA', 'Low MP', 'Low AST'] -> ['Low Defensive Impact', 'Low TRB']
+Support: 0.2122905027932961
+Confidence: 0.9743589743589743
+
+Rule #1028: ['Low FGA', 'Low MP', 'Low AST', 'Low TRB'] -> ['Low Mistakes', 'Low Defensive Impact']
+Support: 0.2122905027932961
+Confidence: 0.9743589743589743
+
+Rule #1029: ['Low Mistakes', 'Low MP', 'Low AST', 'Low TRB'] -> ['Low FGA', 'Low Defensive Impact']
+Support: 0.2122905027932961
+Confidence: 0.987012987012987
+
+Rule #1030: ['Low MP', 'Low FGA', 'Low Defensive Impact', 'Low Mistakes'] -> ['Low AST', 'Low TRB']
+Support: 0.2122905027932961
+Confidence: 0.9382716049382716
+
+Rule #1031: ['Low MP', 'Low FGA', 'Low Defensive Impact', 'Low TRB'] -> ['Low Mistakes', 'Low AST']
+Support: 0.2122905027932961
+Confidence: 0.9500000000000001
+
+Rule #1032: ['Low Mistakes', 'Low MP', 'Low Defensive Impact', 'Low TRB'] -> ['Low FGA', 'Low AST']
+Support: 0.2122905027932961
+Confidence: 0.9500000000000001
+
+Rule #1033: ['Low Mistakes', 'Low FGA', 'Low MP', 'Low TRB'] -> ['Low Defensive Impact', 'Low AST']
+Support: 0.2122905027932961
+Confidence: 0.9382716049382716
+
+Rule #1034: ['Low FGA', 'Low Defensive Impact', 'Low Mistakes', 'Low AST', 'Low MP'] -> ['Low TRB']
+Support: 0.2122905027932961
+Confidence: 0.987012987012987
+
+Rule #1035: ['Low FGA', 'Low Defensive Impact', 'Low TRB', 'Low AST', 'Low MP'] -> ['Low Mistakes']
+Support: 0.2122905027932961
+Confidence: 1.0
+
+Rule #1036: ['Low Defensive Impact', 'Low TRB', 'Low Mistakes', 'Low AST', 'Low MP'] -> ['Low FGA']
+Support: 0.2122905027932961
+Confidence: 1.0
+
+Rule #1037: ['Low FGA', 'Low TRB', 'Low Mistakes', 'Low AST', 'Low MP'] -> ['Low Defensive Impact']
+Support: 0.2122905027932961
+Confidence: 0.987012987012987
+
+Rule #1038: ['Low FGA', 'Low Defensive Impact', 'Low TRB', 'Low Mistakes', 'Low MP'] -> ['Low AST']
+Support: 0.2122905027932961
+Confidence: 0.9500000000000001
+
+Rule #1039: ['Low MP', 'Very Low PPG'] -> ['Low Mistakes', 'Low FGA', 'Low Defensive Impact', 'Low AST']
+Support: 0.16201117318435754
+Confidence: 0.9508196721311476
+
+Rule #1040: ['Low MP', 'Low AST', 'Very Low PPG'] -> ['Low Mistakes', 'Low FGA', 'Low Defensive Impact']
+Support: 0.16201117318435754
+Confidence: 1.0
+
+Rule #1041: ['Low MP', 'Low Defensive Impact', 'Very Low PPG'] -> ['Low FGA', 'Low Mistakes', 'Low AST']
+Support: 0.16201117318435754
+Confidence: 0.9508196721311476
+
+Rule #1042: ['Low FGA', 'Low MP', 'Very Low PPG'] -> ['Low Mistakes', 'Low Defensive Impact', 'Low AST']
+Support: 0.16201117318435754
+Confidence: 0.9508196721311476
+
+Rule #1043: ['Low Mistakes', 'Low MP', 'Very Low PPG'] -> ['Low FGA', 'Low Defensive Impact', 'Low AST']
+Support: 0.16201117318435754
+Confidence: 0.9508196721311476
+
+Rule #1044: ['Low MP', 'Low Defensive Impact', 'Low AST', 'Very Low PPG'] -> ['Low FGA', 'Low Mistakes']
+Support: 0.16201117318435754
+Confidence: 1.0
+
+Rule #1045: ['Low Mistakes', 'Low Defensive Impact', 'Low AST', 'Very Low PPG'] -> ['Low FGA', 'Low MP']
+Support: 0.16201117318435754
+Confidence: 0.90625
+
+Rule #1046: ['Low FGA', 'Low MP', 'Low AST', 'Very Low PPG'] -> ['Low Mistakes', 'Low Defensive Impact']
+Support: 0.16201117318435754
+Confidence: 1.0
+
+Rule #1047: ['Low Mistakes', 'Low MP', 'Low AST', 'Very Low PPG'] -> ['Low FGA', 'Low Defensive Impact']
+Support: 0.16201117318435754
+Confidence: 1.0
+
+Rule #1048: ['Low MP', 'Low FGA', 'Low Defensive Impact', 'Very Low PPG'] -> ['Low Mistakes', 'Low AST']
+Support: 0.16201117318435754
+Confidence: 0.9508196721311476
+
+Rule #1049: ['Low Mistakes', 'Low MP', 'Low Defensive Impact', 'Very Low PPG'] -> ['Low FGA', 'Low AST']
+Support: 0.16201117318435754
+Confidence: 0.9508196721311476
+
+Rule #1050: ['Low Mistakes', 'Low FGA', 'Low MP', 'Very Low PPG'] -> ['Low Defensive Impact', 'Low AST']
+Support: 0.16201117318435754
+Confidence: 0.9508196721311476
+
+Rule #1051: ['Low FGA', 'Low Defensive Impact', 'Very Low PPG', 'Low AST', 'Low MP'] -> ['Low Mistakes']
+Support: 0.16201117318435754
+Confidence: 1.0
+
+Rule #1052: ['Low FGA', 'Low Defensive Impact', 'Very Low PPG', 'Low Mistakes', 'Low AST'] -> ['Low MP']
+Support: 0.16201117318435754
+Confidence: 0.90625
+
+Rule #1053: ['Low Defensive Impact', 'Very Low PPG', 'Low Mistakes', 'Low AST', 'Low MP'] -> ['Low FGA']
+Support: 0.16201117318435754
+Confidence: 1.0
+
+Rule #1054: ['Low FGA', 'Very Low PPG', 'Low Mistakes', 'Low AST', 'Low MP'] -> ['Low Defensive Impact']
+Support: 0.16201117318435754
+Confidence: 1.0
+
+Rule #1055: ['Low FGA', 'Low Defensive Impact', 'Very Low PPG', 'Low Mistakes', 'Low MP'] -> ['Low AST']
+Support: 0.16201117318435754
+Confidence: 0.9508196721311476
+
+Rule #1056: ['Low MP', 'Very Low PPG'] -> ['Low FGA', 'Low Defensive Impact', 'Low AST', 'Low TRB']
+Support: 0.16201117318435754
+Confidence: 0.9508196721311476
+
+Rule #1057: ['Low MP', 'Low AST', 'Very Low PPG'] -> ['Low FGA', 'Low Defensive Impact', 'Low TRB']
+Support: 0.16201117318435754
+Confidence: 1.0
+
+Rule #1058: ['Low AST', 'Low TRB', 'Very Low PPG'] -> ['Low MP', 'Low FGA', 'Low Defensive Impact']
+Support: 0.16201117318435754
+Confidence: 0.90625
+
+Rule #1059: ['Low MP', 'Low Defensive Impact', 'Very Low PPG'] -> ['Low FGA', 'Low AST', 'Low TRB']
+Support: 0.16201117318435754
+Confidence: 0.9508196721311476
+
+Rule #1060: ['Low FGA', 'Low MP', 'Very Low PPG'] -> ['Low Defensive Impact', 'Low AST', 'Low TRB']
+Support: 0.16201117318435754
+Confidence: 0.9508196721311476
+
+Rule #1061: ['Low MP', 'Low TRB', 'Very Low PPG'] -> ['Low FGA', 'Low Defensive Impact', 'Low AST']
+Support: 0.16201117318435754
+Confidence: 0.9508196721311476
+
+Rule #1062: ['Low MP', 'Low Defensive Impact', 'Low AST', 'Very Low PPG'] -> ['Low FGA', 'Low TRB']
+Support: 0.16201117318435754
+Confidence: 1.0
+
+Rule #1063: ['Low Defensive Impact', 'Low AST', 'Low TRB', 'Very Low PPG'] -> ['Low FGA', 'Low MP']
+Support: 0.16201117318435754
+Confidence: 0.9206349206349206
+
+Rule #1064: ['Low FGA', 'Low MP', 'Low AST', 'Very Low PPG'] -> ['Low Defensive Impact', 'Low TRB']
+Support: 0.16201117318435754
+Confidence: 1.0
+
+Rule #1065: ['Low FGA', 'Low AST', 'Low TRB', 'Very Low PPG'] -> ['Low MP', 'Low Defensive Impact']
+Support: 0.16201117318435754
+Confidence: 0.90625
+
+Rule #1066: ['Low MP', 'Low AST', 'Low TRB', 'Very Low PPG'] -> ['Low FGA', 'Low Defensive Impact']
+Support: 0.16201117318435754
+Confidence: 1.0
+
+Rule #1067: ['Low MP', 'Low FGA', 'Low Defensive Impact', 'Very Low PPG'] -> ['Low AST', 'Low TRB']
+Support: 0.16201117318435754
+Confidence: 0.9508196721311476
+
+Rule #1068: ['Low MP', 'Low Defensive Impact', 'Low TRB', 'Very Low PPG'] -> ['Low FGA', 'Low AST']
+Support: 0.16201117318435754
+Confidence: 0.9508196721311476
+
+Rule #1069: ['Low FGA', 'Low MP', 'Low TRB', 'Very Low PPG'] -> ['Low Defensive Impact', 'Low AST']
+Support: 0.16201117318435754
+Confidence: 0.9508196721311476
+
+Rule #1070: ['Low FGA', 'Low Defensive Impact', 'Very Low PPG', 'Low AST', 'Low MP'] -> ['Low TRB']
+Support: 0.16201117318435754
+Confidence: 1.0
+
+Rule #1071: ['Low FGA', 'Low Defensive Impact', 'Low TRB', 'Very Low PPG', 'Low AST'] -> ['Low MP']
+Support: 0.16201117318435754
+Confidence: 0.9206349206349206
+
+Rule #1072: ['Low Defensive Impact', 'Low TRB', 'Very Low PPG', 'Low AST', 'Low MP'] -> ['Low FGA']
+Support: 0.16201117318435754
+Confidence: 1.0
+
+Rule #1073: ['Low FGA', 'Low TRB', 'Very Low PPG', 'Low AST', 'Low MP'] -> ['Low Defensive Impact']
+Support: 0.16201117318435754
+Confidence: 1.0
+
+Rule #1074: ['Low FGA', 'Low Defensive Impact', 'Low TRB', 'Very Low PPG', 'Low MP'] -> ['Low AST']
+Support: 0.16201117318435754
+Confidence: 0.9508196721311476
+
+Rule #1075: ['Low PPG', 'Low Mistakes', 'Low Defensive Impact', 'Low AST'] -> ['Low FGA', 'Low TRB']
+Support: 0.15363128491620112
+Confidence: 0.9649122807017544
+
+Rule #1076: ['Low PPG', 'Low Defensive Impact', 'Low AST', 'Low TRB'] -> ['Low FGA', 'Low Mistakes']
+Support: 0.15363128491620112
+Confidence: 0.9016393442622952
+
+Rule #1077: ['Low Mistakes', 'Low PPG', 'Low AST', 'Low TRB'] -> ['Low FGA', 'Low Defensive Impact']
+Support: 0.15363128491620112
+Confidence: 0.9322033898305085
+
+Rule #1078: ['Low FGA', 'Low Defensive Impact', 'Low Mistakes', 'Low AST', 'Low PPG'] -> ['Low TRB']
+Support: 0.15363128491620112
+Confidence: 0.9649122807017544
+
+Rule #1079: ['Low FGA', 'Low Defensive Impact', 'Low TRB', 'Low AST', 'Low PPG'] -> ['Low Mistakes']
+Support: 0.15363128491620112
+Confidence: 0.9016393442622952
+
+Rule #1080: ['Low Defensive Impact', 'Low TRB', 'Low Mistakes', 'Low AST', 'Low PPG'] -> ['Low FGA']
+Support: 0.15363128491620112
+Confidence: 1.0
+
+Rule #1081: ['Low FGA', 'Low TRB', 'Low Mistakes', 'Low AST', 'Low PPG'] -> ['Low Defensive Impact']
+Support: 0.15363128491620112
+Confidence: 0.9322033898305085
+
+Rule #1082: ['Low AST', 'Very Low PPG'] -> ['Low Mistakes', 'Low FGA', 'Low Defensive Impact', 'Low TRB']
+Support: 0.17597765363128492
+Confidence: 0.9545454545454546
+
+Rule #1083: ['Low TRB', 'Very Low PPG'] -> ['Low Mistakes', 'Low FGA', 'Low Defensive Impact', 'Low AST']
+Support: 0.17597765363128492
+Confidence: 0.9000000000000001
+
+Rule #1084: ['Low Defensive Impact', 'Low AST', 'Very Low PPG'] -> ['Low FGA', 'Low Mistakes', 'Low TRB']
+Support: 0.17597765363128492
+Confidence: 0.9692307692307692
+
+Rule #1085: ['Low FGA', 'Low AST', 'Very Low PPG'] -> ['Low Mistakes', 'Low Defensive Impact', 'Low TRB']
+Support: 0.17597765363128492
+Confidence: 0.9545454545454546
+
+Rule #1086: ['Low Mistakes', 'Low AST', 'Very Low PPG'] -> ['Low FGA', 'Low Defensive Impact', 'Low TRB']
+Support: 0.17597765363128492
+Confidence: 0.9692307692307692
+
+Rule #1087: ['Low AST', 'Low TRB', 'Very Low PPG'] -> ['Low Mistakes', 'Low FGA', 'Low Defensive Impact']
+Support: 0.17597765363128492
+Confidence: 0.984375
+
+Rule #1088: ['Low Mistakes', 'Low Defensive Impact', 'Very Low PPG'] -> ['Low FGA', 'Low AST', 'Low TRB']
+Support: 0.17597765363128492
+Confidence: 0.9000000000000001
+
+Rule #1089: ['Low Defensive Impact', 'Low TRB', 'Very Low PPG'] -> ['Low FGA', 'Low Mistakes', 'Low AST']
+Support: 0.17597765363128492
+Confidence: 0.9130434782608696
+
+Rule #1090: ['Low FGA', 'Low TRB', 'Very Low PPG'] -> ['Low Mistakes', 'Low Defensive Impact', 'Low AST']
+Support: 0.17597765363128492
+Confidence: 0.9000000000000001
+
+Rule #1091: ['Low Mistakes', 'Low TRB', 'Very Low PPG'] -> ['Low FGA', 'Low Defensive Impact', 'Low AST']
+Support: 0.17597765363128492
+Confidence: 0.9000000000000001
+
+Rule #1092: ['Low FGA', 'Low Defensive Impact', 'Low AST', 'Very Low PPG'] -> ['Low Mistakes', 'Low TRB']
+Support: 0.17597765363128492
+Confidence: 0.9692307692307692
+
+Rule #1093: ['Low Mistakes', 'Low Defensive Impact', 'Low AST', 'Very Low PPG'] -> ['Low FGA', 'Low TRB']
+Support: 0.17597765363128492
+Confidence: 0.984375
+
+Rule #1094: ['Low Defensive Impact', 'Low AST', 'Low TRB', 'Very Low PPG'] -> ['Low FGA', 'Low Mistakes']
+Support: 0.17597765363128492
+Confidence: 1.0
+
+Rule #1095: ['Low FGA', 'Low Mistakes', 'Low AST', 'Very Low PPG'] -> ['Low Defensive Impact', 'Low TRB']
+Support: 0.17597765363128492
+Confidence: 0.9692307692307692
+
+Rule #1096: ['Low FGA', 'Low AST', 'Low TRB', 'Very Low PPG'] -> ['Low Mistakes', 'Low Defensive Impact']
+Support: 0.17597765363128492
+Confidence: 0.984375
+
+Rule #1097: ['Low Mistakes', 'Low AST', 'Low TRB', 'Very Low PPG'] -> ['Low FGA', 'Low Defensive Impact']
+Support: 0.17597765363128492
+Confidence: 0.984375
+
+Rule #1098: ['Low Mistakes', 'Low FGA', 'Low Defensive Impact', 'Very Low PPG'] -> ['Low AST', 'Low TRB']
+Support: 0.17597765363128492
+Confidence: 0.9000000000000001
+
+Rule #1099: ['Low FGA', 'Low Defensive Impact', 'Low TRB', 'Very Low PPG'] -> ['Low Mistakes', 'Low AST']
+Support: 0.17597765363128492
+Confidence: 0.9130434782608696
+
+Rule #1100: ['Low Mistakes', 'Low Defensive Impact', 'Low TRB', 'Very Low PPG'] -> ['Low FGA', 'Low AST']
+Support: 0.17597765363128492
+Confidence: 0.9130434782608696
+
+Rule #1101: ['Low FGA', 'Low Mistakes', 'Low TRB', 'Very Low PPG'] -> ['Low Defensive Impact', 'Low AST']
+Support: 0.17597765363128492
+Confidence: 0.9000000000000001
+
+Rule #1102: ['Low FGA', 'Low Defensive Impact', 'Very Low PPG', 'Low Mistakes', 'Low AST'] -> ['Low TRB']
+Support: 0.17597765363128492
+Confidence: 0.984375
+
+Rule #1103: ['Low FGA', 'Low Defensive Impact', 'Low TRB', 'Very Low PPG', 'Low AST'] -> ['Low Mistakes']
+Support: 0.17597765363128492
+Confidence: 1.0
+
+Rule #1104: ['Low Defensive Impact', 'Low TRB', 'Very Low PPG', 'Low Mistakes', 'Low AST'] -> ['Low FGA']
+Support: 0.17597765363128492
+Confidence: 1.0
+
+Rule #1105: ['Low FGA', 'Low TRB', 'Very Low PPG', 'Low Mistakes', 'Low AST'] -> ['Low Defensive Impact']
+Support: 0.17597765363128492
+Confidence: 0.984375
+
+Rule #1106: ['Low FGA', 'Low Defensive Impact', 'Low TRB', 'Very Low PPG', 'Low Mistakes'] -> ['Low AST']
+Support: 0.17597765363128492
+Confidence: 0.9130434782608696
+
+Rule #1107: ['Low MP', 'Very Low PPG'] -> ['Low Mistakes', 'Low Defensive Impact', 'Low AST', 'Low TRB']
+Support: 0.16201117318435754
+Confidence: 0.9508196721311476
+
+Rule #1108: ['Low MP', 'Low AST', 'Very Low PPG'] -> ['Low Mistakes', 'Low Defensive Impact', 'Low TRB']
+Support: 0.16201117318435754
+Confidence: 1.0
+
+Rule #1109: ['Low AST', 'Low TRB', 'Very Low PPG'] -> ['Low MP', 'Low Mistakes', 'Low Defensive Impact']
+Support: 0.16201117318435754
+Confidence: 0.90625
+
+Rule #1110: ['Low MP', 'Low Defensive Impact', 'Very Low PPG'] -> ['Low Mistakes', 'Low AST', 'Low TRB']
+Support: 0.16201117318435754
+Confidence: 0.9508196721311476
+
+Rule #1111: ['Low Mistakes', 'Low MP', 'Very Low PPG'] -> ['Low Defensive Impact', 'Low AST', 'Low TRB']
+Support: 0.16201117318435754
+Confidence: 0.9508196721311476
+
+Rule #1112: ['Low MP', 'Low TRB', 'Very Low PPG'] -> ['Low Mistakes', 'Low Defensive Impact', 'Low AST']
+Support: 0.16201117318435754
+Confidence: 0.9508196721311476
+
+Rule #1113: ['Low MP', 'Low Defensive Impact', 'Low AST', 'Very Low PPG'] -> ['Low Mistakes', 'Low TRB']
+Support: 0.16201117318435754
+Confidence: 1.0
+
+Rule #1114: ['Low Mistakes', 'Low Defensive Impact', 'Low AST', 'Very Low PPG'] -> ['Low MP', 'Low TRB']
+Support: 0.16201117318435754
+Confidence: 0.90625
+
+Rule #1115: ['Low Defensive Impact', 'Low AST', 'Low TRB', 'Very Low PPG'] -> ['Low Mistakes', 'Low MP']
+Support: 0.16201117318435754
+Confidence: 0.9206349206349206
+
+Rule #1116: ['Low Mistakes', 'Low MP', 'Low AST', 'Very Low PPG'] -> ['Low Defensive Impact', 'Low TRB']
+Support: 0.16201117318435754
+Confidence: 1.0
+
+Rule #1117: ['Low MP', 'Low AST', 'Low TRB', 'Very Low PPG'] -> ['Low Mistakes', 'Low Defensive Impact']
+Support: 0.16201117318435754
+Confidence: 1.0
+
+Rule #1118: ['Low Mistakes', 'Low AST', 'Low TRB', 'Very Low PPG'] -> ['Low MP', 'Low Defensive Impact']
+Support: 0.16201117318435754
+Confidence: 0.90625
+
+Rule #1119: ['Low Mistakes', 'Low MP', 'Low Defensive Impact', 'Very Low PPG'] -> ['Low AST', 'Low TRB']
+Support: 0.16201117318435754
+Confidence: 0.9508196721311476
+
+Rule #1120: ['Low MP', 'Low Defensive Impact', 'Low TRB', 'Very Low PPG'] -> ['Low Mistakes', 'Low AST']
+Support: 0.16201117318435754
+Confidence: 0.9508196721311476
+
+Rule #1121: ['Low Mistakes', 'Low MP', 'Low TRB', 'Very Low PPG'] -> ['Low Defensive Impact', 'Low AST']
+Support: 0.16201117318435754
+Confidence: 0.9508196721311476
+
+Rule #1122: ['Low Defensive Impact', 'Very Low PPG', 'Low Mistakes', 'Low AST', 'Low MP'] -> ['Low TRB']
+Support: 0.16201117318435754
+Confidence: 1.0
+
+Rule #1123: ['Low Defensive Impact', 'Low TRB', 'Very Low PPG', 'Low AST', 'Low MP'] -> ['Low Mistakes']
+Support: 0.16201117318435754
+Confidence: 1.0
+
+Rule #1124: ['Low Defensive Impact', 'Low TRB', 'Very Low PPG', 'Low Mistakes', 'Low AST'] -> ['Low MP']
+Support: 0.16201117318435754
+Confidence: 0.9206349206349206
+
+Rule #1125: ['Low TRB', 'Very Low PPG', 'Low Mistakes', 'Low AST', 'Low MP'] -> ['Low Defensive Impact']
+Support: 0.16201117318435754
+Confidence: 1.0
+
+Rule #1126: ['Low Defensive Impact', 'Low TRB', 'Very Low PPG', 'Low Mistakes', 'Low MP'] -> ['Low AST']
+Support: 0.16201117318435754
+Confidence: 0.9508196721311476
+
+Rule #1127: ['Low MP', 'Very Low PPG'] -> ['Low FGA', 'Low Mistakes', 'Low AST', 'Low TRB']
+Support: 0.16201117318435754
+Confidence: 0.9508196721311476
+
+Rule #1128: ['Low MP', 'Low AST', 'Very Low PPG'] -> ['Low FGA', 'Low Mistakes', 'Low TRB']
+Support: 0.16201117318435754
+Confidence: 1.0
+
+Rule #1129: ['Low AST', 'Low TRB', 'Very Low PPG'] -> ['Low MP', 'Low FGA', 'Low Mistakes']
+Support: 0.16201117318435754
+Confidence: 0.90625
+
+Rule #1130: ['Low FGA', 'Low MP', 'Very Low PPG'] -> ['Low Mistakes', 'Low AST', 'Low TRB']
+Support: 0.16201117318435754
+Confidence: 0.9508196721311476
+
+Rule #1131: ['Low Mistakes', 'Low MP', 'Very Low PPG'] -> ['Low FGA', 'Low AST', 'Low TRB']
+Support: 0.16201117318435754
+Confidence: 0.9508196721311476
+
+Rule #1132: ['Low MP', 'Low TRB', 'Very Low PPG'] -> ['Low FGA', 'Low Mistakes', 'Low AST']
+Support: 0.16201117318435754
+Confidence: 0.9508196721311476
+
+Rule #1133: ['Low FGA', 'Low MP', 'Low AST', 'Very Low PPG'] -> ['Low Mistakes', 'Low TRB']
+Support: 0.16201117318435754
+Confidence: 1.0
+
+Rule #1134: ['Low FGA', 'Low AST', 'Low TRB', 'Very Low PPG'] -> ['Low Mistakes', 'Low MP']
+Support: 0.16201117318435754
+Confidence: 0.90625
+
+Rule #1135: ['Low Mistakes', 'Low MP', 'Low AST', 'Very Low PPG'] -> ['Low FGA', 'Low TRB']
+Support: 0.16201117318435754
+Confidence: 1.0
+
+Rule #1136: ['Low MP', 'Low AST', 'Low TRB', 'Very Low PPG'] -> ['Low FGA', 'Low Mistakes']
+Support: 0.16201117318435754
+Confidence: 1.0
+
+Rule #1137: ['Low Mistakes', 'Low AST', 'Low TRB', 'Very Low PPG'] -> ['Low FGA', 'Low MP']
+Support: 0.16201117318435754
+Confidence: 0.90625
+
+Rule #1138: ['Low Mistakes', 'Low FGA', 'Low MP', 'Very Low PPG'] -> ['Low AST', 'Low TRB']
+Support: 0.16201117318435754
+Confidence: 0.9508196721311476
+
+Rule #1139: ['Low FGA', 'Low MP', 'Low TRB', 'Very Low PPG'] -> ['Low Mistakes', 'Low AST']
+Support: 0.16201117318435754
+Confidence: 0.9508196721311476
+
+Rule #1140: ['Low Mistakes', 'Low MP', 'Low TRB', 'Very Low PPG'] -> ['Low FGA', 'Low AST']
+Support: 0.16201117318435754
+Confidence: 0.9508196721311476
+
+Rule #1141: ['Low FGA', 'Very Low PPG', 'Low Mistakes', 'Low AST', 'Low MP'] -> ['Low TRB']
+Support: 0.16201117318435754
+Confidence: 1.0
+
+Rule #1142: ['Low FGA', 'Low TRB', 'Very Low PPG', 'Low AST', 'Low MP'] -> ['Low Mistakes']
+Support: 0.16201117318435754
+Confidence: 1.0
+
+Rule #1143: ['Low FGA', 'Low TRB', 'Very Low PPG', 'Low Mistakes', 'Low AST'] -> ['Low MP']
+Support: 0.16201117318435754
+Confidence: 0.90625
+
+Rule #1144: ['Low TRB', 'Very Low PPG', 'Low Mistakes', 'Low AST', 'Low MP'] -> ['Low FGA']
+Support: 0.16201117318435754
+Confidence: 1.0
+
+Rule #1145: ['Low FGA', 'Low TRB', 'Very Low PPG', 'Low Mistakes', 'Low MP'] -> ['Low AST']
+Support: 0.16201117318435754
+Confidence: 0.9508196721311476
+
+Rule #1146: ['Low MP', 'Very Low PPG'] -> ['Low Mistakes', 'Low FGA', 'Low Defensive Impact', 'Low TRB']
+Support: 0.17039106145251395
+Confidence: 1.0
+
+Rule #1147: ['Low MP', 'Low Defensive Impact', 'Very Low PPG'] -> ['Low FGA', 'Low Mistakes', 'Low TRB']
+Support: 0.17039106145251395
+Confidence: 1.0
+
+Rule #1148: ['Low FGA', 'Low MP', 'Very Low PPG'] -> ['Low Mistakes', 'Low Defensive Impact', 'Low TRB']
+Support: 0.17039106145251395
+Confidence: 1.0
+
+Rule #1149: ['Low Mistakes', 'Low MP', 'Very Low PPG'] -> ['Low FGA', 'Low Defensive Impact', 'Low TRB']
+Support: 0.17039106145251395
+Confidence: 1.0
+
+Rule #1150: ['Low MP', 'Low TRB', 'Very Low PPG'] -> ['Low Mistakes', 'Low FGA', 'Low Defensive Impact']
+Support: 0.17039106145251395
+Confidence: 1.0
+
+Rule #1151: ['Low MP', 'Low FGA', 'Low Defensive Impact', 'Very Low PPG'] -> ['Low Mistakes', 'Low TRB']
+Support: 0.17039106145251395
+Confidence: 1.0
+
+Rule #1152: ['Low Mistakes', 'Low MP', 'Low Defensive Impact', 'Very Low PPG'] -> ['Low FGA', 'Low TRB']
+Support: 0.17039106145251395
+Confidence: 1.0
+
+Rule #1153: ['Low MP', 'Low Defensive Impact', 'Low TRB', 'Very Low PPG'] -> ['Low FGA', 'Low Mistakes']
+Support: 0.17039106145251395
+Confidence: 1.0
+
+Rule #1154: ['Low Mistakes', 'Low FGA', 'Low MP', 'Very Low PPG'] -> ['Low Defensive Impact', 'Low TRB']
+Support: 0.17039106145251395
+Confidence: 1.0
+
+Rule #1155: ['Low FGA', 'Low MP', 'Low TRB', 'Very Low PPG'] -> ['Low Mistakes', 'Low Defensive Impact']
+Support: 0.17039106145251395
+Confidence: 1.0
+
+Rule #1156: ['Low Mistakes', 'Low MP', 'Low TRB', 'Very Low PPG'] -> ['Low FGA', 'Low Defensive Impact']
+Support: 0.17039106145251395
+Confidence: 1.0
+
+Rule #1157: ['Low FGA', 'Low Defensive Impact', 'Very Low PPG', 'Low Mistakes', 'Low MP'] -> ['Low TRB']
+Support: 0.17039106145251395
+Confidence: 1.0
+
+Rule #1158: ['Low FGA', 'Low Defensive Impact', 'Low TRB', 'Very Low PPG', 'Low MP'] -> ['Low Mistakes']
+Support: 0.17039106145251395
+Confidence: 1.0
+
+Rule #1159: ['Low Defensive Impact', 'Low TRB', 'Very Low PPG', 'Low Mistakes', 'Low MP'] -> ['Low FGA']
+Support: 0.17039106145251395
+Confidence: 1.0
+
+Rule #1160: ['Low FGA', 'Low TRB', 'Very Low PPG', 'Low Mistakes', 'Low MP'] -> ['Low Defensive Impact']
+Support: 0.17039106145251395
+Confidence: 1.0
+
+Rule #1161: ['Low MP', 'Bad FT Shooter', 'Low AST'] -> ['Low Mistakes', 'Low FGA', 'Low Defensive Impact', 'Low TRB']
+Support: 0.16201117318435754
+Confidence: 0.9354838709677419
+
+Rule #1162: ['Low Defensive Impact', 'Low MP', 'Bad FT Shooter'] -> ['Low FGA', 'Low Mistakes', 'Low AST', 'Low TRB']
+Support: 0.16201117318435754
+Confidence: 0.9206349206349206
+
+Rule #1163: ['Low Mistakes', 'Low MP', 'Bad FT Shooter'] -> ['Low FGA', 'Low Defensive Impact', 'Low AST', 'Low TRB']
+Support: 0.16201117318435754
+Confidence: 0.9206349206349206
+
+Rule #1164: ['Low MP', 'Bad FT Shooter', 'Low TRB'] -> ['Low Mistakes', 'Low FGA', 'Low Defensive Impact', 'Low AST']
+Support: 0.16201117318435754
+Confidence: 0.9206349206349206
+
+Rule #1165: ['Low Defensive Impact', 'Low MP', 'Bad FT Shooter', 'Low AST'] -> ['Low FGA', 'Low Mistakes', 'Low TRB']
+Support: 0.16201117318435754
+Confidence: 0.9666666666666667
+
+Rule #1166: ['Low MP', 'Low FGA', 'Bad FT Shooter', 'Low AST'] -> ['Low Mistakes', 'Low Defensive Impact', 'Low TRB']
+Support: 0.16201117318435754
+Confidence: 0.9354838709677419
+
+Rule #1167: ['Low Mistakes', 'Low MP', 'Bad FT Shooter', 'Low AST'] -> ['Low FGA', 'Low Defensive Impact', 'Low TRB']
+Support: 0.16201117318435754
+Confidence: 0.9666666666666667
+
+Rule #1168: ['Low MP', 'Bad FT Shooter', 'Low AST', 'Low TRB'] -> ['Low Mistakes', 'Low FGA', 'Low Defensive Impact']
+Support: 0.16201117318435754
+Confidence: 0.9666666666666667
+
+Rule #1169: ['Low MP', 'Low Defensive Impact', 'Low FGA', 'Bad FT Shooter'] -> ['Low Mistakes', 'Low AST', 'Low TRB']
+Support: 0.16201117318435754
+Confidence: 0.9206349206349206
+
+Rule #1170: ['Low Mistakes', 'Low Defensive Impact', 'Low MP', 'Bad FT Shooter'] -> ['Low FGA', 'Low AST', 'Low TRB']
+Support: 0.16201117318435754
+Confidence: 0.9354838709677419
+
+Rule #1171: ['Low Defensive Impact', 'Low MP', 'Bad FT Shooter', 'Low TRB'] -> ['Low FGA', 'Low Mistakes', 'Low AST']
+Support: 0.16201117318435754
+Confidence: 0.9508196721311476
+
+Rule #1172: ['Low MP', 'Low FGA', 'Bad FT Shooter', 'Low Mistakes'] -> ['Low Defensive Impact', 'Low AST', 'Low TRB']
+Support: 0.16201117318435754
+Confidence: 0.9206349206349206
+
+Rule #1173: ['Low MP', 'Low FGA', 'Bad FT Shooter', 'Low TRB'] -> ['Low Mistakes', 'Low Defensive Impact', 'Low AST']
+Support: 0.16201117318435754
+Confidence: 0.9206349206349206
+
+Rule #1174: ['Low Mistakes', 'Low MP', 'Bad FT Shooter', 'Low TRB'] -> ['Low FGA', 'Low Defensive Impact', 'Low AST']
+Support: 0.16201117318435754
+Confidence: 0.9354838709677419
+
+Rule #1175: ['Low FGA', 'Low Defensive Impact', 'Low AST', 'Bad FT Shooter', 'Low MP'] -> ['Low Mistakes', 'Low TRB']
+Support: 0.16201117318435754
+Confidence: 0.9666666666666667
+
+Rule #1176: ['Low Defensive Impact', 'Low Mistakes', 'Low AST', 'Bad FT Shooter', 'Low MP'] -> ['Low FGA', 'Low TRB']
+Support: 0.16201117318435754
+Confidence: 0.9830508474576272
+
+Rule #1177: ['Low Defensive Impact', 'Low TRB', 'Low AST', 'Bad FT Shooter', 'Low MP'] -> ['Low FGA', 'Low Mistakes']
+Support: 0.16201117318435754
+Confidence: 1.0
+
+Rule #1178: ['Low FGA', 'Low Mistakes', 'Low AST', 'Bad FT Shooter', 'Low MP'] -> ['Low Defensive Impact', 'Low TRB']
+Support: 0.16201117318435754
+Confidence: 0.9666666666666667
+
+Rule #1179: ['Low FGA', 'Low TRB', 'Low AST', 'Bad FT Shooter', 'Low MP'] -> ['Low Mistakes', 'Low Defensive Impact']
+Support: 0.16201117318435754
+Confidence: 0.9666666666666667
+
+Rule #1180: ['Low TRB', 'Low Mistakes', 'Low AST', 'Bad FT Shooter', 'Low MP'] -> ['Low FGA', 'Low Defensive Impact']
+Support: 0.16201117318435754
+Confidence: 0.9830508474576272
+
+Rule #1181: ['Low FGA', 'Low Defensive Impact', 'Low Mistakes', 'Bad FT Shooter', 'Low MP'] -> ['Low AST', 'Low TRB']
+Support: 0.16201117318435754
+Confidence: 0.9354838709677419
+
+Rule #1182: ['Low FGA', 'Low Defensive Impact', 'Low TRB', 'Bad FT Shooter', 'Low MP'] -> ['Low Mistakes', 'Low AST']
+Support: 0.16201117318435754
+Confidence: 0.9508196721311476
+
+Rule #1183: ['Low Defensive Impact', 'Low TRB', 'Low Mistakes', 'Bad FT Shooter', 'Low MP'] -> ['Low FGA', 'Low AST']
+Support: 0.16201117318435754
+Confidence: 0.9508196721311476
+
+Rule #1184: ['Low FGA', 'Low TRB', 'Low Mistakes', 'Bad FT Shooter', 'Low MP'] -> ['Low Defensive Impact', 'Low AST']
+Support: 0.16201117318435754
+Confidence: 0.9354838709677419
+
+Rule #1185: ['Low FGA', 'Low Defensive Impact', 'Low Mistakes', 'Low AST', 'Bad FT Shooter', 'Low MP'] -> ['Low TRB']
+Support: 0.16201117318435754
+Confidence: 0.9830508474576272
+
+Rule #1186: ['Low FGA', 'Low Defensive Impact', 'Low TRB', 'Low AST', 'Bad FT Shooter', 'Low MP'] -> ['Low Mistakes']
+Support: 0.16201117318435754
+Confidence: 1.0
+
+Rule #1187: ['Low Defensive Impact', 'Low TRB', 'Low Mistakes', 'Low AST', 'Bad FT Shooter', 'Low MP'] -> ['Low FGA']
+Support: 0.16201117318435754
+Confidence: 1.0
+
+Rule #1188: ['Low FGA', 'Low TRB', 'Low Mistakes', 'Low AST', 'Bad FT Shooter', 'Low MP'] -> ['Low Defensive Impact']
+Support: 0.16201117318435754
+Confidence: 0.9830508474576272
+
+Rule #1189: ['Low FGA', 'Low Defensive Impact', 'Low TRB', 'Low Mistakes', 'Bad FT Shooter', 'Low MP'] -> ['Low AST']
+Support: 0.16201117318435754
+Confidence: 0.9508196721311476
+
+Rule #1190: ['Low MP', 'Very Low PPG'] -> ['Low FGA', 'Low Defensive Impact', 'Low TRB', 'Low Mistakes', 'Low AST']
+Support: 0.16201117318435754
+Confidence: 0.9508196721311476
+
+Rule #1191: ['Low MP', 'Low AST', 'Very Low PPG'] -> ['Low Mistakes', 'Low FGA', 'Low Defensive Impact', 'Low TRB']
+Support: 0.16201117318435754
+Confidence: 1.0
+
+Rule #1192: ['Low AST', 'Low TRB', 'Very Low PPG'] -> ['Low Mistakes', 'Low FGA', 'Low Defensive Impact', 'Low MP']
+Support: 0.16201117318435754
+Confidence: 0.90625
+
+Rule #1193: ['Low MP', 'Low Defensive Impact', 'Very Low PPG'] -> ['Low FGA', 'Low Mistakes', 'Low AST', 'Low TRB']
+Support: 0.16201117318435754
+Confidence: 0.9508196721311476
+
+Rule #1194: ['Low FGA', 'Low MP', 'Very Low PPG'] -> ['Low Mistakes', 'Low Defensive Impact', 'Low AST', 'Low TRB']
+Support: 0.16201117318435754
+Confidence: 0.9508196721311476
+
+Rule #1195: ['Low Mistakes', 'Low MP', 'Very Low PPG'] -> ['Low FGA', 'Low Defensive Impact', 'Low AST', 'Low TRB']
+Support: 0.16201117318435754
+Confidence: 0.9508196721311476
+
+Rule #1196: ['Low MP', 'Low TRB', 'Very Low PPG'] -> ['Low Mistakes', 'Low FGA', 'Low Defensive Impact', 'Low AST']
+Support: 0.16201117318435754
+Confidence: 0.9508196721311476
+
+Rule #1197: ['Low MP', 'Low Defensive Impact', 'Low AST', 'Very Low PPG'] -> ['Low FGA', 'Low Mistakes', 'Low TRB']
+Support: 0.16201117318435754
+Confidence: 1.0
+
+Rule #1198: ['Low Mistakes', 'Low Defensive Impact', 'Low AST', 'Very Low PPG'] -> ['Low FGA', 'Low MP', 'Low TRB']
+Support: 0.16201117318435754
+Confidence: 0.90625
+
+Rule #1199: ['Low Defensive Impact', 'Low AST', 'Low TRB', 'Very Low PPG'] -> ['Low MP', 'Low FGA', 'Low Mistakes']
+Support: 0.16201117318435754
+Confidence: 0.9206349206349206
+
+Rule #1200: ['Low FGA', 'Low MP', 'Low AST', 'Very Low PPG'] -> ['Low Mistakes', 'Low Defensive Impact', 'Low TRB']
+Support: 0.16201117318435754
+Confidence: 1.0
+
+Rule #1201: ['Low FGA', 'Low AST', 'Low TRB', 'Very Low PPG'] -> ['Low MP', 'Low Mistakes', 'Low Defensive Impact']
+Support: 0.16201117318435754
+Confidence: 0.90625
+
+Rule #1202: ['Low Mistakes', 'Low MP', 'Low AST', 'Very Low PPG'] -> ['Low FGA', 'Low Defensive Impact', 'Low TRB']
+Support: 0.16201117318435754
+Confidence: 1.0
+
+Rule #1203: ['Low MP', 'Low AST', 'Low TRB', 'Very Low PPG'] -> ['Low Mistakes', 'Low FGA', 'Low Defensive Impact']
+Support: 0.16201117318435754
+Confidence: 1.0
+
+Rule #1204: ['Low Mistakes', 'Low AST', 'Low TRB', 'Very Low PPG'] -> ['Low MP', 'Low FGA', 'Low Defensive Impact']
+Support: 0.16201117318435754
+Confidence: 0.90625
+
+Rule #1205: ['Low MP', 'Low FGA', 'Low Defensive Impact', 'Very Low PPG'] -> ['Low Mistakes', 'Low AST', 'Low TRB']
+Support: 0.16201117318435754
+Confidence: 0.9508196721311476
+
+Rule #1206: ['Low Mistakes', 'Low MP', 'Low Defensive Impact', 'Very Low PPG'] -> ['Low FGA', 'Low AST', 'Low TRB']
+Support: 0.16201117318435754
+Confidence: 0.9508196721311476
+
+Rule #1207: ['Low MP', 'Low Defensive Impact', 'Low TRB', 'Very Low PPG'] -> ['Low FGA', 'Low Mistakes', 'Low AST']
+Support: 0.16201117318435754
+Confidence: 0.9508196721311476
+
+Rule #1208: ['Low Mistakes', 'Low FGA', 'Low MP', 'Very Low PPG'] -> ['Low Defensive Impact', 'Low AST', 'Low TRB']
+Support: 0.16201117318435754
+Confidence: 0.9508196721311476
+
+Rule #1209: ['Low FGA', 'Low MP', 'Low TRB', 'Very Low PPG'] -> ['Low Mistakes', 'Low Defensive Impact', 'Low AST']
+Support: 0.16201117318435754
+Confidence: 0.9508196721311476
+
+Rule #1210: ['Low Mistakes', 'Low MP', 'Low TRB', 'Very Low PPG'] -> ['Low FGA', 'Low Defensive Impact', 'Low AST']
+Support: 0.16201117318435754
+Confidence: 0.9508196721311476
+
+Rule #1211: ['Low FGA', 'Low Defensive Impact', 'Very Low PPG', 'Low AST', 'Low MP'] -> ['Low Mistakes', 'Low TRB']
+Support: 0.16201117318435754
+Confidence: 1.0
+
+Rule #1212: ['Low FGA', 'Low Defensive Impact', 'Very Low PPG', 'Low Mistakes', 'Low AST'] -> ['Low MP', 'Low TRB']
+Support: 0.16201117318435754
+Confidence: 0.90625
+
+Rule #1213: ['Low FGA', 'Low Defensive Impact', 'Low TRB', 'Very Low PPG', 'Low AST'] -> ['Low Mistakes', 'Low MP']
+Support: 0.16201117318435754
+Confidence: 0.9206349206349206
+
+Rule #1214: ['Low Defensive Impact', 'Very Low PPG', 'Low Mistakes', 'Low AST', 'Low MP'] -> ['Low FGA', 'Low TRB']
+Support: 0.16201117318435754
+Confidence: 1.0
+
+Rule #1215: ['Low Defensive Impact', 'Low TRB', 'Very Low PPG', 'Low AST', 'Low MP'] -> ['Low FGA', 'Low Mistakes']
+Support: 0.16201117318435754
+Confidence: 1.0
+
+Rule #1216: ['Low Defensive Impact', 'Low TRB', 'Very Low PPG', 'Low Mistakes', 'Low AST'] -> ['Low FGA', 'Low MP']
+Support: 0.16201117318435754
+Confidence: 0.9206349206349206
+
+Rule #1217: ['Low FGA', 'Very Low PPG', 'Low Mistakes', 'Low AST', 'Low MP'] -> ['Low Defensive Impact', 'Low TRB']
+Support: 0.16201117318435754
+Confidence: 1.0
+
+Rule #1218: ['Low FGA', 'Low TRB', 'Very Low PPG', 'Low AST', 'Low MP'] -> ['Low Mistakes', 'Low Defensive Impact']
+Support: 0.16201117318435754
+Confidence: 1.0
+
+Rule #1219: ['Low FGA', 'Low TRB', 'Very Low PPG', 'Low Mistakes', 'Low AST'] -> ['Low MP', 'Low Defensive Impact']
+Support: 0.16201117318435754
+Confidence: 0.90625
+
+Rule #1220: ['Low TRB', 'Very Low PPG', 'Low Mistakes', 'Low AST', 'Low MP'] -> ['Low FGA', 'Low Defensive Impact']
+Support: 0.16201117318435754
+Confidence: 1.0
+
+Rule #1221: ['Low FGA', 'Low Defensive Impact', 'Very Low PPG', 'Low Mistakes', 'Low MP'] -> ['Low AST', 'Low TRB']
+Support: 0.16201117318435754
+Confidence: 0.9508196721311476
+
+Rule #1222: ['Low FGA', 'Low Defensive Impact', 'Low TRB', 'Very Low PPG', 'Low MP'] -> ['Low Mistakes', 'Low AST']
+Support: 0.16201117318435754
+Confidence: 0.9508196721311476
+
+Rule #1223: ['Low Defensive Impact', 'Low TRB', 'Very Low PPG', 'Low Mistakes', 'Low MP'] -> ['Low FGA', 'Low AST']
+Support: 0.16201117318435754
+Confidence: 0.9508196721311476
+
+Rule #1224: ['Low FGA', 'Low TRB', 'Very Low PPG', 'Low Mistakes', 'Low MP'] -> ['Low Defensive Impact', 'Low AST']
+Support: 0.16201117318435754
+Confidence: 0.9508196721311476
+
+Rule #1225: ['Low FGA', 'Low Defensive Impact', 'Very Low PPG', 'Low Mistakes', 'Low AST', 'Low MP'] -> ['Low TRB']
+Support: 0.16201117318435754
+Confidence: 1.0
+
+Rule #1226: ['Low FGA', 'Low Defensive Impact', 'Low TRB', 'Very Low PPG', 'Low AST', 'Low MP'] -> ['Low Mistakes']
+Support: 0.16201117318435754
+Confidence: 1.0
+
+Rule #1227: ['Low FGA', 'Low Defensive Impact', 'Low TRB', 'Very Low PPG', 'Low Mistakes', 'Low AST'] -> ['Low MP']
+Support: 0.16201117318435754
+Confidence: 0.9206349206349206
+
+Rule #1228: ['Low Defensive Impact', 'Low TRB', 'Very Low PPG', 'Low Mistakes', 'Low AST', 'Low MP'] -> ['Low FGA']
+Support: 0.16201117318435754
+Confidence: 1.0
+
+Rule #1229: ['Low FGA', 'Low TRB', 'Very Low PPG', 'Low Mistakes', 'Low AST', 'Low MP'] -> ['Low Defensive Impact']
+Support: 0.16201117318435754
+Confidence: 1.0
+
+Rule #1230: ['Low FGA', 'Low Defensive Impact', 'Low TRB', 'Very Low PPG', 'Low Mistakes', 'Low MP'] -> ['Low AST']
+Support: 0.16201117318435754
+Confidence: 0.9508196721311476
+

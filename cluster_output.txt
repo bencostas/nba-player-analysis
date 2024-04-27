@@ -1,0 +1,38 @@
+                       Cluster ID
+Player                           
+Tim Hardaway Jr.                0
+Dillon Brooks                   0
+Taurean Prince                  0
+Bojan Bogdanovi?                0
+Isaac Okoro                     0
+Chris Paul                      0
+Josh Hart                       0
+Georges Niang                   0
+Michael Porter Jr.              0
+Al Horford                      0
+Malik Beasley                   0
+Chet Holmgren                   0
+Sasha Vezenkov                  1
+Davion Mitchell                 1
+Blake Wesley                    1
+Jaylin Williams                 1
+Moses Moody                     1
+Sam Hauser                      1
+David Roddy                     1
+JaVale McGee                    1
+Andre Drummond                  1
+Max Christie                    1
+Mo Bamba                        1
+Nick Smith Jr.                  1
+Julian Champagnie               1
+Julian Strawther                1
+Skylar Mays                     1
+Johnny Davis                    1
+Kyrie Irving                    2
+Giannis Antetokounmpo           2
+Nikola Joki?                    2
+Brandon Ingram                  2
+Trae Young                      2
+Jalen Green                     2
+Julius Randle                   2
+Miles Bridges                   2
